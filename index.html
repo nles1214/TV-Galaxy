@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TV+ Galaxy - Apple TV 剧集聚合</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --bg: #0a0a0f;
+      --bg-card: #14141c;
+      --bg-hover: #1a1a24;
+      --border: #1e1e2d;
+      --border-hover: #2a2a3e;
+      --accent: #00d4aa;
+      --accent-dim: rgba(0, 212, 170, 0.1);
+      --text: #e8e8f0;
+      --text-secondary: #8b8b9a;
+      --text-muted: #5a5a6a;
+      --sidebar-bg: #0c0c12;
+      --danger: #ff6b6b;
+      --warning: #f0c040;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      display: flex;
+      min-height: 100vh;
+      line-height: 1.6;
+    }
+
+    /* ===== Sidebar ===== */
+    .sidebar {
+      width: 220px;
+      background: var(--sidebar-bg);
+      border-right: 1px solid var(--border);
+      padding: 28px 0;
+      position: fixed;
+      height: 100vh;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      z-index: 100;
+    }
+
+    .logo {
+      padding: 0 24px 28px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 16px;
+    }
+
+    .logo-icon {
+      width: 32px;
+      height: 32px;
+      background: var(--accent);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+      color: var(--bg);
+    }
+
+    .logo span { color: var(--accent); }
+
+    .nav-section {
+      padding: 0 12px;
+      margin-bottom: 8px;
+    }
+
+    .nav-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 16px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      color: var(--text-secondary);
+      font-size: 14px;
+      margin-bottom: 2px;
+    }
+
+    .nav-item:hover {
+      background: var(--bg-hover);
+      color: var(--text);
+    }
+
+    .nav-item.active {
+      background: var(--accent-dim);
+      color: var(--accent);
+    }
+
+    .nav-item svg {
+      width: 18px;
+      height: 18px;
+      flex-shrink: 0;
+      opacity: 0.7;
+    }
+
+    .nav-item.active svg { opacity: 1; }
+
+    .nav-divider {
+      height: 1px;
+      background: var(--border);
+      margin: 12px 20px;
+    }
+
+    .sidebar-footer {
+      margin-top: auto;
+      padding: 16px 24px;
+      font-size: 12px;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
+    }
+
+    /* ===== Main Content ===== */
+    .main {
+      margin-left: 220px;
+      flex: 1;
+      padding: 28px 36px;
+      max-width: calc(100% - 220px);
+    }
+
+    /* ===== Header ===== */
+    .page-header {
+      margin-bottom: 28px;
+    }
+
+    .page-header h1 {
+      font-size: 26px;
+      font-weight: 700;
+      margin-bottom: 4px;
+      letter-spacing: -0.3px;
+    }
+
+    .page-header p {
+      color: var(--text-secondary);
+      font-size: 14px;
+    }
+
+    /* ===== Filter Bar ===== */
+    .filter-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 24px;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .filter-tags {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .filter-tag {
+      padding: 6px 16px;
+      border-radius: 20px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      user-select: none;
+    }
+
+    .filter-tag:hover {
+      border-color: var(--border-hover);
+      color: var(--text);
+    }
+
+    .filter-tag.active {
+      background: var(--accent);
+      color: var(--bg);
+      border-color: var(--accent);
+      font-weight: 600;
+    }
+
+    .search-box {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 14px;
+      min-width: 240px;
+    }
+
+    .search-box input {
+      background: transparent;
+      border: none;
+      outline: none;
+      color: var(--text);
+      font-size: 13px;
+      width: 100%;
+    }
+
+    .search-box input::placeholder { color: var(--text-muted); }
+
+    .search-box svg { opacity: 0.4; flex-shrink: 0; }
+
+    /* ===== Section Title ===== */
+    .section-title {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+      font-size: 14px;
+      color: var(--text-secondary);
+    }
+
+    .section-title .date {
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    .section-title .line {
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* ===== Card Timeline ===== */
+    .timeline {
+      position: relative;
+      padding-left: 56px;
+    }
+
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 18px;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: var(--border);
+    }
+
+    /* ===== Card ===== */
+    .card {
+      position: relative;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 16px;
+      transition: all 0.25s ease;
+      cursor: pointer;
+    }
+
+    .card:hover {
+      border-color: var(--accent);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 20px rgba(0, 212, 170, 0.06);
+    }
+
+    .card-time {
+      position: absolute;
+      left: -48px;
+      top: 22px;
+      font-size: 12px;
+      color: var(--text-muted);
+      font-weight: 500;
+      text-align: right;
+      width: 40px;
+    }
+
+    .card-time::after {
+      content: '';
+      position: absolute;
+      right: -14px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 8px;
+      height: 8px;
+      background: var(--accent);
+      border-radius: 50%;
+      border: 2px solid var(--bg);
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 10px;
+    }
+
+    .card-source {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .card-source img {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    .card-source span {
+      font-size: 13px;
+      color: var(--text-secondary);
+    }
+
+    .card-badges {
+      display: flex;
+      gap: 6px;
+    }
+
+    .badge {
+      font-size: 11px;
+      padding: 3px 10px;
+      border-radius: 4px;
+      font-weight: 600;
+    }
+
+    .badge-new {
+      background: rgba(0, 212, 170, 0.12);
+      color: var(--accent);
+    }
+
+    .badge-rating {
+      background: rgba(240, 192, 64, 0.12);
+      color: var(--warning);
+    }
+
+    .badge-hot {
+      background: rgba(255, 107, 107, 0.12);
+      color: var(--danger);
+    }
+
+    .card-title {
+      font-size: 16px;
+      font-weight: 700;
+      margin-bottom: 8px;
+      line-height: 1.4;
+      color: var(--text);
+    }
+
+    .card-summary {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.7;
+      margin-bottom: 12px;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+
+    .meta-tag {
+      font-size: 11px;
+      padding: 3px 10px;
+      background: var(--bg-hover);
+      border-radius: 4px;
+      color: var(--text-muted);
+      border: 1px solid var(--border);
+    }
+
+    .card-footer {
+      padding: 10px 14px;
+      background: var(--accent-dim);
+      border-radius: 8px;
+      font-size: 12px;
+      color: var(--accent);
+      line-height: 1.6;
+      border-left: 3px solid var(--accent);
+    }
+
+    .card-footer strong {
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    /* ===== Poster Card Variant ===== */
+    .card-poster {
+      display: flex;
+      gap: 18px;
+    }
+
+    .poster-img {
+      width: 120px;
+      height: 170px;
+      border-radius: 8px;
+      object-fit: cover;
+      flex-shrink: 0;
+      background: var(--bg-hover);
+      border: 1px solid var(--border);
+    }
+
+    .poster-content {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .poster-content .card-title {
+      font-size: 17px;
+    }
+
+    /* ===== Empty State ===== */
+    .empty-state {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--text-muted);
+    }
+
+    .empty-state svg {
+      width: 64px;
+      height: 64px;
+      margin-bottom: 16px;
+      opacity: 0.3;
+    }
+
+    /* ===== Scrollbar ===== */
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--border-hover); }
+
+    /* ===== Responsive ===== */
+    @media (max-width: 768px) {
+      .sidebar { display: none; }
+      .main { margin-left: 0; max-width: 100%; padding: 20px; }
+      .timeline { padding-left: 0; }
+      .timeline::before { display: none; }
+      .card-time { display: none; }
+      .card-poster { flex-direction: column; }
+      .poster-img { width: 100%; height: 200px; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="logo">
+      <div class="logo-icon">TV</div>
+      <div>TV+ <span>Galaxy</span></div>
+    </div>
+
+    <div class="nav-section">
+      <div class="nav-item active">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg>
+        精选热播
+      </div>
+      <div class="nav-item">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
+        全部剧集
+      </div>
+      <div class="nav-item">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"></path></svg>
+        新片上线
+      </div>
+      <div class="nav-item">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"></path></svg>
+        我的追更
+      </div>
+      <div class="nav-item">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg>
+        电影库
+      </div>
+    </div>
+
+    <div class="nav-divider"></div>
+
+    <div class="nav-section">
+      <div class="nav-item">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 010 2.83 2 2 0 01-2.83 0l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-2 2 2 2 0 01-2-2v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83 0 2 2 0 010-2.83l.06-.06A1.65 1.65 0 004.68 15a1.65 1.65 0 00-1.51-1H3a2 2 0 01-2-2 2 2 0 012-2h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 010-2.83 2 2 0 012.83 0l.06.06A1.65 1.65 0 009 4.68a1.65 1.65 0 001-1.51V3a2 2 0 012-2 2 2 0 012 2v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 0 2 2 0 010 2.83l-.06.06A1.65 1.65 0 0019.4 9a1.65 1.65 0 001.51 1H21a2 2 0 012 2 2 2 0 01-2 2h-.09a1.65 1.65 0 00-1.51 1z"></path></svg>
+        更新设置
+      </div>
+      <div class="nav-item">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+        关于
+      </div>
+    </div>
+
+    <div class="sidebar-footer">
+      TV+ Galaxy v1.0<br>
+      聚合 Apple TV+ 剧集动态
+    </div>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="main">
+    <div class="page-header">
+      <h1>精选热播</h1>
+      <p>Apple TV+ 近期更新与高口碑剧集聚合</p>
+    </div>
+
+    <div class="filter-bar">
+      <div class="filter-tags">
+        <div class="filter-tag active" data-filter="all">全部</div>
+        <div class="filter-tag" data-filter="drama">剧情</div>
+        <div class="filter-tag" data-filter="scifi">科幻</div>
+        <div class="filter-tag" data-filter="thriller">悬疑</div>
+        <div class="filter-tag" data-filter="comedy">喜剧</div>
+        <div class="filter-tag" data-filter="action">动作</div>
+        <div class="filter-tag" data-filter="doc">纪录片</div>
+      </div>
+      <div class="search-box">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        <input type="text" placeholder="搜索剧集 / 演员 / 导演..." id="searchInput">
+      </div>
+    </div>
+
+    <div class="section-title">
+      <span class="date">2026年 5月</span>
+      <div class="line"></div>
+      <span>本周更新</span>
+    </div>
+
+    <div class="timeline" id="showList">
+      <!-- Cards will be rendered by JS -->
+    </div>
+  </main>
+
+  <script>
+    let shows = [];
+    let dataLoaded = false;
+
+    const showList = document.getElementById('showList');
+    const searchInput = document.getElementById('searchInput');
+    const filterTags = document.querySelectorAll('.filter-tag');
+    let currentFilter = 'all';
+    let searchTerm = '';
+
+    function getBadge(show) {
+      if (show.status === 'new') return '<span class="badge badge-new">新更</span>';
+      if (show.status === 'hot') return '<span class="badge badge-hot">热播</span>';
+      return '';
+    }
+
+    function getCategoryLabel(cat) {
+      const map = {
+        drama: '剧情', scifi: '科幻', thriller: '悬疑',
+        comedy: '喜剧', action: '动作', doc: '纪录片'
+      };
+      return map[cat] || cat;
+    }
+
+    function renderNoData() {
+      showList.innerHTML = `
+        <div class="empty-state">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+            <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"></path>
+            <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+          </svg>
+          <div style="font-size:16px; margin-bottom:8px;">暂无数据</div>
+          <div style="font-size:13px; max-width:400px; margin:0 auto;">
+            请先配置 TMDB API Key，然后运行 <code style="background:var(--bg-hover); padding:2px 6px; border-radius:4px;">scripts/update.bat</code> 拉取数据。
+            <br><br>
+            <a href="README.md" style="color:var(--accent);">查看配置说明</a>
+          </div>
+        </div>
+      `;
+    }
+
+    function renderShows() {
+      if (!dataLoaded) {
+        renderNoData();
+        return;
+      }
+
+      const filtered = shows.filter(show => {
+        const matchFilter = currentFilter === 'all' || show.category.includes(currentFilter);
+        const matchSearch = !searchTerm ||
+          show.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+          show.summary.toLowerCase().includes(searchTerm.toLowerCase()) ||
+          show.tags.some(t => t.toLowerCase().includes(searchTerm.toLowerCase()));
+        return matchFilter && matchSearch;
+      });
+
+      if (filtered.length === 0) {
+        showList.innerHTML = `
+          <div class="empty-state">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+              <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"></path>
+              <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+            </svg>
+            <div>没有找到匹配的剧集</div>
+          </div>
+        `;
+        return;
+      }
+
+      showList.innerHTML = filtered.map(show => `
+        <div class="card card-poster" data-categories="${show.category.join(' ')}">
+          <div class="card-time">${show.time}</div>
+          <img class="poster-img" src="${show.poster}" alt="${show.title}" onerror="this.style.background='var(--bg-hover)'">
+          <div class="poster-content">
+            <div class="card-header">
+              <div class="card-source">
+                <span>${show.source}</span>
+              </div>
+              <div class="card-badges">
+                ${getBadge(show)}
+                <span class="badge badge-rating">${show.rating}</span>
+              </div>
+            </div>
+            <div class="card-title">${show.title} · ${show.season}${show.episode ? ' ' + show.episode : ''}</div>
+            <div class="card-summary">${show.summary}</div>
+            <div class="card-meta">
+              ${show.tags.map(tag => `<span class="meta-tag">${tag}</span>`).join('')}
+              ${show.category.map(cat => `<span class="meta-tag">${getCategoryLabel(cat)}</span>`).join('')}
+            </div>
+            <div class="card-footer">
+              <strong>更新动态：</strong>${show.updateNote}
+            </div>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    async function loadData() {
+      try {
+        const res = await fetch('data.json');
+        if (!res.ok) throw new Error('data.json not found');
+        const data = await res.json();
+        shows = data.shows || [];
+        dataLoaded = true;
+
+        // Update section title with update time
+        const sectionTitle = document.querySelector('.section-title');
+        if (data.updatedAt && sectionTitle) {
+          const date = new Date(data.updatedAt);
+          const dateStr = `${date.getFullYear()}年 ${date.getMonth() + 1}月${date.getDate()}日`;
+          sectionTitle.querySelector('.date').textContent = dateStr;
+        }
+
+        renderShows();
+      } catch (err) {
+        console.log('No data.json found, showing setup hint');
+        renderNoData();
+      }
+    }
+
+    filterTags.forEach(tag => {
+      tag.addEventListener('click', () => {
+        filterTags.forEach(t => t.classList.remove('active'));
+        tag.classList.add('active');
+        currentFilter = tag.dataset.filter;
+        renderShows();
+      });
+    });
+
+    searchInput.addEventListener('input', (e) => {
+      searchTerm = e.target.value.trim();
+      renderShows();
+    });
+
+    loadData();
+  </script>
+</body>
+</html>

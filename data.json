@@ -1,0 +1,328 @@
+{
+  "updatedAt": "2026-05-11T12:04:13.000Z",
+  "count": 15,
+  "shows": [
+    {
+      "id": 95396,
+      "title": "Severance",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "thriller"
+      ],
+      "rating": 8.7,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/mjZq9cF5xhEntuBEIkgqZV0oD4m.jpg",
+      "summary": "故事发生在一家名为卢蒙的超级大公司内，一种名为记忆分割术的全新技术正在公司内部进行实验。接受了手术的员工将形成公司人格和日常人格——当踏进公司大门，日常人格就会陷入沉睡。马克、迪伦和埃尔文三人都接受了分离手术，新同事海莉的到来打破了平静。",
+      "updateNote": "S2已完结 | 共2季 | IMDb 8.7",
+      "time": "05-11",
+      "tags": [
+        "科幻",
+        "悬疑"
+      ],
+      "status": "hot",
+      "firstAirDate": "2022-02-18"
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "season": "S3",
+      "episode": "E12",
+      "category": [
+        "comedy",
+        "drama"
+      ],
+      "rating": 8.8,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/7BhSZqYoaydSs9AWcMm7LDYvwgG.jpg",
+      "summary": "泰德·拉索是一位美国大学橄榄球教练，尽管没有任何足球经验，却被聘请执教一支英国职业足球队。他乐观积极的态度感染着身边的每一个人，用温暖和善意打破了文化隔阂，带领团队走向意想不到的成功。",
+      "updateNote": "全3季已完结 | IMDb 8.8 | 艾美奖最佳喜剧",
+      "time": "04-15",
+      "tags": [
+        "喜剧",
+        "剧情"
+      ],
+      "status": "ended",
+      "firstAirDate": "2020-08-14"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 8.3,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "在金牌主播米奇因性丑闻被解雇后，早间新闻节目《早间秀》陷入前所未有的危机。亚历克斯·利维与新人布莱德利·杰克逊组成新搭档，在职场权力斗争、性别平等和媒体伦理的漩涡中艰难前行。詹妮弗·安妮斯顿与瑞茜·威瑟斯彭联袂主演。",
+      "updateNote": "S3已完结 | S4制作中 | IMDb 8.3",
+      "time": "05-01",
+      "tags": [
+        "剧情"
+      ],
+      "status": "hot",
+      "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 87917,
+      "title": "For All Mankind",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 8,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
+      "summary": "架空历史剧——如果苏联先于美国登月，太空竞赛从未停止，世界会变成什么样？从1969年出发，这部剧跨越数十年，描绘了一个太空探索成为人类核心事业的平行世界，以及宇航员、科学家和他们的家庭在这场宏大征程中的悲欢离合。",
+      "updateNote": "S4已完结 | S5确认续订 | IMDb 8.0",
+      "time": "04-20",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "thriller"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/xoM3lntYJzZwOBJJs5O1ix0jyfe.jpg",
+      "summary": "在后末日时代，残余的人类生活在一座巨大的地下筒仓中，这里有着严格的规则——任何想要出去的人都会被处死。工程师朱丽叶逐渐发现，关于筒仓的真相远比她想象的更加黑暗。她必须在这个充满谎言与恐惧的封闭世界中找到出路。",
+      "updateNote": "S2新季热播中 | IMDb 8.1",
+      "time": "05-09",
+      "tags": [
+        "科幻",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-05-05"
+    },
+    {
+      "id": 95480,
+      "title": "Slow Horses",
+      "season": "S4",
+      "episode": "E6",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 8.5,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/qq7CaRWC4xZXTKDSkIVuRy45fOH.jpg",
+      "summary": "在军情五处，一群被流放到斯劳部门的特工——被戏称为「慢马」——由邋遢却精明的杰克逊·兰姆带领。他们处理着最无趣的文书工作，却一次次卷入致命的间谍危机。加里·奥德曼凭借兰姆一角赢得艾美奖最佳男主角。",
+      "updateNote": "S4更新中 | S5已续订 | IMDb 8.5",
+      "time": "05-07",
+      "tags": [
+        "悬疑",
+        "谍战"
+      ],
+      "status": "hot",
+      "firstAirDate": "2022-04-01"
+    },
+    {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S2",
+      "episode": "E12",
+      "category": [
+        "comedy",
+        "drama"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "心理治疗师吉米在妻子去世后陷入悲痛，他决定打破职业准则——不再只是倾听，而是直接告诉病人他真实的想法。这种鲁莽而真诚的方法带来了一连串荒谬又温暖的连锁反应。哈里森·福特出演资深治疗师保罗，贡献了精彩的喜剧表演。",
+      "updateNote": "S2已完结 | S3待定 | IMDb 7.9",
+      "time": "04-28",
+      "tags": [
+        "喜剧",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-27"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "scifi"
+      ],
+      "rating": 7.6,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
+      "summary": "改编自艾萨克·阿西莫夫的科幻史诗。数学家哈里·谢顿预见到银河帝国即将崩溃，黑暗时代将长达三万年。他创建了「基地」——一个旨在保存知识、缩短黑暗时代的科学组织。跨越数百年的宏大叙事，帝国、基地与心理史学交织的命运。",
+      "updateNote": "S2已完结 | S3制作中 | IMDb 7.6",
+      "time": "03-10",
+      "tags": [
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-09-24"
+    },
+    {
+      "id": 110382,
+      "title": "Pachinko",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama"
+      ],
+      "rating": 8.4,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/41ktiaqjVdR3OWe1XZnKTVscU8T.jpg",
+      "summary": "改编自李敏金同名畅销小说，讲述一个韩裔移民家庭跨越四代人的史诗故事。从20世纪初日本殖民下的韩国，到二战后的日本大阪，再到1980年代的东京和纽约，家族在歧视与困境中坚韧求生。韩语、日语、英语交织的叙事语言令人动容。",
+      "updateNote": "S2已完结 | IMDb 8.4 | 金球奖提名",
+      "time": "04-05",
+      "tags": [
+        "剧情"
+      ],
+      "status": "hot",
+      "firstAirDate": "2022-03-25"
+    },
+    {
+      "id": 202411,
+      "title": "Monarch Legacy of Monsters",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "action",
+        "scifi"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
+      "summary": "设定在哥斯拉与泰坦巨兽大战之后，两兄妹跟随父亲的线索踏上环球之旅，逐渐揭开名为「君主」的神秘组织背后的真相。故事跨越20世纪50年代至今，探索人类与泰坦巨兽之间复杂的关系。怪兽宇宙系列的重要拼图。",
+      "updateNote": "S1已完结 | S2确认 | IMDb 7.5",
+      "time": "02-20",
+      "tags": [
+        "动作",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-11-17"
+    },
+    {
+      "id": 94951,
+      "title": "Mythic Quest",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "comedy"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
+      "summary": "由《费城永远阳光灿烂》团队打造的游戏行业喜剧。一家顶级游戏工作室的负责人伊恩与首席工程师波比在开发热门网游《神话Quest》的过程中冲突不断。这里有自大的创意总监、天才程序员、社区经理和氪金玩家之间的爆笑日常。",
+      "updateNote": "S3已完结 | S4续订 | IMDb 7.7",
+      "time": "03-25",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2020-02-07"
+    },
+    {
+      "id": 80752,
+      "title": "See",
+      "season": "S3",
+      "episode": "E8",
+      "category": [
+        "action",
+        "scifi"
+      ],
+      "rating": 7.6,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
+      "summary": "在未来，一场病毒毁灭了人类文明并夺走了所有人的视力。几个世纪后，人类回到了部落时代，依靠其他感官生存。一对拥有视力的双胞胎的出生打破了一切平衡。杰森·莫玛饰演他们的父亲，一位无畏的部落战士，为保护孩子而战。",
+      "updateNote": "全3季已完结 | IMDb 7.6",
+      "time": "01-30",
+      "tags": [
+        "动作",
+        "科幻"
+      ],
+      "status": "ended",
+      "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 130853,
+      "title": "Bad Monkey",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "comedy",
+        "thriller"
+      ],
+      "rating": 7.4,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/xhf51wDfNUZpYTj87JAda5PaXcD.jpg",
+      "summary": "改编自卡尔·海亚森的同名小说。前迈阿密警探安德鲁·扬基被贬到佛罗里达群岛当食品安全检查员，一次偶然发现一只漂在海上的断臂，将他卷入了一桩涉及房地产诈骗、黑帮和一只坏脾气的猴子的离奇案件。文斯·沃恩主演。",
+      "updateNote": "S1已完结 | IMDb 7.4",
+      "time": "04-10",
+      "tags": [
+        "喜剧",
+        "犯罪"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-08-14"
+    },
+    {
+      "id": 196322,
+      "title": "Dark Matter",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "scifi",
+        "thriller"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg",
+      "summary": "改编自布莱克·克劳奇的同名科幻小说。物理教授贾森·德森在街头被绑架，进入了一个平行现实——在这里，他做出了不同的人生选择，成为了截然不同的人。在两个现实之间穿梭的他，必须面对自己最黑暗的一面才能找到回家的路。",
+      "updateNote": "S1已完结 | IMDb 7.8",
+      "time": "05-05",
+      "tags": [
+        "科幻",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-05-08"
+    },
+    {
+      "id": 156933,
+      "title": "Presumed Innocent",
+      "season": "S1",
+      "episode": "E8",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://media.themoviedb.org/t/p/w300/6NmTbdNlvpKRxh5PPyj6GT8C37d.jpg",
+      "summary": "改编自斯考特·杜罗的经典法律惊悚小说。芝加哥首席副检察官拉斯蒂·萨比奇被指控谋杀了一名同事，而他们之间曾有过秘密恋情。一场轰动全城的审判就此展开，真相、谎言、背叛与正义在法庭内外激烈交锋。杰克·吉伦哈尔主演。",
+      "updateNote": "S1已完结 | IMDb 7.8",
+      "time": "04-22",
+      "tags": [
+        "悬疑",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-06-12"
+    }
+  ]
+}

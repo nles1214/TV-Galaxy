@@ -1,0 +1,7 @@
+{
+  "tmdbApiKey": "YOUR_TMDB_API_KEY_HERE",
+  "networkId": 2552,
+  "language": "zh-CN",
+  "maxShows": 50,
+  "updateIntervalHours": 24
+}
