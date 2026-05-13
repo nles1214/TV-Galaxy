@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T10:52:31.968Z",
+  "updatedAt": "2026-05-13T05:43:04.442Z",
   "count": 20,
   "shows": [
     {
@@ -119,7 +119,7 @@
       "id": 270476,
       "title": "寡妇湾",
       "season": "S1",
-      "episode": "E3",
+      "episode": "E4",
       "category": [
         "drama",
         "thriller",
@@ -129,8 +129,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
       "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "updateNote": "最新: 首游 (2026-05-05) | 下集: S1E4 2026-05-12播出 | 共 1 季",
-      "time": "05-05",
+      "updateNote": "最新: 海滩读物 (2026-05-12) | 下集: S1E5 2026-05-19播出 | 共 1 季",
+      "time": "05-12",
       "tags": [
         "剧情",
         "悬疑",
@@ -162,28 +162,6 @@
       "firstAirDate": "2026-04-14"
     },
     {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
-    },
-    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -206,6 +184,28 @@
       ],
       "status": "hot",
       "firstAirDate": "2022-02-17"
+    },
+    {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-26"
     },
     {
       "id": 97546,
@@ -237,7 +237,7 @@
       "category": [
         "drama"
       ],
-      "rating": 7.6,
+      "rating": 7.5,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
       "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
@@ -248,30 +248,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-06-28"
-    },
-    {
-      "id": 95480,
-      "title": "Slow Horses",
-      "season": "S5",
-      "episode": "E6",
-      "category": [
-        "thriller",
-        "drama",
-        "comedy"
-      ],
-      "rating": 8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/qq7CaRWC4xZXTKDSkIVuRy45fOH.jpg",
-      "summary": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
-      "updateNote": "最新: 伤痕累累 (2025-10-29) | 共 5 季",
-      "time": "10-29",
-      "tags": [
-        "犯罪",
-        "剧情",
-        "喜剧"
-      ],
-      "status": "hot",
-      "firstAirDate": "2022-04-01"
     },
     {
       "id": 80752,
@@ -296,6 +272,30 @@
       ],
       "status": "ended",
       "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 95480,
+      "title": "Slow Horses",
+      "season": "S5",
+      "episode": "E6",
+      "category": [
+        "thriller",
+        "drama",
+        "comedy"
+      ],
+      "rating": 8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/qq7CaRWC4xZXTKDSkIVuRy45fOH.jpg",
+      "summary": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
+      "updateNote": "最新: 伤痕累累 (2025-10-29) | 共 5 季",
+      "time": "10-29",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "喜剧"
+      ],
+      "status": "hot",
+      "firstAirDate": "2022-04-01"
     },
     {
       "id": 199318,
@@ -384,6 +384,28 @@
       "firstAirDate": "2025-11-06"
     },
     {
+      "id": 247767,
+      "title": "The Studio",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "comedy",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
+      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
+      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
+      "time": "05-20",
+      "tags": [
+        "喜剧",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-03-25"
+    },
+    {
       "id": 108181,
       "title": "不完美女人",
       "season": "S1",
@@ -427,26 +449,6 @@
       ],
       "status": "ended",
       "firstAirDate": "2022-07-07"
-    },
-    {
-      "id": 196890,
-      "title": "战酋",
-      "season": "S1",
-      "episode": "E9",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9c0hsTk1jGMF4v62qFHTmzDxLDp.jpg",
-      "summary": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
-      "updateNote": "最新: 黑色沙漠 (2025-09-18) | 共 1 季",
-      "time": "09-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "ended",
-      "firstAirDate": "2025-07-31"
     }
   ]
 }
