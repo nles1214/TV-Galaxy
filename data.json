@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T05:43:04.442Z",
+  "updatedAt": "2026-05-14T05:42:16.306Z",
   "count": 20,
   "shows": [
     {
@@ -143,17 +143,17 @@
       "id": 245318,
       "title": "玛戈没钱了",
       "season": "S1",
-      "episode": "E6",
+      "episode": "E7",
       "category": [
         "drama",
         "comedy"
       ],
-      "rating": 7.9,
+      "rating": 8,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
       "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
-      "updateNote": "最新: 恩怨对决 (2026-05-05) | 下集: S1E7 2026-05-12播出 | 共 1 季",
-      "time": "05-05",
+      "updateNote": "最新: 金臂钩重摔 (2026-05-12) | 下集: S1E8 2026-05-19播出 | 共 1 季",
+      "time": "05-12",
       "tags": [
         "剧情",
         "喜剧"
@@ -208,6 +208,26 @@
       "firstAirDate": "2023-01-26"
     },
     {
+      "id": 198102,
+      "title": "历劫惊途",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
+      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
+      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
+      "time": "03-04",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-06-28"
+    },
+    {
       "id": 97546,
       "title": "Ted Lasso",
       "season": "S4",
@@ -230,48 +250,26 @@
       "firstAirDate": "2020-08-14"
     },
     {
-      "id": 198102,
-      "title": "历劫惊途",
+      "id": 199318,
+      "title": "Bad Sisters",
       "season": "S2",
       "episode": "E8",
       "category": [
-        "drama"
+        "drama",
+        "thriller"
       ],
       "rating": 7.5,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
-      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
-      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
-      "time": "03-04",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-06-28"
-    },
-    {
-      "id": 80752,
-      "title": "See",
-      "season": "S3",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "scifi",
-        "action"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
-      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
-      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
-      "time": "10-13",
+      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
+      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
+      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
+      "time": "12-24",
       "tags": [
         "剧情",
-        "科幻",
-        "动作"
+        "犯罪"
       ],
       "status": "ended",
-      "firstAirDate": "2019-11-01"
+      "firstAirDate": "2022-08-19"
     },
     {
       "id": 95480,
@@ -298,26 +296,28 @@
       "firstAirDate": "2022-04-01"
     },
     {
-      "id": 199318,
-      "title": "Bad Sisters",
-      "season": "S2",
+      "id": 80752,
+      "title": "See",
+      "season": "S3",
       "episode": "E8",
       "category": [
         "drama",
-        "thriller"
+        "scifi",
+        "action"
       ],
-      "rating": 7.5,
+      "rating": 8.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
+      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
+      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
+      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
+      "time": "10-13",
       "tags": [
         "剧情",
-        "犯罪"
+        "科幻",
+        "动作"
       ],
       "status": "ended",
-      "firstAirDate": "2022-08-19"
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 127235,
@@ -384,28 +384,6 @@
       "firstAirDate": "2025-11-06"
     },
     {
-      "id": 247767,
-      "title": "The Studio",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "comedy",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
-      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
-      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
-      "time": "05-20",
-      "tags": [
-        "喜剧",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-03-25"
-    },
-    {
       "id": 108181,
       "title": "不完美女人",
       "season": "S1",
@@ -427,6 +405,28 @@
       ],
       "status": "ended",
       "firstAirDate": "2026-03-17"
+    },
+    {
+      "id": 247767,
+      "title": "The Studio",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "comedy",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
+      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
+      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
+      "time": "05-20",
+      "tags": [
+        "喜剧",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-03-25"
     },
     {
       "id": 155537,
