@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T05:49:16.559Z",
+  "updatedAt": "2026-05-16T05:21:48.591Z",
   "count": 20,
   "shows": [
     {
@@ -50,52 +50,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
-      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
-      "time": "09-11",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-09-23"
-    },
-    {
-      "id": 270476,
-      "title": "寡妇湾",
-      "season": "S1",
-      "episode": "E4",
-      "category": [
-        "drama",
-        "thriller",
-        "comedy"
-      ],
-      "rating": 8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "updateNote": "最新: 海滩读物 (2026-05-12) | 下集: S1E5 2026-05-19播出 | 共 1 季",
-      "time": "05-12",
-      "tags": [
-        "剧情",
-        "悬疑",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-04-28"
-    },
-    {
       "id": 125988,
       "title": "末日地堡",
       "season": "S3",
@@ -116,6 +70,52 @@
       ],
       "status": "new",
       "firstAirDate": "2023-05-04"
+    },
+    {
+      "id": 270476,
+      "title": "寡妇湾",
+      "season": "S1",
+      "episode": "E4",
+      "category": [
+        "drama",
+        "thriller",
+        "comedy"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
+      "updateNote": "最新: 海滩读物 (2026-05-12) | 下集: S1E5 2026-05-19播出 | 共 1 季",
+      "time": "05-12",
+      "tags": [
+        "剧情",
+        "悬疑",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-04-28"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
+      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
+      "time": "09-11",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-09-23"
     },
     {
       "id": 245318,
@@ -228,50 +228,6 @@
       "firstAirDate": "2023-06-28"
     },
     {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
-    },
-    {
-      "id": 199318,
-      "title": "Bad Sisters",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2022-08-19"
-    },
-    {
       "id": 80752,
       "title": "See",
       "season": "S3",
@@ -318,6 +274,50 @@
       ],
       "status": "hot",
       "firstAirDate": "2022-04-01"
+    },
+    {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-26"
+    },
+    {
+      "id": 199318,
+      "title": "Bad Sisters",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
+      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
+      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
+      "time": "12-24",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "ended",
+      "firstAirDate": "2022-08-19"
     },
     {
       "id": 127235,
@@ -384,29 +384,6 @@
       "firstAirDate": "2025-11-06"
     },
     {
-      "id": 108181,
-      "title": "不完美女人",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 6.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/fhBKciCGxjWe3aEikM39yYwt1fN.jpg",
-      "summary": "一宗谋杀案摧毁了三位好友的人生之后，随着调查揭露出惊人真相，她们数十年的情谊亦面临考验。",
-      "updateNote": "最新: 桥梁 (2026-04-28) | 共 1 季",
-      "time": "04-28",
-      "tags": [
-        "剧情",
-        "悬疑",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-03-17"
-    },
-    {
       "id": 46518,
       "title": "Masters of the Air",
       "season": "S1",
@@ -428,26 +405,46 @@
       "firstAirDate": "2024-01-25"
     },
     {
-      "id": 155537,
-      "title": "Black Bird",
-      "season": "S1",
-      "episode": "E6",
+      "id": 94951,
+      "title": "神话任务",
+      "season": "S4",
+      "episode": "E10",
       "category": [
-        "drama",
-        "thriller"
+        "comedy"
       ],
-      "rating": 8.1,
+      "rating": 7.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/qu312pwM61NPTr7nexvovCClDNP.jpg",
-      "summary": "吉米·基恩（塔伦·埃哲顿 饰）出生在芝加哥，是一名警察的儿子。他曾是一名出色的橄榄球球手，并朝着职业道路发展。而他犯的错使他被判 10 年监禁，无假释机会。检察官给他一个将功补过的机会，但风险很高。有一个叫拉里·霍尔（保罗·沃尔特·豪泽 饰）的人绑架和谋杀了一个 15 岁女孩，而这个女孩仅仅是他过往杀害的 19 名女性之一，由于证据不足，霍尔或将被释放，基恩的任务就是在狱中让霍尔承认他的谋杀行为。",
-      "updateNote": "最新: 你的承诺 (2022-08-04) | 共 1 季",
-      "time": "08-04",
+      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
+      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
+      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
+      "time": "03-25",
       "tags": [
-        "剧情",
-        "犯罪"
+        "喜剧"
       ],
       "status": "ended",
-      "firstAirDate": "2022-07-07"
+      "firstAirDate": "2020-02-07"
+    },
+    {
+      "id": 247767,
+      "title": "The Studio",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "comedy",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
+      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
+      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
+      "time": "05-20",
+      "tags": [
+        "喜剧",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-03-25"
     }
   ]
 }
