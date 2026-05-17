@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T05:21:48.591Z",
+  "updatedAt": "2026-05-17T05:43:04.790Z",
   "count": 20,
   "shows": [
     {
@@ -50,52 +50,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 125988,
-      "title": "末日地堡",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xoM3lntYJzZwOBJJs5O1ix0jyfe.jpg",
-      "summary": "该剧基于休·豪伊所著同名畅销科幻系列小说改编，在一个满目疮痍、有毒物质遍布的未来世界中，成千上万的人居住在深埋在地下的巨大筒仓里。在警长违反了一项基本规则以及有些居民神秘死亡后，工程师朱丽叶开始揭开惊人的秘密和筒仓的真相。",
-      "updateNote": "最新: 进入火焰 (2025-01-16) | 下集: S3E1 2026-07-02播出 | 共 3 季",
-      "time": "01-16",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-05-04"
-    },
-    {
-      "id": 270476,
-      "title": "寡妇湾",
-      "season": "S1",
-      "episode": "E4",
-      "category": [
-        "drama",
-        "thriller",
-        "comedy"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "updateNote": "最新: 海滩读物 (2026-05-12) | 下集: S1E5 2026-05-19播出 | 共 1 季",
-      "time": "05-12",
-      "tags": [
-        "剧情",
-        "悬疑",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-04-28"
-    },
-    {
       "id": 93740,
       "title": "Foundation",
       "season": "S3",
@@ -118,26 +72,28 @@
       "firstAirDate": "2021-09-23"
     },
     {
-      "id": 245318,
-      "title": "玛戈没钱了",
+      "id": 270476,
+      "title": "寡妇湾",
       "season": "S1",
-      "episode": "E7",
+      "episode": "E4",
       "category": [
         "drama",
+        "thriller",
         "comedy"
       ],
-      "rating": 8,
+      "rating": 8.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
-      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
-      "updateNote": "最新: 金臂钩重摔 (2026-05-12) | 下集: S1E8 2026-05-19播出 | 共 1 季",
+      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
+      "updateNote": "最新: 海滩读物 (2026-05-12) | 下集: S1E5 2026-05-19播出 | 共 1 季",
       "time": "05-12",
       "tags": [
         "剧情",
+        "悬疑",
         "喜剧"
       ],
       "status": "new",
-      "firstAirDate": "2026-04-14"
+      "firstAirDate": "2026-04-28"
     },
     {
       "id": 241609,
@@ -162,6 +118,50 @@
       "firstAirDate": "2025-04-10"
     },
     {
+      "id": 125988,
+      "title": "末日地堡",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/xoM3lntYJzZwOBJJs5O1ix0jyfe.jpg",
+      "summary": "该剧基于休·豪伊所著同名畅销科幻系列小说改编，在一个满目疮痍、有毒物质遍布的未来世界中，成千上万的人居住在深埋在地下的巨大筒仓里。在警长违反了一项基本规则以及有些居民神秘死亡后，工程师朱丽叶开始揭开惊人的秘密和筒仓的真相。",
+      "updateNote": "最新: 进入火焰 (2025-01-16) | 下集: S3E1 2026-07-02播出 | 共 3 季",
+      "time": "01-16",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-05-04"
+    },
+    {
+      "id": 245318,
+      "title": "玛戈没钱了",
+      "season": "S1",
+      "episode": "E7",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
+      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
+      "updateNote": "最新: 金臂钩重摔 (2026-05-12) | 下集: S1E8 2026-05-19播出 | 共 1 季",
+      "time": "05-12",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-04-14"
+    },
+    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -184,6 +184,28 @@
       ],
       "status": "hot",
       "firstAirDate": "2022-02-17"
+    },
+    {
+      "id": 199318,
+      "title": "Bad Sisters",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
+      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
+      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
+      "time": "12-24",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "ended",
+      "firstAirDate": "2022-08-19"
     },
     {
       "id": 97546,
@@ -228,28 +250,26 @@
       "firstAirDate": "2023-06-28"
     },
     {
-      "id": 80752,
-      "title": "See",
+      "id": 136311,
+      "title": "Shrinking",
       "season": "S3",
-      "episode": "E8",
+      "episode": "E11",
       "category": [
         "drama",
-        "scifi",
-        "action"
+        "comedy"
       ],
-      "rating": 8.1,
+      "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
-      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
-      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
-      "time": "10-13",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
       "tags": [
         "剧情",
-        "科幻",
-        "动作"
+        "喜剧"
       ],
-      "status": "ended",
-      "firstAirDate": "2019-11-01"
+      "status": "new",
+      "firstAirDate": "2023-01-26"
     },
     {
       "id": 95480,
@@ -276,48 +296,28 @@
       "firstAirDate": "2022-04-01"
     },
     {
-      "id": 136311,
-      "title": "Shrinking",
+      "id": 80752,
+      "title": "See",
       "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
-    },
-    {
-      "id": 199318,
-      "title": "Bad Sisters",
-      "season": "S2",
       "episode": "E8",
       "category": [
         "drama",
-        "thriller"
+        "scifi",
+        "action"
       ],
-      "rating": 7.5,
+      "rating": 8.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
+      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
+      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
+      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
+      "time": "10-13",
       "tags": [
         "剧情",
-        "犯罪"
+        "科幻",
+        "动作"
       ],
       "status": "ended",
-      "firstAirDate": "2022-08-19"
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 127235,
@@ -362,6 +362,26 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 196890,
+      "title": "战酋",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/9c0hsTk1jGMF4v62qFHTmzDxLDp.jpg",
+      "summary": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
+      "updateNote": "最新: 黑色沙漠 (2025-09-18) | 共 1 季",
+      "time": "09-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "ended",
+      "firstAirDate": "2025-07-31"
+    },
+    {
       "id": 225171,
       "title": "Pluribus",
       "season": "S1",
@@ -384,6 +404,28 @@
       "firstAirDate": "2025-11-06"
     },
     {
+      "id": 221079,
+      "title": "失序边缘",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/hKOPr8nj2BcrhqxBtHE281BO5td.jpg",
+      "summary": "一架监狱运输机在偏远的阿拉斯加荒野坠毁，数十名暴力囚犯因而获得自由，而该地区单枪匹马的警长必须保护他誓言要守护的小镇。",
+      "updateNote": "最新: 四面楚歌 (2025-12-04) | 共 1 季",
+      "time": "12-04",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "ended",
+      "firstAirDate": "2025-10-09"
+    },
+    {
       "id": 46518,
       "title": "Masters of the Air",
       "season": "S1",
@@ -403,48 +445,6 @@
       ],
       "status": "ended",
       "firstAirDate": "2024-01-25"
-    },
-    {
-      "id": 94951,
-      "title": "神话任务",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "comedy"
-      ],
-      "rating": 7.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
-      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
-      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
-      "time": "03-25",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "ended",
-      "firstAirDate": "2020-02-07"
-    },
-    {
-      "id": 247767,
-      "title": "The Studio",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "comedy",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
-      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
-      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
-      "time": "05-20",
-      "tags": [
-        "喜剧",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-03-25"
     }
   ]
 }
