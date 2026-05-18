@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T05:43:04.790Z",
+  "updatedAt": "2026-05-18T06:06:48.295Z",
   "count": 20,
   "shows": [
     {
@@ -12,7 +12,7 @@
         "drama",
         "action"
       ],
-      "rating": 7.7,
+      "rating": 7.8,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
       "summary": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
@@ -81,7 +81,7 @@
         "thriller",
         "comedy"
       ],
-      "rating": 8.2,
+      "rating": 8.3,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
       "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
@@ -94,28 +94,6 @@
       ],
       "status": "new",
       "firstAirDate": "2026-04-28"
-    },
-    {
-      "id": 241609,
-      "title": "掩耳盗邻",
-      "season": "S2",
-      "episode": "E7",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.6,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/ocTMWTsjqSd2j6AbTfWS7cBoDgV.jpg",
-      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
-      "updateNote": "最新: 东岸之旅 (2026-05-14) | 下集: S2E8 2026-05-21播出 | 共 2 季",
-      "time": "05-14",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-04-10"
     },
     {
       "id": 125988,
@@ -140,26 +118,48 @@
       "firstAirDate": "2023-05-04"
     },
     {
-      "id": 245318,
-      "title": "玛戈没钱了",
-      "season": "S1",
+      "id": 241609,
+      "title": "掩耳盗邻",
+      "season": "S2",
       "episode": "E7",
       "category": [
         "drama",
-        "comedy"
+        "thriller"
       ],
-      "rating": 8.1,
+      "rating": 7.6,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
-      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
-      "updateNote": "最新: 金臂钩重摔 (2026-05-12) | 下集: S1E8 2026-05-19播出 | 共 1 季",
-      "time": "05-12",
+      "poster": "https://image.tmdb.org/t/p/w300/ocTMWTsjqSd2j6AbTfWS7cBoDgV.jpg",
+      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+      "updateNote": "最新: 东岸之旅 (2026-05-14) | 下集: S2E8 2026-05-21播出 | 共 2 季",
+      "time": "05-14",
       "tags": [
         "剧情",
-        "喜剧"
+        "犯罪"
       ],
       "status": "new",
-      "firstAirDate": "2026-04-14"
+      "firstAirDate": "2025-04-10"
+    },
+    {
+      "id": 199318,
+      "title": "Bad Sisters",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
+      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
+      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
+      "time": "12-24",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "ended",
+      "firstAirDate": "2022-08-19"
     },
     {
       "id": 95396,
@@ -186,26 +186,50 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 199318,
-      "title": "Bad Sisters",
-      "season": "S2",
-      "episode": "E8",
+      "id": 245318,
+      "title": "玛戈没钱了",
+      "season": "S1",
+      "episode": "E7",
       "category": [
         "drama",
-        "thriller"
+        "comedy"
       ],
-      "rating": 7.5,
+      "rating": 8.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
+      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
+      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
+      "updateNote": "最新: 金臂钩重摔 (2026-05-12) | 下集: S1E8 2026-05-19播出 | 共 1 季",
+      "time": "05-12",
       "tags": [
         "剧情",
-        "犯罪"
+        "喜剧"
       ],
-      "status": "ended",
-      "firstAirDate": "2022-08-19"
+      "status": "new",
+      "firstAirDate": "2026-04-14"
+    },
+    {
+      "id": 95480,
+      "title": "Slow Horses",
+      "season": "S5",
+      "episode": "E6",
+      "category": [
+        "thriller",
+        "drama",
+        "comedy"
+      ],
+      "rating": 8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/qq7CaRWC4xZXTKDSkIVuRy45fOH.jpg",
+      "summary": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
+      "updateNote": "最新: 伤痕累累 (2025-10-29) | 共 5 季",
+      "time": "10-29",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "喜剧"
+      ],
+      "status": "hot",
+      "firstAirDate": "2022-04-01"
     },
     {
       "id": 97546,
@@ -270,30 +294,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-01-26"
-    },
-    {
-      "id": 95480,
-      "title": "Slow Horses",
-      "season": "S5",
-      "episode": "E6",
-      "category": [
-        "thriller",
-        "drama",
-        "comedy"
-      ],
-      "rating": 8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/qq7CaRWC4xZXTKDSkIVuRy45fOH.jpg",
-      "summary": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
-      "updateNote": "最新: 伤痕累累 (2025-10-29) | 共 5 季",
-      "time": "10-29",
-      "tags": [
-        "犯罪",
-        "剧情",
-        "喜剧"
-      ],
-      "status": "hot",
-      "firstAirDate": "2022-04-01"
     },
     {
       "id": 80752,
@@ -362,26 +362,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 196890,
-      "title": "战酋",
-      "season": "S1",
-      "episode": "E9",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9c0hsTk1jGMF4v62qFHTmzDxLDp.jpg",
-      "summary": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
-      "updateNote": "最新: 黑色沙漠 (2025-09-18) | 共 1 季",
-      "time": "09-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "ended",
-      "firstAirDate": "2025-07-31"
-    },
-    {
       "id": 225171,
       "title": "Pluribus",
       "season": "S1",
@@ -404,47 +384,69 @@
       "firstAirDate": "2025-11-06"
     },
     {
-      "id": 221079,
-      "title": "失序边缘",
-      "season": "S1",
+      "id": 94951,
+      "title": "神话任务",
+      "season": "S4",
       "episode": "E10",
+      "category": [
+        "comedy"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
+      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
+      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
+      "time": "03-25",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "ended",
+      "firstAirDate": "2020-02-07"
+    },
+    {
+      "id": 108181,
+      "title": "不完美女人",
+      "season": "S1",
+      "episode": "E8",
       "category": [
         "drama",
         "thriller"
       ],
-      "rating": 7.1,
+      "rating": 6.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hKOPr8nj2BcrhqxBtHE281BO5td.jpg",
-      "summary": "一架监狱运输机在偏远的阿拉斯加荒野坠毁，数十名暴力囚犯因而获得自由，而该地区单枪匹马的警长必须保护他誓言要守护的小镇。",
-      "updateNote": "最新: 四面楚歌 (2025-12-04) | 共 1 季",
-      "time": "12-04",
+      "poster": "https://image.tmdb.org/t/p/w300/fhBKciCGxjWe3aEikM39yYwt1fN.jpg",
+      "summary": "一宗谋杀案摧毁了三位好友的人生之后，随着调查揭露出惊人真相，她们数十年的情谊亦面临考验。",
+      "updateNote": "最新: 桥梁 (2026-04-28) | 共 1 季",
+      "time": "04-28",
       "tags": [
         "剧情",
+        "悬疑",
         "犯罪"
       ],
       "status": "ended",
-      "firstAirDate": "2025-10-09"
+      "firstAirDate": "2026-03-17"
     },
     {
-      "id": 46518,
-      "title": "Masters of the Air",
-      "season": "S1",
-      "episode": "E9",
+      "id": 247767,
+      "title": "The Studio",
+      "season": "S2",
+      "episode": "E10",
       "category": [
+        "comedy",
         "drama"
       ],
-      "rating": 7.8,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/tkFcrE81n1fmNBSE71gZeT56MVi.jpg",
-      "summary": "本剧由《兄弟连》和《太平洋战争》的制片人史蒂文·斯皮尔伯格、汤姆·汉克斯和加里·高兹曼联袂打造。第二次世界大战期间，第100轰炸机大队的飞行员出生入死，用勇气、牺牲和胜利建立一段兄弟情谊。",
-      "updateNote": "最新: 第 9 集 (2024-03-14) | 共 1 季",
-      "time": "03-14",
+      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
+      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
+      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
+      "time": "05-20",
       "tags": [
-        "剧情",
-        "War & Politics"
+        "喜剧",
+        "剧情"
       ],
-      "status": "ended",
-      "firstAirDate": "2024-01-25"
+      "status": "new",
+      "firstAirDate": "2025-03-25"
     }
   ]
 }
