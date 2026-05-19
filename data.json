@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T06:06:48.295Z",
+  "updatedAt": "2026-05-19T06:00:35.847Z",
   "count": 20,
   "shows": [
     {
@@ -50,6 +50,30 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 270476,
+      "title": "寡妇湾",
+      "season": "S1",
+      "episode": "E4",
+      "category": [
+        "drama",
+        "thriller",
+        "comedy"
+      ],
+      "rating": 8.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
+      "updateNote": "最新: 海滩读物 (2026-05-12) | 下集: S1E5 2026-05-19播出 | 共 1 季",
+      "time": "05-12",
+      "tags": [
+        "剧情",
+        "悬疑",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-04-28"
+    },
+    {
       "id": 93740,
       "title": "Foundation",
       "season": "S3",
@@ -70,30 +94,6 @@
       ],
       "status": "new",
       "firstAirDate": "2021-09-23"
-    },
-    {
-      "id": 270476,
-      "title": "寡妇湾",
-      "season": "S1",
-      "episode": "E4",
-      "category": [
-        "drama",
-        "thriller",
-        "comedy"
-      ],
-      "rating": 8.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "updateNote": "最新: 海滩读物 (2026-05-12) | 下集: S1E5 2026-05-19播出 | 共 1 季",
-      "time": "05-12",
-      "tags": [
-        "剧情",
-        "悬疑",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-04-28"
     },
     {
       "id": 125988,
@@ -254,48 +254,6 @@
       "firstAirDate": "2020-08-14"
     },
     {
-      "id": 198102,
-      "title": "历劫惊途",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
-      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
-      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
-      "time": "03-04",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-06-28"
-    },
-    {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
-    },
-    {
       "id": 80752,
       "title": "See",
       "season": "S3",
@@ -320,6 +278,48 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-26"
+    },
+    {
+      "id": 198102,
+      "title": "历劫惊途",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
+      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
+      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
+      "time": "03-04",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-06-28"
+    },
+    {
       "id": 127235,
       "title": "Invasion",
       "season": "S3",
@@ -340,26 +340,6 @@
       ],
       "status": "new",
       "firstAirDate": "2021-10-21"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
     },
     {
       "id": 225171,
@@ -384,24 +364,24 @@
       "firstAirDate": "2025-11-06"
     },
     {
-      "id": 94951,
-      "title": "神话任务",
+      "id": 90282,
+      "title": "The Morning Show",
       "season": "S4",
       "episode": "E10",
       "category": [
-        "comedy"
+        "drama"
       ],
-      "rating": 7.2,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
-      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
-      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
-      "time": "03-25",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
+      "time": "11-18",
       "tags": [
-        "喜剧"
+        "剧情"
       ],
-      "status": "ended",
-      "firstAirDate": "2020-02-07"
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 108181,
@@ -427,26 +407,45 @@
       "firstAirDate": "2026-03-17"
     },
     {
-      "id": 247767,
-      "title": "The Studio",
-      "season": "S2",
+      "id": 94951,
+      "title": "神话任务",
+      "season": "S4",
       "episode": "E10",
       "category": [
-        "comedy",
+        "comedy"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
+      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
+      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
+      "time": "03-25",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "ended",
+      "firstAirDate": "2020-02-07"
+    },
+    {
+      "id": 46518,
+      "title": "Masters of the Air",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
         "drama"
       ],
-      "rating": 7.7,
+      "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
-      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
-      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
-      "time": "05-20",
+      "poster": "https://image.tmdb.org/t/p/w300/tkFcrE81n1fmNBSE71gZeT56MVi.jpg",
+      "summary": "本剧由《兄弟连》和《太平洋战争》的制片人史蒂文·斯皮尔伯格、汤姆·汉克斯和加里·高兹曼联袂打造。第二次世界大战期间，第100轰炸机大队的飞行员出生入死，用勇气、牺牲和胜利建立一段兄弟情谊。",
+      "updateNote": "最新: 第 9 集 (2024-03-14) | 共 1 季",
+      "time": "03-14",
       "tags": [
-        "喜剧",
-        "剧情"
+        "剧情",
+        "War & Politics"
       ],
-      "status": "new",
-      "firstAirDate": "2025-03-25"
+      "status": "ended",
+      "firstAirDate": "2024-01-25"
     }
   ]
 }
