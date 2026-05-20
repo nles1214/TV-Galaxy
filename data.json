@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-19T06:00:35.847Z",
+  "updatedAt": "2026-05-20T16:22:26.490Z",
   "count": 20,
   "shows": [
+    {
+      "id": 270476,
+      "title": "寡妇湾",
+      "season": "S1",
+      "episode": "E5",
+      "category": [
+        "drama",
+        "thriller",
+        "comedy"
+      ],
+      "rating": 8.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
+      "updateNote": "最新: 旅程须知 (2026-05-19) | 下集: S1E6 2026-05-26播出 | 共 1 季",
+      "time": "05-19",
+      "tags": [
+        "剧情",
+        "悬疑",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-04-28"
+    },
     {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
@@ -50,30 +74,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 270476,
-      "title": "寡妇湾",
-      "season": "S1",
-      "episode": "E4",
-      "category": [
-        "drama",
-        "thriller",
-        "comedy"
-      ],
-      "rating": 8.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "updateNote": "最新: 海滩读物 (2026-05-12) | 下集: S1E5 2026-05-19播出 | 共 1 季",
-      "time": "05-12",
-      "tags": [
-        "剧情",
-        "悬疑",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-04-28"
-    },
-    {
       "id": 93740,
       "title": "Foundation",
       "season": "S3",
@@ -94,6 +94,28 @@
       ],
       "status": "new",
       "firstAirDate": "2021-09-23"
+    },
+    {
+      "id": 199318,
+      "title": "Bad Sisters",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
+      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
+      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
+      "time": "12-24",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "ended",
+      "firstAirDate": "2022-08-19"
     },
     {
       "id": 125988,
@@ -140,28 +162,6 @@
       "firstAirDate": "2025-04-10"
     },
     {
-      "id": 199318,
-      "title": "Bad Sisters",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2022-08-19"
-    },
-    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -186,25 +186,47 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 245318,
-      "title": "玛戈没钱了",
-      "season": "S1",
-      "episode": "E7",
+      "id": 97546,
+      "title": "Ted Lasso",
+      "season": "S4",
+      "episode": "E12",
       "category": [
         "drama",
         "comedy"
       ],
-      "rating": 8.1,
+      "rating": 8.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
-      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
-      "updateNote": "最新: 金臂钩重摔 (2026-05-12) | 下集: S1E8 2026-05-19播出 | 共 1 季",
-      "time": "05-12",
+      "poster": "https://image.tmdb.org/t/p/w300/7BhSZqYoaydSs9AWcMm7LDYvwgG.jpg",
+      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
+      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
+      "time": "05-30",
       "tags": [
         "剧情",
         "喜剧"
       ],
       "status": "new",
+      "firstAirDate": "2020-08-14"
+    },
+    {
+      "id": 245318,
+      "title": "玛戈没钱了",
+      "season": "S1",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
+      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
+      "updateNote": "最新: 蓄势待发 (2026-05-19) | 共 1 季",
+      "time": "05-19",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "hot",
       "firstAirDate": "2026-04-14"
     },
     {
@@ -230,28 +252,6 @@
       ],
       "status": "hot",
       "firstAirDate": "2022-04-01"
-    },
-    {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "season": "S4",
-      "episode": "E12",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 8.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/7BhSZqYoaydSs9AWcMm7LDYvwgG.jpg",
-      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
-      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
-      "time": "05-30",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2020-08-14"
     },
     {
       "id": 80752,
@@ -300,26 +300,6 @@
       "firstAirDate": "2023-01-26"
     },
     {
-      "id": 198102,
-      "title": "历劫惊途",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
-      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
-      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
-      "time": "03-04",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-06-28"
-    },
-    {
       "id": 127235,
       "title": "Invasion",
       "season": "S3",
@@ -340,6 +320,46 @@
       ],
       "status": "new",
       "firstAirDate": "2021-10-21"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 198102,
+      "title": "历劫惊途",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
+      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
+      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
+      "time": "03-04",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-06-28"
     },
     {
       "id": 225171,
@@ -364,47 +384,26 @@
       "firstAirDate": "2025-11-06"
     },
     {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S4",
+      "id": 247767,
+      "title": "The Studio",
+      "season": "S2",
       "episode": "E10",
       "category": [
+        "comedy",
         "drama"
       ],
       "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
-      "time": "11-18",
+      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
+      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
+      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
+      "time": "05-20",
       "tags": [
+        "喜剧",
         "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 108181,
-      "title": "不完美女人",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 6.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/fhBKciCGxjWe3aEikM39yYwt1fN.jpg",
-      "summary": "一宗谋杀案摧毁了三位好友的人生之后，随着调查揭露出惊人真相，她们数十年的情谊亦面临考验。",
-      "updateNote": "最新: 桥梁 (2026-04-28) | 共 1 季",
-      "time": "04-28",
-      "tags": [
-        "剧情",
-        "悬疑",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-03-17"
+      "firstAirDate": "2025-03-25"
     },
     {
       "id": 94951,
