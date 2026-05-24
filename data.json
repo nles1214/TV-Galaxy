@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T05:34:18.932Z",
+  "updatedAt": "2026-05-24T05:55:43.528Z",
   "count": 20,
   "shows": [
     {
@@ -24,6 +24,28 @@
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
+      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
+      "time": "09-11",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-09-23"
     },
     {
       "id": 202411,
@@ -59,7 +81,7 @@
         "thriller",
         "comedy"
       ],
-      "rating": 8.3,
+      "rating": 8.4,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
       "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
@@ -96,24 +118,26 @@
       "firstAirDate": "2023-05-04"
     },
     {
-      "id": 285404,
-      "title": "极乐布局",
-      "season": "S1",
-      "episode": "E2",
+      "id": 199318,
+      "title": "Bad Sisters",
+      "season": "S2",
+      "episode": "E8",
       "category": [
-        "comedy"
+        "drama",
+        "thriller"
       ],
-      "rating": 6.8,
+      "rating": 7.5,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mLLfG5caoX2oA59saA14gQGq6Vy.jpg",
-      "summary": "刚离婚成为单身母亲的宝拉意外陷入牵涉勒索、谋杀和青少年足球的危险漩涡之中。",
-      "updateNote": "最新: 狠角 (2026-05-19) | 下集: S1E3 2026-05-26播出 | 共 1 季",
-      "time": "05-19",
+      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
+      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
+      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
+      "time": "12-24",
       "tags": [
-        "喜剧"
+        "剧情",
+        "犯罪"
       ],
-      "status": "new",
-      "firstAirDate": "2026-05-19"
+      "status": "ended",
+      "firstAirDate": "2022-08-19"
     },
     {
       "id": 245318,
@@ -138,50 +162,6 @@
       "firstAirDate": "2026-04-14"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
-      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
-      "time": "09-11",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-09-23"
-    },
-    {
-      "id": 199318,
-      "title": "Bad Sisters",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2022-08-19"
-    },
-    {
       "id": 241609,
       "title": "掩耳盗邻",
       "season": "S2",
@@ -202,6 +182,26 @@
       ],
       "status": "new",
       "firstAirDate": "2025-04-10"
+    },
+    {
+      "id": 285404,
+      "title": "极乐布局",
+      "season": "S1",
+      "episode": "E2",
+      "category": [
+        "comedy"
+      ],
+      "rating": 4.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mLLfG5caoX2oA59saA14gQGq6Vy.jpg",
+      "summary": "刚离婚成为单身母亲的宝拉意外陷入牵涉勒索、谋杀和青少年足球的危险漩涡之中。",
+      "updateNote": "最新: 狠角 (2026-05-19) | 下集: S1E3 2026-05-26播出 | 共 1 季",
+      "time": "05-19",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-05-19"
     },
     {
       "id": 95396,
@@ -424,26 +424,24 @@
       "firstAirDate": "2020-02-07"
     },
     {
-      "id": 247767,
-      "title": "The Studio",
+      "id": 110382,
+      "title": "Pachinko",
       "season": "S2",
-      "episode": "E10",
+      "episode": "E8",
       "category": [
-        "comedy",
         "drama"
       ],
-      "rating": 7.7,
+      "rating": 7.9,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
-      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
-      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
-      "time": "05-20",
+      "poster": "https://image.tmdb.org/t/p/w300/41ktiaqjVdR3OWe1XZnKTVscU8T.jpg",
+      "summary": "改编自《纽约时报》畅销小说，这个影响范围广大的传奇故事记录了一个韩国移民家庭四代人背井离乡、顽强求生和发展过程中有关希望和梦想的点点滴滴。",
+      "updateNote": "最新: 第 16 章 (2024-10-10) | 共 2 季",
+      "time": "10-10",
       "tags": [
-        "喜剧",
         "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2025-03-25"
+      "firstAirDate": "2022-03-24"
     }
   ]
 }
