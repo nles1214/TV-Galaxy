@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T06:07:12.669Z",
+  "updatedAt": "2026-05-30T05:42:38.413Z",
   "count": 20,
   "shows": [
     {
@@ -35,7 +35,7 @@
         "thriller",
         "comedy"
       ],
-      "rating": 8.2,
+      "rating": 8.3,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
       "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
@@ -74,6 +74,28 @@
       "firstAirDate": "2023-11-16"
     },
     {
+      "id": 241609,
+      "title": "掩耳盗邻",
+      "season": "S2",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.6,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/ocTMWTsjqSd2j6AbTfWS7cBoDgV.jpg",
+      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+      "updateNote": "最新: 怯懦者的说辞 (2026-05-28) | 下集: S2E10 2026-06-04播出 | 共 2 季",
+      "time": "05-28",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-04-10"
+    },
+    {
       "id": 93740,
       "title": "Foundation",
       "season": "S3",
@@ -94,28 +116,6 @@
       ],
       "status": "new",
       "firstAirDate": "2021-09-23"
-    },
-    {
-      "id": 241609,
-      "title": "掩耳盗邻",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.6,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/ocTMWTsjqSd2j6AbTfWS7cBoDgV.jpg",
-      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
-      "updateNote": "最新: 感觉不再是原来的我 (2026-05-21) | 下集: S2E9 2026-05-28播出 | 共 2 季",
-      "time": "05-21",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-04-10"
     },
     {
       "id": 245318,
@@ -160,28 +160,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-05-04"
-    },
-    {
-      "id": 199318,
-      "title": "Bad Sisters",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2022-08-19"
     },
     {
       "id": 97546,
@@ -230,28 +208,26 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 95480,
-      "title": "Slow Horses",
-      "season": "S5",
-      "episode": "E6",
+      "id": 199318,
+      "title": "Bad Sisters",
+      "season": "S2",
+      "episode": "E8",
       "category": [
-        "thriller",
         "drama",
-        "comedy"
+        "thriller"
       ],
-      "rating": 8,
+      "rating": 7.5,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/qq7CaRWC4xZXTKDSkIVuRy45fOH.jpg",
-      "summary": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
-      "updateNote": "最新: 伤痕累累 (2025-10-29) | 共 5 季",
-      "time": "10-29",
+      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
+      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
+      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
+      "time": "12-24",
       "tags": [
-        "犯罪",
         "剧情",
-        "喜剧"
+        "犯罪"
       ],
-      "status": "hot",
-      "firstAirDate": "2022-04-01"
+      "status": "ended",
+      "firstAirDate": "2022-08-19"
     },
     {
       "id": 80752,
@@ -278,24 +254,28 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 285404,
-      "title": "极乐布局",
-      "season": "S1",
-      "episode": "E3",
+      "id": 95480,
+      "title": "Slow Horses",
+      "season": "S5",
+      "episode": "E6",
       "category": [
+        "thriller",
+        "drama",
         "comedy"
       ],
-      "rating": 5.4,
+      "rating": 8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mLLfG5caoX2oA59saA14gQGq6Vy.jpg",
-      "summary": "刚离婚成为单身母亲的宝拉意外陷入牵涉勒索、谋杀和青少年足球的危险漩涡之中。",
-      "updateNote": "最新: 隧道 (2026-05-26) | 下集: S1E4 2026-06-02播出 | 共 1 季",
-      "time": "05-26",
+      "poster": "https://image.tmdb.org/t/p/w300/qq7CaRWC4xZXTKDSkIVuRy45fOH.jpg",
+      "summary": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
+      "updateNote": "最新: 伤痕累累 (2025-10-29) | 共 5 季",
+      "time": "10-29",
       "tags": [
+        "犯罪",
+        "剧情",
         "喜剧"
       ],
-      "status": "new",
-      "firstAirDate": "2026-05-19"
+      "status": "hot",
+      "firstAirDate": "2022-04-01"
     },
     {
       "id": 90282,
@@ -340,6 +320,26 @@
       "firstAirDate": "2023-01-26"
     },
     {
+      "id": 285404,
+      "title": "极乐布局",
+      "season": "S1",
+      "episode": "E3",
+      "category": [
+        "comedy"
+      ],
+      "rating": 5.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mLLfG5caoX2oA59saA14gQGq6Vy.jpg",
+      "summary": "刚离婚成为单身母亲的宝拉意外陷入牵涉勒索、谋杀和青少年足球的危险漩涡之中。",
+      "updateNote": "最新: 隧道 (2026-05-26) | 下集: S1E4 2026-06-02播出 | 共 1 季",
+      "time": "05-26",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-05-19"
+    },
+    {
       "id": 127235,
       "title": "Invasion",
       "season": "S3",
@@ -360,6 +360,26 @@
       ],
       "status": "new",
       "firstAirDate": "2021-10-21"
+    },
+    {
+      "id": 94951,
+      "title": "神话任务",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "comedy"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
+      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
+      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
+      "time": "03-25",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "ended",
+      "firstAirDate": "2020-02-07"
     },
     {
       "id": 80054,
@@ -404,26 +424,6 @@
       ],
       "status": "ended",
       "firstAirDate": "2019-11-28"
-    },
-    {
-      "id": 94951,
-      "title": "神话任务",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "comedy"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
-      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
-      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
-      "time": "03-25",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "ended",
-      "firstAirDate": "2020-02-07"
     },
     {
       "id": 221079,
