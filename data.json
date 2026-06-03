@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T06:29:46.365Z",
+  "updatedAt": "2026-06-03T06:46:13.224Z",
   "count": 20,
   "shows": [
     {
@@ -81,7 +81,7 @@
         "drama",
         "thriller"
       ],
-      "rating": 7.6,
+      "rating": 7.7,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/ocTMWTsjqSd2j6AbTfWS7cBoDgV.jpg",
       "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
@@ -217,7 +217,7 @@
         "drama",
         "comedy"
       ],
-      "rating": 8.1,
+      "rating": 8.2,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
       "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
@@ -301,6 +301,28 @@
       "firstAirDate": "2023-01-26"
     },
     {
+      "id": 221079,
+      "title": "失序边缘",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/hKOPr8nj2BcrhqxBtHE281BO5td.jpg",
+      "summary": "一架监狱运输机在偏远的阿拉斯加荒野坠毁，数十名暴力囚犯因而获得自由，而该地区单枪匹马的警长必须保护他誓言要守护的小镇。",
+      "updateNote": "最新: 四面楚歌 (2025-12-04) | 共 1 季",
+      "time": "12-04",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "ended",
+      "firstAirDate": "2025-10-09"
+    },
+    {
       "id": 127235,
       "title": "Invasion",
       "season": "S3",
@@ -343,50 +365,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 221079,
-      "title": "失序边缘",
-      "season": "S1",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hKOPr8nj2BcrhqxBtHE281BO5td.jpg",
-      "summary": "一架监狱运输机在偏远的阿拉斯加荒野坠毁，数十名暴力囚犯因而获得自由，而该地区单枪匹马的警长必须保护他誓言要守护的小镇。",
-      "updateNote": "最新: 四面楚歌 (2025-12-04) | 共 1 季",
-      "time": "12-04",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2025-10-09"
-    },
-    {
-      "id": 199318,
-      "title": "Bad Sisters",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2022-08-19"
-    },
-    {
       "id": 88055,
       "title": "Servant",
       "season": "S4",
@@ -409,6 +387,28 @@
       "firstAirDate": "2019-11-28"
     },
     {
+      "id": 80054,
+      "title": "直言真相",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/bzdhCrabjpMmtncf2nnSvh2iehZ.jpg",
+      "summary": "19年前关于伯曼入室谋杀案的两篇调查报道，让时任《纽约时报》记者波碧·帕内尔声名大噪。现如今面对受害人女儿证词受人教导的新证据，主持热门真实罪案播客的她良心难泯决定重启调查——当年17岁入狱服刑至今的沃伦·凯夫到底是否真如其母所说的那样清白无辜蒙冤受过？",
+      "updateNote": "最新: 不属于我一个人的吻 (2023-03-23) | 共 3 季",
+      "time": "03-23",
+      "tags": [
+        "剧情",
+        "悬疑"
+      ],
+      "status": "ended",
+      "firstAirDate": "2019-12-06"
+    },
+    {
       "id": 198102,
       "title": "历劫惊途",
       "season": "S2",
@@ -429,26 +429,26 @@
       "firstAirDate": "2023-06-28"
     },
     {
-      "id": 80054,
-      "title": "直言真相",
-      "season": "S3",
-      "episode": "E10",
+      "id": 199318,
+      "title": "Bad Sisters",
+      "season": "S2",
+      "episode": "E8",
       "category": [
         "drama",
         "thriller"
       ],
-      "rating": 7.1,
+      "rating": 7.5,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/bzdhCrabjpMmtncf2nnSvh2iehZ.jpg",
-      "summary": "19年前关于伯曼入室谋杀案的两篇调查报道，让时任《纽约时报》记者波碧·帕内尔声名大噪。现如今面对受害人女儿证词受人教导的新证据，主持热门真实罪案播客的她良心难泯决定重启调查——当年17岁入狱服刑至今的沃伦·凯夫到底是否真如其母所说的那样清白无辜蒙冤受过？",
-      "updateNote": "最新: 不属于我一个人的吻 (2023-03-23) | 共 3 季",
-      "time": "03-23",
+      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
+      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
+      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
+      "time": "12-24",
       "tags": [
         "剧情",
-        "悬疑"
+        "犯罪"
       ],
       "status": "ended",
-      "firstAirDate": "2019-12-06"
+      "firstAirDate": "2022-08-19"
     }
   ]
 }
