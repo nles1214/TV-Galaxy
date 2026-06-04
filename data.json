@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T06:46:13.224Z",
+  "updatedAt": "2026-06-04T06:30:08.096Z",
   "count": 20,
   "shows": [
     {
@@ -52,7 +52,7 @@
       "id": 270476,
       "title": "寡妇湾",
       "season": "S1",
-      "episode": "E7",
+      "episode": "E8",
       "category": [
         "drama",
         "thriller",
@@ -62,8 +62,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
       "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "updateNote": "最新: 晕船 (2026-05-26) | 下集: S1E8 2026-06-02播出 | 共 1 季",
-      "time": "05-26",
+      "updateNote": "最新: 您的行李 (2026-06-02) | 下集: S1E9 2026-06-09播出 | 共 1 季",
+      "time": "06-02",
       "tags": [
         "剧情",
         "悬疑",
@@ -119,28 +119,6 @@
       "firstAirDate": "2023-11-16"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
-      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
-      "time": "09-11",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-09-23"
-    },
-    {
       "id": 125988,
       "title": "末日地堡",
       "season": "S3",
@@ -163,26 +141,26 @@
       "firstAirDate": "2023-05-04"
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "season": "S4",
-      "episode": "E12",
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S3",
+      "episode": "E10",
       "category": [
-        "drama",
-        "comedy"
+        "scifi",
+        "drama"
       ],
-      "rating": 8.3,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/7BhSZqYoaydSs9AWcMm7LDYvwgG.jpg",
-      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
-      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
-      "time": "05-30",
+      "poster": "https://image.tmdb.org/t/p/w300/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
+      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
+      "time": "09-11",
       "tags": [
-        "剧情",
-        "喜剧"
+        "科幻",
+        "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2020-08-14"
+      "firstAirDate": "2021-09-23"
     },
     {
       "id": 95396,
@@ -209,6 +187,28 @@
       "firstAirDate": "2022-02-17"
     },
     {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "season": "S4",
+      "episode": "E12",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 8.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/7BhSZqYoaydSs9AWcMm7LDYvwgG.jpg",
+      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
+      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
+      "time": "05-30",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2020-08-14"
+    },
+    {
       "id": 245318,
       "title": "玛戈没钱了",
       "season": "S1",
@@ -229,30 +229,6 @@
       ],
       "status": "hot",
       "firstAirDate": "2026-04-14"
-    },
-    {
-      "id": 80752,
-      "title": "See",
-      "season": "S3",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "scifi",
-        "action"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
-      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
-      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
-      "time": "10-13",
-      "tags": [
-        "剧情",
-        "科幻",
-        "动作"
-      ],
-      "status": "ended",
-      "firstAirDate": "2019-11-01"
     },
     {
       "id": 95480,
@@ -279,6 +255,30 @@
       "firstAirDate": "2022-04-01"
     },
     {
+      "id": 80752,
+      "title": "See",
+      "season": "S3",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "scifi",
+        "action"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
+      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
+      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
+      "time": "10-13",
+      "tags": [
+        "剧情",
+        "科幻",
+        "动作"
+      ],
+      "status": "ended",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -299,6 +299,26 @@
       ],
       "status": "new",
       "firstAirDate": "2023-01-26"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 221079,
@@ -345,46 +365,24 @@
       "firstAirDate": "2021-10-21"
     },
     {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S4",
-      "episode": "E10",
+      "id": 198102,
+      "title": "历劫惊途",
+      "season": "S2",
+      "episode": "E8",
       "category": [
         "drama"
       ],
-      "rating": 7.7,
+      "rating": 7.5,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
-      "time": "11-18",
+      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
+      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
+      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
+      "time": "03-04",
       "tags": [
         "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 88055,
-      "title": "Servant",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/k3hOXC2Uo2duEfuYbdd0Rkta3Ad.jpg",
-      "summary": "　　讲述一对夫妻因其幼小的孩子死去，十分伤心，婚姻也出现裂痕，妻子把一个假娃娃养在家里，还请了保姆，家中却发生了神秘的事：找来的小保姆也把这个孩子当成活的婴儿一般对待，更多怪事发生。到底该信故事的哪一个版本？",
-      "updateNote": "最新: 陨落 (2023-03-16) | 共 4 季",
-      "time": "03-16",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "ended",
-      "firstAirDate": "2019-11-28"
+      "firstAirDate": "2023-06-28"
     },
     {
       "id": 80054,
@@ -409,46 +407,46 @@
       "firstAirDate": "2019-12-06"
     },
     {
-      "id": 198102,
-      "title": "历劫惊途",
-      "season": "S2",
-      "episode": "E8",
+      "id": 285404,
+      "title": "极乐布局",
+      "season": "S1",
+      "episode": "E4",
       "category": [
-        "drama"
+        "comedy"
       ],
-      "rating": 7.5,
+      "rating": 4.9,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
-      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
-      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
-      "time": "03-04",
+      "poster": "https://image.tmdb.org/t/p/w300/mLLfG5caoX2oA59saA14gQGq6Vy.jpg",
+      "summary": "刚离婚成为单身母亲的宝拉意外陷入牵涉勒索、谋杀和青少年足球的危险漩涡之中。",
+      "updateNote": "最新: 葡萄干 (2026-06-02) | 下集: S1E5 2026-06-09播出 | 共 1 季",
+      "time": "06-02",
       "tags": [
-        "剧情"
+        "喜剧"
       ],
       "status": "new",
-      "firstAirDate": "2023-06-28"
+      "firstAirDate": "2026-05-19"
     },
     {
-      "id": 199318,
-      "title": "Bad Sisters",
-      "season": "S2",
-      "episode": "E8",
+      "id": 88055,
+      "title": "Servant",
+      "season": "S4",
+      "episode": "E10",
       "category": [
         "drama",
         "thriller"
       ],
       "rating": 7.5,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
+      "poster": "https://image.tmdb.org/t/p/w300/k3hOXC2Uo2duEfuYbdd0Rkta3Ad.jpg",
+      "summary": "　　讲述一对夫妻因其幼小的孩子死去，十分伤心，婚姻也出现裂痕，妻子把一个假娃娃养在家里，还请了保姆，家中却发生了神秘的事：找来的小保姆也把这个孩子当成活的婴儿一般对待，更多怪事发生。到底该信故事的哪一个版本？",
+      "updateNote": "最新: 陨落 (2023-03-16) | 共 4 季",
+      "time": "03-16",
       "tags": [
         "剧情",
-        "犯罪"
+        "悬疑"
       ],
       "status": "ended",
-      "firstAirDate": "2022-08-19"
+      "firstAirDate": "2019-11-28"
     }
   ]
 }
