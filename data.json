@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-04T06:30:08.096Z",
+  "updatedAt": "2026-06-05T06:15:22.924Z",
   "count": 20,
   "shows": [
     {
       "id": 252107,
       "title": "星城",
       "season": "S1",
-      "episode": "E2",
+      "episode": "E3",
       "category": [
         "drama",
         "scifi"
@@ -15,8 +15,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
       "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
-      "updateNote": "最新: 囚中熊 (2026-05-28) | 下集: S1E3 2026-06-04播出 | 共 1 季",
-      "time": "05-28",
+      "updateNote": "最新: 舞艺不精 (2026-06-04) | 下集: S1E4 2026-06-11播出 | 共 1 季",
+      "time": "06-04",
       "tags": [
         "剧情",
         "科幻",
@@ -73,10 +73,32 @@
       "firstAirDate": "2026-04-28"
     },
     {
+      "id": 125988,
+      "title": "末日地堡",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/xoM3lntYJzZwOBJJs5O1ix0jyfe.jpg",
+      "summary": "该剧基于休·豪伊所著同名畅销科幻系列小说改编，在一个满目疮痍、有毒物质遍布的未来世界中，成千上万的人居住在深埋在地下的巨大筒仓里。在警长违反了一项基本规则以及有些居民神秘死亡后，工程师朱丽叶开始揭开惊人的秘密和筒仓的真相。",
+      "updateNote": "最新: 进入火焰 (2025-01-16) | 下集: S3E1 2026-07-02播出 | 共 3 季",
+      "time": "01-16",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-05-04"
+    },
+    {
       "id": 241609,
       "title": "掩耳盗邻",
       "season": "S2",
-      "episode": "E9",
+      "episode": "E10",
       "category": [
         "drama",
         "thriller"
@@ -85,8 +107,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/ocTMWTsjqSd2j6AbTfWS7cBoDgV.jpg",
       "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
-      "updateNote": "最新: 怯懦者的说辞 (2026-05-28) | 下集: S2E10 2026-06-04播出 | 共 2 季",
-      "time": "05-28",
+      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
+      "time": "06-04",
       "tags": [
         "剧情",
         "犯罪"
@@ -117,28 +139,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-11-16"
-    },
-    {
-      "id": 125988,
-      "title": "末日地堡",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xoM3lntYJzZwOBJJs5O1ix0jyfe.jpg",
-      "summary": "该剧基于休·豪伊所著同名畅销科幻系列小说改编，在一个满目疮痍、有毒物质遍布的未来世界中，成千上万的人居住在深埋在地下的巨大筒仓里。在警长违反了一项基本规则以及有些居民神秘死亡后，工程师朱丽叶开始揭开惊人的秘密和筒仓的真相。",
-      "updateNote": "最新: 进入火焰 (2025-01-16) | 下集: S3E1 2026-07-02播出 | 共 3 季",
-      "time": "01-16",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-05-04"
     },
     {
       "id": 93740,
@@ -231,30 +231,6 @@
       "firstAirDate": "2026-04-14"
     },
     {
-      "id": 95480,
-      "title": "Slow Horses",
-      "season": "S5",
-      "episode": "E6",
-      "category": [
-        "thriller",
-        "drama",
-        "comedy"
-      ],
-      "rating": 8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/qq7CaRWC4xZXTKDSkIVuRy45fOH.jpg",
-      "summary": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
-      "updateNote": "最新: 伤痕累累 (2025-10-29) | 共 5 季",
-      "time": "10-29",
-      "tags": [
-        "犯罪",
-        "剧情",
-        "喜剧"
-      ],
-      "status": "hot",
-      "firstAirDate": "2022-04-01"
-    },
-    {
       "id": 80752,
       "title": "See",
       "season": "S3",
@@ -279,6 +255,30 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 95480,
+      "title": "Slow Horses",
+      "season": "S5",
+      "episode": "E6",
+      "category": [
+        "thriller",
+        "drama",
+        "comedy"
+      ],
+      "rating": 8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/qq7CaRWC4xZXTKDSkIVuRy45fOH.jpg",
+      "summary": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
+      "updateNote": "最新: 伤痕累累 (2025-10-29) | 共 5 季",
+      "time": "10-29",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "喜剧"
+      ],
+      "status": "hot",
+      "firstAirDate": "2022-04-01"
+    },
+    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -299,6 +299,28 @@
       ],
       "status": "new",
       "firstAirDate": "2023-01-26"
+    },
+    {
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-10-21"
     },
     {
       "id": 90282,
@@ -343,26 +365,24 @@
       "firstAirDate": "2025-10-09"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
-      "episode": "E10",
+      "id": 285404,
+      "title": "极乐布局",
+      "season": "S1",
+      "episode": "E4",
       "category": [
-        "scifi",
-        "drama"
+        "comedy"
       ],
-      "rating": 7.1,
+      "rating": 4.9,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
+      "poster": "https://image.tmdb.org/t/p/w300/mLLfG5caoX2oA59saA14gQGq6Vy.jpg",
+      "summary": "刚离婚成为单身母亲的宝拉意外陷入牵涉勒索、谋杀和青少年足球的危险漩涡之中。",
+      "updateNote": "最新: 葡萄干 (2026-06-02) | 下集: S1E5 2026-06-09播出 | 共 1 季",
+      "time": "06-02",
       "tags": [
-        "科幻",
-        "剧情"
+        "喜剧"
       ],
       "status": "new",
-      "firstAirDate": "2021-10-21"
+      "firstAirDate": "2026-05-19"
     },
     {
       "id": 198102,
@@ -405,26 +425,6 @@
       ],
       "status": "ended",
       "firstAirDate": "2019-12-06"
-    },
-    {
-      "id": 285404,
-      "title": "极乐布局",
-      "season": "S1",
-      "episode": "E4",
-      "category": [
-        "comedy"
-      ],
-      "rating": 4.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mLLfG5caoX2oA59saA14gQGq6Vy.jpg",
-      "summary": "刚离婚成为单身母亲的宝拉意外陷入牵涉勒索、谋杀和青少年足球的危险漩涡之中。",
-      "updateNote": "最新: 葡萄干 (2026-06-02) | 下集: S1E5 2026-06-09播出 | 共 1 季",
-      "time": "06-02",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-05-19"
     },
     {
       "id": 88055,
