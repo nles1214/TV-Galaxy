@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T06:30:05.384Z",
+  "updatedAt": "2026-06-09T06:03:00.361Z",
   "count": 20,
   "shows": [
     {
@@ -72,6 +72,28 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 241609,
+      "title": "掩耳盗邻",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/ocTMWTsjqSd2j6AbTfWS7cBoDgV.jpg",
+      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
+      "time": "06-04",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-04-10"
+    },
+    {
       "id": 252107,
       "title": "星城",
       "season": "S1",
@@ -93,28 +115,6 @@
       ],
       "status": "new",
       "firstAirDate": "2026-05-28"
-    },
-    {
-      "id": 241609,
-      "title": "掩耳盗邻",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/ocTMWTsjqSd2j6AbTfWS7cBoDgV.jpg",
-      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
-      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
-      "time": "06-04",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-04-10"
     },
     {
       "id": 125988,
@@ -301,26 +301,6 @@
       "firstAirDate": "2023-01-26"
     },
     {
-      "id": 198102,
-      "title": "历劫惊途",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
-      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
-      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
-      "time": "03-04",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-06-28"
-    },
-    {
       "id": 245318,
       "title": "玛戈没钱了",
       "season": "S1",
@@ -365,6 +345,26 @@
       "firstAirDate": "2021-10-21"
     },
     {
+      "id": 198102,
+      "title": "历劫惊途",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
+      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
+      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
+      "time": "03-04",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-06-28"
+    },
+    {
       "id": 90282,
       "title": "The Morning Show",
       "season": "S4",
@@ -392,7 +392,7 @@
       "category": [
         "comedy"
       ],
-      "rating": 4.9,
+      "rating": 5.1,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mLLfG5caoX2oA59saA14gQGq6Vy.jpg",
       "summary": "刚离婚成为单身母亲的宝拉意外陷入牵涉勒索、谋杀和青少年足球的危险漩涡之中。",
