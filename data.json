@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T06:27:47.546Z",
+  "updatedAt": "2026-06-13T06:10:13.205Z",
   "count": 20,
   "shows": [
     {
@@ -11,7 +11,7 @@
         "drama",
         "thriller"
       ],
-      "rating": 6,
+      "rating": 6.2,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
       "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
@@ -27,7 +27,7 @@
     {
       "id": 270476,
       "title": "寡妇湾",
-      "season": "S1",
+      "season": "S2",
       "episode": "E9",
       "category": [
         "drama",
@@ -38,7 +38,7 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
       "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "updateNote": "最新: 紧急避难所 (2026-06-09) | 下集: S1E10 2026-06-16播出 | 共 1 季",
+      "updateNote": "最新: 紧急避难所 (2026-06-09) | 下集: S1E10 2026-06-16播出 | 共 2 季",
       "time": "06-09",
       "tags": [
         "剧情",
@@ -94,28 +94,6 @@
       "firstAirDate": "2023-05-04"
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "season": "S4",
-      "episode": "E12",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 8.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/7BhSZqYoaydSs9AWcMm7LDYvwgG.jpg",
-      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
-      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
-      "time": "05-30",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2020-08-14"
-    },
-    {
       "id": 241609,
       "title": "掩耳盗邻",
       "season": "S2",
@@ -136,6 +114,28 @@
       ],
       "status": "new",
       "firstAirDate": "2025-04-10"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
+      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
+      "time": "09-11",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-09-23"
     },
     {
       "id": 95396,
@@ -162,50 +162,6 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
-      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
-      "time": "09-11",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-09-23"
-    },
-    {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
-    },
-    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -230,6 +186,28 @@
       "firstAirDate": "2023-11-16"
     },
     {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "season": "S4",
+      "episode": "E12",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 8.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/7BhSZqYoaydSs9AWcMm7LDYvwgG.jpg",
+      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
+      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
+      "time": "05-30",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2020-08-14"
+    },
+    {
       "id": 252107,
       "title": "星城",
       "season": "S1",
@@ -251,6 +229,28 @@
       ],
       "status": "new",
       "firstAirDate": "2026-05-28"
+    },
+    {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-26"
     },
     {
       "id": 95480,
@@ -323,6 +323,48 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 245318,
+      "title": "玛戈没钱了",
+      "season": "S1",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
+      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
+      "updateNote": "最新: 蓄势待发 (2026-05-19) | 共 1 季",
+      "time": "05-19",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-04-14"
+    },
+    {
+      "id": 198102,
+      "title": "历劫惊途",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
+      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
+      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
+      "time": "03-04",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-06-28"
+    },
+    {
       "id": 90282,
       "title": "The Morning Show",
       "season": "S4",
@@ -365,90 +407,48 @@
       "firstAirDate": "2022-08-19"
     },
     {
-      "id": 198102,
-      "title": "历劫惊途",
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-11-06"
+    },
+    {
+      "id": 204490,
+      "title": "Criminal Record",
       "season": "S2",
       "episode": "E8",
       "category": [
+        "thriller",
         "drama"
       ],
-      "rating": 7.5,
+      "rating": 6.6,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
-      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
-      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
-      "time": "03-04",
+      "poster": "https://image.tmdb.org/t/p/w300/biImemyrTQHRgr1oHVaUlonfKU3.jpg",
+      "summary": "伦敦警探赫加蒂与伦克竭力打击犯罪，但作风截然不同。二人无奈被迫联手，在瞬息万变的世界中伸张正义。",
+      "updateNote": "最新: 无人死亡 (2026-06-10) | 共 2 季",
+      "time": "06-10",
       "tags": [
+        "犯罪",
         "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2023-06-28"
-    },
-    {
-      "id": 133727,
-      "title": "Acapulco",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "comedy",
-        "drama"
-      ],
-      "rating": 7.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/dINKxhJxqpuQo0Pcdyeru6O39W9.jpg",
-      "summary": "1984年，当马克西莫·戈亚多在阿卡普尔科最热门的度假酒店拉斯科林纳斯找到了一份梦寐以求的工作时，他觉得自己的梦想成真了。不过很快他就意识到在那里工作远比他想象中要复杂得多。",
-      "updateNote": "最新: 绝不放弃你 (2025-09-16) | 共 4 季",
-      "time": "09-16",
-      "tags": [
-        "喜剧",
-        "剧情"
-      ],
-      "status": "ended",
-      "firstAirDate": "2021-10-08"
-    },
-    {
-      "id": 88055,
-      "title": "Servant",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/k3hOXC2Uo2duEfuYbdd0Rkta3Ad.jpg",
-      "summary": "　　讲述一对夫妻因其幼小的孩子死去，十分伤心，婚姻也出现裂痕，妻子把一个假娃娃养在家里，还请了保姆，家中却发生了神秘的事：找来的小保姆也把这个孩子当成活的婴儿一般对待，更多怪事发生。到底该信故事的哪一个版本？",
-      "updateNote": "最新: 陨落 (2023-03-16) | 共 4 季",
-      "time": "03-16",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "ended",
-      "firstAirDate": "2019-11-28"
-    },
-    {
-      "id": 245318,
-      "title": "玛戈没钱了",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
-      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
-      "updateNote": "最新: 蓄势待发 (2026-05-19) | 共 1 季",
-      "time": "05-19",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "hot",
-      "firstAirDate": "2026-04-14"
+      "firstAirDate": "2024-01-10"
     }
   ]
 }
