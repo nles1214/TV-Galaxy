@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-06-14T06:27:45.794Z",
+  "updatedAt": "2026-06-15T07:11:07.239Z",
   "count": 20,
   "shows": [
-    {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E3",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 6.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 幻肢感觉 (2026-06-11) | 下集: S1E4 2026-06-18播出 | 共 1 季",
-      "time": "06-11",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-06-04"
-    },
     {
       "id": 270476,
       "title": "寡妇湾",
@@ -47,6 +25,28 @@
       ],
       "status": "new",
       "firstAirDate": "2026-04-28"
+    },
+    {
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
+      "episode": "E3",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 6.4,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 幻肢感觉 (2026-06-11) | 下集: S1E4 2026-06-18播出 | 共 1 季",
+      "time": "06-11",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-06-04"
     },
     {
       "id": 87917,
@@ -230,6 +230,29 @@
       "firstAirDate": "2023-01-26"
     },
     {
+      "id": 252107,
+      "title": "星城",
+      "season": "S1",
+      "episode": "E4",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 6.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+      "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+      "updateNote": "最新: 暗黑森林 (2026-06-11) | 下集: S1E5 2026-06-18播出 | 共 1 季",
+      "time": "06-11",
+      "tags": [
+        "剧情",
+        "科幻",
+        "War & Politics"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-05-28"
+    },
+    {
       "id": 95480,
       "title": "Slow Horses",
       "season": "S6",
@@ -254,27 +277,26 @@
       "firstAirDate": "2022-04-01"
     },
     {
-      "id": 252107,
-      "title": "星城",
-      "season": "S1",
-      "episode": "E4",
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
       "category": [
-        "drama",
-        "scifi"
+        "scifi",
+        "drama"
       ],
-      "rating": 6.7,
+      "rating": 7.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
-      "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
-      "updateNote": "最新: 暗黑森林 (2026-06-11) | 下集: S1E5 2026-06-18播出 | 共 1 季",
-      "time": "06-11",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
       "tags": [
-        "剧情",
         "科幻",
-        "War & Politics"
+        "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2026-05-28"
+      "firstAirDate": "2021-10-21"
     },
     {
       "id": 80752,
@@ -301,48 +323,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-10-21"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 245318,
       "title": "玛戈没钱了",
       "season": "S1",
@@ -363,6 +343,26 @@
       ],
       "status": "new",
       "firstAirDate": "2026-04-14"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 198102,
@@ -407,28 +407,6 @@
       "firstAirDate": "2022-08-19"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "season": "S1",
-      "episode": "E9",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
-      "tags": [
-        "剧情",
-        "科幻"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-11-06"
-    },
-    {
       "id": 221079,
       "title": "失序边缘",
       "season": "S1",
@@ -449,6 +427,28 @@
       ],
       "status": "ended",
       "firstAirDate": "2025-10-09"
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-11-06"
     }
   ]
 }
