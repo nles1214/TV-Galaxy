@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-16T07:19:07.950Z",
+  "updatedAt": "2026-06-17T07:01:50.598Z",
   "count": 20,
   "shows": [
     {
       "id": 270476,
       "title": "寡妇湾",
       "season": "S2",
-      "episode": "E9",
+      "episode": "E10",
       "category": [
         "drama",
         "thriller",
@@ -16,14 +16,14 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
       "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "updateNote": "最新: 紧急避难所 (2026-06-09) | 下集: S1E10 2026-06-16播出 | 共 2 季",
-      "time": "06-09",
+      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
+      "time": "06-16",
       "tags": [
         "剧情",
         "悬疑",
         "喜剧"
       ],
-      "status": "new",
+      "status": "hot",
       "firstAirDate": "2026-04-28"
     },
     {
@@ -35,7 +35,7 @@
         "drama",
         "thriller"
       ],
-      "rating": 6.5,
+      "rating": 6.4,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
       "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
@@ -230,29 +230,6 @@
       "firstAirDate": "2025-04-10"
     },
     {
-      "id": 252107,
-      "title": "星城",
-      "season": "S1",
-      "episode": "E4",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 6.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
-      "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
-      "updateNote": "最新: 暗黑森林 (2026-06-11) | 下集: S1E5 2026-06-18播出 | 共 1 季",
-      "time": "06-11",
-      "tags": [
-        "剧情",
-        "科幻",
-        "War & Politics"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-05-28"
-    },
-    {
       "id": 95480,
       "title": "Slow Horses",
       "season": "S6",
@@ -275,6 +252,29 @@
       ],
       "status": "new",
       "firstAirDate": "2022-04-01"
+    },
+    {
+      "id": 252107,
+      "title": "星城",
+      "season": "S1",
+      "episode": "E4",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 6.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+      "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+      "updateNote": "最新: 暗黑森林 (2026-06-11) | 下集: S1E5 2026-06-18播出 | 共 1 季",
+      "time": "06-11",
+      "tags": [
+        "剧情",
+        "科幻",
+        "War & Politics"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-05-28"
     },
     {
       "id": 80752,
@@ -323,26 +323,6 @@
       "firstAirDate": "2021-10-21"
     },
     {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 198102,
       "title": "历劫惊途",
       "season": "S2",
@@ -361,6 +341,26 @@
       ],
       "status": "new",
       "firstAirDate": "2023-06-28"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 245318,
@@ -385,28 +385,6 @@
       "firstAirDate": "2026-04-14"
     },
     {
-      "id": 199318,
-      "title": "Bad Sisters",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2022-08-19"
-    },
-    {
       "id": 221079,
       "title": "失序边缘",
       "season": "S1",
@@ -427,6 +405,28 @@
       ],
       "status": "ended",
       "firstAirDate": "2025-10-09"
+    },
+    {
+      "id": 199318,
+      "title": "Bad Sisters",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
+      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
+      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
+      "time": "12-24",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "ended",
+      "firstAirDate": "2022-08-19"
     },
     {
       "id": 225171,
