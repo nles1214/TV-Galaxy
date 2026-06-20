@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T06:59:01.452Z",
+  "updatedAt": "2026-06-20T06:13:59.546Z",
   "count": 20,
   "shows": [
     {
@@ -278,6 +278,28 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-10-21"
+    },
+    {
       "id": 252107,
       "title": "星城",
       "season": "S1",
@@ -299,28 +321,6 @@
       ],
       "status": "new",
       "firstAirDate": "2026-05-28"
-    },
-    {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-10-21"
     },
     {
       "id": 198102,
@@ -385,6 +385,28 @@
       "firstAirDate": "2025-10-09"
     },
     {
+      "id": 199318,
+      "title": "Bad Sisters",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
+      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
+      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
+      "time": "12-24",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "ended",
+      "firstAirDate": "2022-08-19"
+    },
+    {
       "id": 245318,
       "title": "玛戈没钱了",
       "season": "S1",
@@ -405,28 +427,6 @@
       ],
       "status": "new",
       "firstAirDate": "2026-04-14"
-    },
-    {
-      "id": 88055,
-      "title": "Servant",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/k3hOXC2Uo2duEfuYbdd0Rkta3Ad.jpg",
-      "summary": "　　讲述一对夫妻因其幼小的孩子死去，十分伤心，婚姻也出现裂痕，妻子把一个假娃娃养在家里，还请了保姆，家中却发生了神秘的事：找来的小保姆也把这个孩子当成活的婴儿一般对待，更多怪事发生。到底该信故事的哪一个版本？",
-      "updateNote": "最新: 陨落 (2023-03-16) | 共 4 季",
-      "time": "03-16",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "ended",
-      "firstAirDate": "2019-11-28"
     },
     {
       "id": 225171,
