@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T06:00:38.220Z",
+  "updatedAt": "2026-06-25T05:59:38.526Z",
   "count": 20,
   "shows": [
     {
@@ -162,6 +162,28 @@
       "firstAirDate": "2022-02-17"
     },
     {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "season": "S4",
+      "episode": "E12",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 8.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/7BhSZqYoaydSs9AWcMm7LDYvwgG.jpg",
+      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
+      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
+      "time": "05-30",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2020-08-14"
+    },
+    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -184,28 +206,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-11-16"
-    },
-    {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "season": "S4",
-      "episode": "E12",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 8.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/7BhSZqYoaydSs9AWcMm7LDYvwgG.jpg",
-      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
-      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
-      "time": "05-30",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2020-08-14"
     },
     {
       "id": 95480,
@@ -278,28 +278,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-10-21"
-    },
-    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -322,26 +300,26 @@
       "firstAirDate": "2023-01-26"
     },
     {
-      "id": 199318,
-      "title": "Bad Sisters",
-      "season": "S2",
-      "episode": "E8",
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
       "category": [
-        "drama",
-        "thriller"
+        "scifi",
+        "drama"
       ],
-      "rating": 7.5,
+      "rating": 7.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
       "tags": [
-        "剧情",
-        "犯罪"
+        "科幻",
+        "剧情"
       ],
-      "status": "ended",
-      "firstAirDate": "2022-08-19"
+      "status": "new",
+      "firstAirDate": "2021-10-21"
     },
     {
       "id": 252107,
@@ -367,6 +345,28 @@
       "firstAirDate": "2026-05-28"
     },
     {
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-11-06"
+    },
+    {
       "id": 90282,
       "title": "The Morning Show",
       "season": "S4",
@@ -387,24 +387,26 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 110382,
-      "title": "Pachinko",
+      "id": 199318,
+      "title": "Bad Sisters",
       "season": "S2",
       "episode": "E8",
       "category": [
-        "drama"
+        "drama",
+        "thriller"
       ],
-      "rating": 7.9,
+      "rating": 7.5,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/41ktiaqjVdR3OWe1XZnKTVscU8T.jpg",
-      "summary": "改编自《纽约时报》畅销小说，这个影响范围广大的传奇故事记录了一个韩国移民家庭四代人背井离乡、顽强求生和发展过程中有关希望和梦想的点点滴滴。",
-      "updateNote": "最新: 第 16 章 (2024-10-10) | 共 2 季",
-      "time": "10-10",
+      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
+      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
+      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
+      "time": "12-24",
       "tags": [
-        "剧情"
+        "剧情",
+        "犯罪"
       ],
       "status": "ended",
-      "firstAirDate": "2022-03-24"
+      "firstAirDate": "2022-08-19"
     },
     {
       "id": 245318,
