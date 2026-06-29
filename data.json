@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T06:10:01.594Z",
+  "updatedAt": "2026-06-29T06:38:23.822Z",
   "count": 20,
   "shows": [
     {
@@ -162,28 +162,6 @@
       "firstAirDate": "2021-09-23"
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "season": "S4",
-      "episode": "E12",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 8.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mo92ImS1Bkk24VxW8sOmazsyPQd.jpg",
-      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
-      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
-      "time": "05-30",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2020-08-14"
-    },
-    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -208,28 +186,48 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 80752,
-      "title": "See",
-      "season": "S3",
-      "episode": "E8",
+      "id": 97546,
+      "title": "Ted Lasso",
+      "season": "S4",
+      "episode": "E12",
       "category": [
         "drama",
-        "scifi",
-        "action"
+        "comedy"
       ],
-      "rating": 8.1,
+      "rating": 8.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
-      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
-      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
-      "time": "10-13",
+      "poster": "https://image.tmdb.org/t/p/w300/mo92ImS1Bkk24VxW8sOmazsyPQd.jpg",
+      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
+      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
+      "time": "05-30",
       "tags": [
         "剧情",
-        "科幻",
-        "动作"
+        "喜剧"
       ],
-      "status": "ended",
-      "firstAirDate": "2019-11-01"
+      "status": "new",
+      "firstAirDate": "2020-08-14"
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-11-06"
     },
     {
       "id": 202411,
@@ -256,28 +254,6 @@
       "firstAirDate": "2023-11-16"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "season": "S1",
-      "episode": "E9",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
-      "tags": [
-        "剧情",
-        "科幻"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-11-06"
-    },
-    {
       "id": 241609,
       "title": "掩耳盗邻",
       "season": "S2",
@@ -288,7 +264,7 @@
       ],
       "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/ocTMWTsjqSd2j6AbTfWS7cBoDgV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
       "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
       "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
       "time": "06-04",
@@ -322,45 +298,27 @@
       "firstAirDate": "2023-01-26"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
+      "id": 80752,
+      "title": "See",
       "season": "S3",
-      "episode": "E10",
+      "episode": "E8",
       "category": [
+        "drama",
         "scifi",
-        "drama"
+        "action"
       ],
-      "rating": 7.1,
+      "rating": 8.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
+      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
+      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
+      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
+      "time": "10-13",
       "tags": [
+        "剧情",
         "科幻",
-        "剧情"
+        "动作"
       ],
-      "status": "new",
-      "firstAirDate": "2021-10-21"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
+      "status": "ended",
       "firstAirDate": "2019-11-01"
     },
     {
@@ -387,6 +345,28 @@
       "firstAirDate": "2026-05-28"
     },
     {
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-10-21"
+    },
+    {
       "id": 199318,
       "title": "Bad Sisters",
       "season": "S2",
@@ -409,24 +389,24 @@
       "firstAirDate": "2022-08-19"
     },
     {
-      "id": 110382,
-      "title": "Pachinko",
-      "season": "S2",
-      "episode": "E8",
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S4",
+      "episode": "E10",
       "category": [
         "drama"
       ],
-      "rating": 7.9,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/41ktiaqjVdR3OWe1XZnKTVscU8T.jpg",
-      "summary": "改编自《纽约时报》畅销小说，这个影响范围广大的传奇故事记录了一个韩国移民家庭四代人背井离乡、顽强求生和发展过程中有关希望和梦想的点点滴滴。",
-      "updateNote": "最新: 第 16 章 (2024-10-10) | 共 2 季",
-      "time": "10-10",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
+      "time": "11-18",
       "tags": [
         "剧情"
       ],
-      "status": "ended",
-      "firstAirDate": "2022-03-24"
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 245318,
@@ -449,6 +429,26 @@
       ],
       "status": "new",
       "firstAirDate": "2026-04-14"
+    },
+    {
+      "id": 198102,
+      "title": "历劫惊途",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
+      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
+      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
+      "time": "03-04",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-06-28"
     }
   ]
 }
