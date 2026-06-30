@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T06:38:23.822Z",
+  "updatedAt": "2026-06-30T06:04:08.871Z",
   "count": 20,
   "shows": [
     {
@@ -72,28 +72,6 @@
       "firstAirDate": "2023-05-04"
     },
     {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E5",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 6.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 信仰 (2026-06-25) | 下集: S1E6 2026-07-02播出 | 共 1 季",
-      "time": "06-25",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-06-04"
-    },
-    {
       "id": 95480,
       "title": "Slow Horses",
       "season": "S6",
@@ -118,48 +96,26 @@
       "firstAirDate": "2022-04-01"
     },
     {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E2",
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
+      "episode": "E5",
       "category": [
         "drama",
         "thriller"
       ],
-      "rating": 7.2,
+      "rating": 6.9,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 第 2 集 (2026-06-25) | 下集: S2E3 2026-07-02播出 | 共 2 季",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 信仰 (2026-06-25) | 下集: S1E6 2026-07-02播出 | 共 1 季",
       "time": "06-25",
       "tags": [
         "剧情",
-        "悬疑"
+        "犯罪"
       ],
       "status": "new",
-      "firstAirDate": "2024-04-04"
-    },
-    {
-      "id": 93740,
-      "title": "Foundation",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
-      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
-      "time": "09-11",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-09-23"
+      "firstAirDate": "2026-06-04"
     },
     {
       "id": 95396,
@@ -186,26 +142,26 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "season": "S4",
-      "episode": "E12",
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
+      "episode": "E2",
       "category": [
         "drama",
-        "comedy"
+        "thriller"
       ],
-      "rating": 8.3,
+      "rating": 7.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mo92ImS1Bkk24VxW8sOmazsyPQd.jpg",
-      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
-      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
-      "time": "05-30",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 第 2 集 (2026-06-25) | 下集: S2E3 2026-07-02播出 | 共 2 季",
+      "time": "06-25",
       "tags": [
         "剧情",
-        "喜剧"
+        "悬疑"
       ],
       "status": "new",
-      "firstAirDate": "2020-08-14"
+      "firstAirDate": "2024-04-04"
     },
     {
       "id": 225171,
@@ -228,6 +184,50 @@
       ],
       "status": "new",
       "firstAirDate": "2025-11-06"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
+      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
+      "time": "09-11",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-09-23"
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "season": "S4",
+      "episode": "E12",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 8.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mo92ImS1Bkk24VxW8sOmazsyPQd.jpg",
+      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
+      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
+      "time": "05-30",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2020-08-14"
     },
     {
       "id": 202411,
@@ -254,6 +254,30 @@
       "firstAirDate": "2023-11-16"
     },
     {
+      "id": 80752,
+      "title": "See",
+      "season": "S3",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "scifi",
+        "action"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
+      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
+      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
+      "time": "10-13",
+      "tags": [
+        "剧情",
+        "科幻",
+        "动作"
+      ],
+      "status": "ended",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 241609,
       "title": "掩耳盗邻",
       "season": "S2",
@@ -262,7 +286,7 @@
         "drama",
         "thriller"
       ],
-      "rating": 7.7,
+      "rating": 7.8,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
       "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
@@ -296,30 +320,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-01-26"
-    },
-    {
-      "id": 80752,
-      "title": "See",
-      "season": "S3",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "scifi",
-        "action"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
-      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
-      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
-      "time": "10-13",
-      "tags": [
-        "剧情",
-        "科幻",
-        "动作"
-      ],
-      "status": "ended",
-      "firstAirDate": "2019-11-01"
     },
     {
       "id": 252107,
@@ -367,6 +367,26 @@
       "firstAirDate": "2021-10-21"
     },
     {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 199318,
       "title": "Bad Sisters",
       "season": "S2",
@@ -387,26 +407,6 @@
       ],
       "status": "ended",
       "firstAirDate": "2022-08-19"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
     },
     {
       "id": 245318,
