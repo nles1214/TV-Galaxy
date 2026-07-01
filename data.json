@@ -1,30 +1,28 @@
 {
-  "updatedAt": "2026-06-30T06:04:08.871Z",
+  "updatedAt": "2026-07-01T06:18:59.879Z",
   "count": 20,
   "shows": [
     {
-      "id": 270476,
-      "title": "寡妇湾",
-      "season": "S2",
+      "id": 125988,
+      "title": "末日地堡",
+      "season": "S3",
       "episode": "E10",
       "category": [
-        "drama",
-        "comedy",
-        "thriller"
+        "scifi",
+        "drama"
       ],
       "rating": 8.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
-      "time": "06-16",
+      "poster": "https://image.tmdb.org/t/p/w300/xoM3lntYJzZwOBJJs5O1ix0jyfe.jpg",
+      "summary": "该剧基于休·豪伊所著同名畅销科幻系列小说改编，在一个满目疮痍、有毒物质遍布的未来世界中，成千上万的人居住在深埋在地下的巨大筒仓里。在警长违反了一项基本规则以及有些居民神秘死亡后，工程师朱丽叶开始揭开惊人的秘密和筒仓的真相。",
+      "updateNote": "最新: 进入火焰 (2025-01-16) | 下集: S3E1 2026-07-02播出 | 共 3 季",
+      "time": "01-16",
       "tags": [
-        "剧情",
-        "喜剧",
-        "悬疑"
+        "科幻",
+        "剧情"
       ],
-      "status": "hot",
-      "firstAirDate": "2026-04-28"
+      "status": "new",
+      "firstAirDate": "2023-05-04"
     },
     {
       "id": 87917,
@@ -50,26 +48,28 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 125988,
-      "title": "末日地堡",
-      "season": "S3",
+      "id": 270476,
+      "title": "寡妇湾",
+      "season": "S2",
       "episode": "E10",
       "category": [
-        "scifi",
-        "drama"
+        "drama",
+        "comedy",
+        "thriller"
       ],
       "rating": 8.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xoM3lntYJzZwOBJJs5O1ix0jyfe.jpg",
-      "summary": "该剧基于休·豪伊所著同名畅销科幻系列小说改编，在一个满目疮痍、有毒物质遍布的未来世界中，成千上万的人居住在深埋在地下的巨大筒仓里。在警长违反了一项基本规则以及有些居民神秘死亡后，工程师朱丽叶开始揭开惊人的秘密和筒仓的真相。",
-      "updateNote": "最新: 进入火焰 (2025-01-16) | 下集: S3E1 2026-07-02播出 | 共 3 季",
-      "time": "01-16",
+      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
+      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
+      "time": "06-16",
       "tags": [
-        "科幻",
-        "剧情"
+        "剧情",
+        "喜剧",
+        "悬疑"
       ],
-      "status": "new",
-      "firstAirDate": "2023-05-04"
+      "status": "hot",
+      "firstAirDate": "2026-04-28"
     },
     {
       "id": 95480,
@@ -96,26 +96,26 @@
       "firstAirDate": "2022-04-01"
     },
     {
-      "id": 277439,
-      "title": "恐怖角",
+      "id": 225171,
+      "title": "Pluribus",
       "season": "S1",
-      "episode": "E5",
+      "episode": "E9",
       "category": [
         "drama",
-        "thriller"
+        "scifi"
       ],
-      "rating": 6.9,
+      "rating": 7.9,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 信仰 (2026-06-25) | 下集: S1E6 2026-07-02播出 | 共 1 季",
-      "time": "06-25",
+      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
       "tags": [
         "剧情",
-        "犯罪"
+        "科幻"
       ],
       "status": "new",
-      "firstAirDate": "2026-06-04"
+      "firstAirDate": "2025-11-06"
     },
     {
       "id": 95396,
@@ -164,26 +164,26 @@
       "firstAirDate": "2024-04-04"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
+      "id": 277439,
+      "title": "恐怖角",
       "season": "S1",
-      "episode": "E9",
+      "episode": "E5",
       "category": [
         "drama",
-        "scifi"
+        "thriller"
       ],
-      "rating": 7.9,
+      "rating": 7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 信仰 (2026-06-25) | 下集: S1E6 2026-07-02播出 | 共 1 季",
+      "time": "06-25",
       "tags": [
         "剧情",
-        "科幻"
+        "犯罪"
       ],
       "status": "new",
-      "firstAirDate": "2025-11-06"
+      "firstAirDate": "2026-06-04"
     },
     {
       "id": 93740,
@@ -230,30 +230,6 @@
       "firstAirDate": "2020-08-14"
     },
     {
-      "id": 202411,
-      "title": "Monarch: Legacy of Monsters",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama",
-        "action"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
-      "summary": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
-      "updateNote": "最新: 归属之地 (2026-04-30) | 共 2 季",
-      "time": "04-30",
-      "tags": [
-        "科幻",
-        "剧情",
-        "动作"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-11-16"
-    },
-    {
       "id": 80752,
       "title": "See",
       "season": "S3",
@@ -276,6 +252,30 @@
       ],
       "status": "ended",
       "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 202411,
+      "title": "Monarch: Legacy of Monsters",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama",
+        "action"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
+      "summary": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
+      "updateNote": "最新: 归属之地 (2026-04-30) | 共 2 季",
+      "time": "04-30",
+      "tags": [
+        "科幻",
+        "剧情",
+        "动作"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-11-16"
     },
     {
       "id": 241609,
@@ -322,27 +322,24 @@
       "firstAirDate": "2023-01-26"
     },
     {
-      "id": 252107,
-      "title": "星城",
-      "season": "S1",
-      "episode": "E6",
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S4",
+      "episode": "E10",
       "category": [
-        "drama",
-        "scifi"
+        "drama"
       ],
-      "rating": 7.2,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
-      "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
-      "updateNote": "最新: 纸难包火 (2026-06-25) | 下集: S1E7 2026-07-02播出 | 共 1 季",
-      "time": "06-25",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
+      "time": "11-18",
       "tags": [
-        "剧情",
-        "科幻",
-        "War & Politics"
+        "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2026-05-28"
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 127235,
@@ -367,26 +364,6 @@
       "firstAirDate": "2021-10-21"
     },
     {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 199318,
       "title": "Bad Sisters",
       "season": "S2",
@@ -407,6 +384,29 @@
       ],
       "status": "ended",
       "firstAirDate": "2022-08-19"
+    },
+    {
+      "id": 252107,
+      "title": "星城",
+      "season": "S1",
+      "episode": "E6",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+      "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+      "updateNote": "最新: 纸难包火 (2026-06-25) | 下集: S1E7 2026-07-02播出 | 共 1 季",
+      "time": "06-25",
+      "tags": [
+        "剧情",
+        "科幻",
+        "War & Politics"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-05-28"
     },
     {
       "id": 245318,
