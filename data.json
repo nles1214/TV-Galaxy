@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T05:52:09.646Z",
+  "updatedAt": "2026-07-03T05:46:23.074Z",
   "count": 20,
   "shows": [
     {
@@ -23,29 +23,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-05-04"
-    },
-    {
-      "id": 87917,
-      "title": "For All Mankind",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
-      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
-      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
-      "time": "05-28",
-      "tags": [
-        "剧情",
-        "科幻",
-        "War & Politics"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
     },
     {
       "id": 95480,
@@ -72,6 +49,29 @@
       "firstAirDate": "2022-04-01"
     },
     {
+      "id": 87917,
+      "title": "For All Mankind",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
+      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
+      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
+      "time": "05-28",
+      "tags": [
+        "剧情",
+        "科幻",
+        "War & Politics"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 270476,
       "title": "寡妇湾",
       "season": "S2",
@@ -94,164 +94,6 @@
       ],
       "status": "hot",
       "firstAirDate": "2026-04-28"
-    },
-    {
-      "id": 225171,
-      "title": "Pluribus",
-      "season": "S1",
-      "episode": "E9",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
-      "tags": [
-        "剧情",
-        "科幻"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-11-06"
-    },
-    {
-      "id": 95396,
-      "title": "Severance",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "thriller",
-        "scifi"
-      ],
-      "rating": 8.4,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/s69hd1WlHYuE4XmAlIm7iAIhuTo.jpg",
-      "summary": "故事发生在一家名为卢蒙的超级大公司内，一种名为记忆分割术的全新技术正在公司内部进行实验，接受了手术的员工将进行人格分离手术，形成公司人格和日常人格，当踏进公司大门的那一刻，他们的日常人格就会陷入沉睡，身体由公司人格主导。相对的，在离开公司的那一刻，日常人格会重新接管身体，当然，这个人格不会记得任何在公司里发生的事情。\n\n马克（亚当·斯科特 Adam Scott 饰）、迪伦（扎克·切利 Zach Cherry 饰）和埃尔文（约翰·特托罗 John Turturro 饰）三人都接受了分离手术，这一天，他们所在的部门迎来了一位名叫海莉（布丽特·洛薇尔 Britt Lower 饰）的新同事，她身上的反叛气质打破了长久萦绕在这个部门，以及整个公司内的平静。",
-      "updateNote": "最新: 冷港 (2025-03-20) | 共 3 季",
-      "time": "03-20",
-      "tags": [
-        "剧情",
-        "悬疑",
-        "科幻"
-      ],
-      "status": "hot",
-      "firstAirDate": "2022-02-17"
-    },
-    {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E5",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 6.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 信仰 (2026-06-25) | 下集: S1E6 2026-07-02播出 | 共 1 季",
-      "time": "06-25",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-06-04"
-    },
-    {
-      "id": 93740,
-      "title": "Foundation",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
-      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
-      "time": "09-11",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-09-23"
-    },
-    {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "season": "S4",
-      "episode": "E12",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 8.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mo92ImS1Bkk24VxW8sOmazsyPQd.jpg",
-      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
-      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
-      "time": "05-30",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2020-08-14"
-    },
-    {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E2",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 第 2 集 (2026-06-25) | 下集: S2E3 2026-07-02播出 | 共 2 季",
-      "time": "06-25",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-04-04"
-    },
-    {
-      "id": 80752,
-      "title": "See",
-      "season": "S3",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "scifi",
-        "action"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
-      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
-      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
-      "time": "10-13",
-      "tags": [
-        "剧情",
-        "科幻",
-        "动作"
-      ],
-      "status": "ended",
-      "firstAirDate": "2019-11-01"
     },
     {
       "id": 202411,
@@ -278,6 +120,140 @@
       "firstAirDate": "2023-11-16"
     },
     {
+      "id": 95396,
+      "title": "Severance",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller",
+        "scifi"
+      ],
+      "rating": 8.4,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/s69hd1WlHYuE4XmAlIm7iAIhuTo.jpg",
+      "summary": "故事发生在一家名为卢蒙的超级大公司内，一种名为记忆分割术的全新技术正在公司内部进行实验，接受了手术的员工将进行人格分离手术，形成公司人格和日常人格，当踏进公司大门的那一刻，他们的日常人格就会陷入沉睡，身体由公司人格主导。相对的，在离开公司的那一刻，日常人格会重新接管身体，当然，这个人格不会记得任何在公司里发生的事情。\n\n马克（亚当·斯科特 Adam Scott 饰）、迪伦（扎克·切利 Zach Cherry 饰）和埃尔文（约翰·特托罗 John Turturro 饰）三人都接受了分离手术，这一天，他们所在的部门迎来了一位名叫海莉（布丽特·洛薇尔 Britt Lower 饰）的新同事，她身上的反叛气质打破了长久萦绕在这个部门，以及整个公司内的平静。",
+      "updateNote": "最新: 冷港 (2025-03-20) | 共 3 季",
+      "time": "03-20",
+      "tags": [
+        "剧情",
+        "悬疑",
+        "科幻"
+      ],
+      "status": "hot",
+      "firstAirDate": "2022-02-17"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/3xAcwTK97aXALQIHVD5iV6gfOfW.jpg",
+      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
+      "time": "09-11",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-09-23"
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-11-06"
+    },
+    {
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
+      "episode": "E6",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 6.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 负鼠 (2026-07-02) | 下集: S1E7 2026-07-09播出 | 共 1 季",
+      "time": "07-02",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-06-04"
+    },
+    {
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
+      "episode": "E3",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 第 3 集 (2026-07-02) | 下集: S2E4 2026-07-09播出 | 共 2 季",
+      "time": "07-02",
+      "tags": [
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-04-04"
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "season": "S4",
+      "episode": "E12",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 8.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mo92ImS1Bkk24VxW8sOmazsyPQd.jpg",
+      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
+      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
+      "time": "05-30",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2020-08-14"
+    },
+    {
       "id": 241609,
       "title": "掩耳盗邻",
       "season": "S2",
@@ -300,26 +276,28 @@
       "firstAirDate": "2025-04-10"
     },
     {
-      "id": 136311,
-      "title": "Shrinking",
+      "id": 80752,
+      "title": "See",
       "season": "S3",
-      "episode": "E11",
+      "episode": "E8",
       "category": [
         "drama",
-        "comedy"
+        "scifi",
+        "action"
       ],
-      "rating": 7.8,
+      "rating": 8.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
+      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
+      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
+      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
+      "time": "10-13",
       "tags": [
         "剧情",
-        "喜剧"
+        "科幻",
+        "动作"
       ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
+      "status": "ended",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 199318,
@@ -344,26 +322,26 @@
       "firstAirDate": "2022-08-19"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
+      "id": 136311,
+      "title": "Shrinking",
       "season": "S3",
-      "episode": "E10",
+      "episode": "E11",
       "category": [
-        "scifi",
-        "drama"
+        "drama",
+        "comedy"
       ],
-      "rating": 7.1,
+      "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
       "tags": [
-        "科幻",
-        "剧情"
+        "剧情",
+        "喜剧"
       ],
       "status": "new",
-      "firstAirDate": "2021-10-21"
+      "firstAirDate": "2023-01-26"
     },
     {
       "id": 245318,
@@ -388,6 +366,28 @@
       "firstAirDate": "2026-04-14"
     },
     {
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-10-21"
+    },
+    {
       "id": 90282,
       "title": "The Morning Show",
       "season": "S4",
@@ -408,29 +408,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 252107,
-      "title": "星城",
-      "season": "S1",
-      "episode": "E6",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
-      "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
-      "updateNote": "最新: 纸难包火 (2026-06-25) | 下集: S1E7 2026-07-02播出 | 共 1 季",
-      "time": "06-25",
-      "tags": [
-        "剧情",
-        "科幻",
-        "War & Politics"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-05-28"
-    },
-    {
       "id": 198102,
       "title": "历劫惊途",
       "season": "S2",
@@ -449,6 +426,29 @@
       ],
       "status": "new",
       "firstAirDate": "2023-06-28"
+    },
+    {
+      "id": 252107,
+      "title": "星城",
+      "season": "S1",
+      "episode": "E7",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+      "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+      "updateNote": "最新: 深耕 (2026-07-02) | 下集: S1E8 2026-07-09播出 | 共 1 季",
+      "time": "07-02",
+      "tags": [
+        "剧情",
+        "科幻",
+        "War & Politics"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-05-28"
     }
   ]
 }
