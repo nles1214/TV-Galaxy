@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-03T05:46:23.074Z",
+  "updatedAt": "2026-07-04T05:39:19.893Z",
   "count": 20,
   "shows": [
     {
       "id": 125988,
       "title": "末日地堡",
       "season": "S3",
-      "episode": "E10",
+      "episode": "E1",
       "category": [
         "scifi",
         "drama"
@@ -15,8 +15,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/xoM3lntYJzZwOBJJs5O1ix0jyfe.jpg",
       "summary": "该剧基于休·豪伊所著同名畅销科幻系列小说改编，在一个满目疮痍、有毒物质遍布的未来世界中，成千上万的人居住在深埋在地下的巨大筒仓里。在警长违反了一项基本规则以及有些居民神秘死亡后，工程师朱丽叶开始揭开惊人的秘密和筒仓的真相。",
-      "updateNote": "最新: 进入火焰 (2025-01-16) | 下集: S3E1 2026-07-02播出 | 共 3 季",
-      "time": "01-16",
+      "updateNote": "最新: 第 1 集 (2026-07-02) | 下集: S3E2 2026-07-09播出 | 共 3 季",
+      "time": "07-02",
       "tags": [
         "科幻",
         "剧情"
@@ -96,30 +96,6 @@
       "firstAirDate": "2026-04-28"
     },
     {
-      "id": 202411,
-      "title": "Monarch: Legacy of Monsters",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama",
-        "action"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
-      "summary": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
-      "updateNote": "最新: 归属之地 (2026-04-30) | 共 2 季",
-      "time": "04-30",
-      "tags": [
-        "科幻",
-        "剧情",
-        "动作"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-11-16"
-    },
-    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -144,6 +120,28 @@
       "firstAirDate": "2022-02-17"
     },
     {
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-11-06"
+    },
+    {
       "id": 93740,
       "title": "Foundation",
       "season": "S3",
@@ -166,26 +164,26 @@
       "firstAirDate": "2021-09-23"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "season": "S1",
-      "episode": "E9",
+      "id": 97546,
+      "title": "Ted Lasso",
+      "season": "S4",
+      "episode": "E12",
       "category": [
         "drama",
-        "scifi"
+        "comedy"
       ],
-      "rating": 7.9,
+      "rating": 8.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
+      "poster": "https://image.tmdb.org/t/p/w300/mo92ImS1Bkk24VxW8sOmazsyPQd.jpg",
+      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
+      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
+      "time": "05-30",
       "tags": [
         "剧情",
-        "科幻"
+        "喜剧"
       ],
       "status": "new",
-      "firstAirDate": "2025-11-06"
+      "firstAirDate": "2020-08-14"
     },
     {
       "id": 277439,
@@ -232,48 +230,28 @@
       "firstAirDate": "2024-04-04"
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "season": "S4",
-      "episode": "E12",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 8.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mo92ImS1Bkk24VxW8sOmazsyPQd.jpg",
-      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
-      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
-      "time": "05-30",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2020-08-14"
-    },
-    {
-      "id": 241609,
-      "title": "掩耳盗邻",
+      "id": 202411,
+      "title": "Monarch: Legacy of Monsters",
       "season": "S2",
       "episode": "E10",
       "category": [
+        "scifi",
         "drama",
-        "thriller"
+        "action"
       ],
       "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
-      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
-      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
-      "time": "06-04",
+      "poster": "https://image.tmdb.org/t/p/w300/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
+      "summary": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
+      "updateNote": "最新: 归属之地 (2026-04-30) | 共 2 季",
+      "time": "04-30",
       "tags": [
+        "科幻",
         "剧情",
-        "犯罪"
+        "动作"
       ],
       "status": "new",
-      "firstAirDate": "2025-04-10"
+      "firstAirDate": "2023-11-16"
     },
     {
       "id": 80752,
@@ -322,26 +300,26 @@
       "firstAirDate": "2022-08-19"
     },
     {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
+      "id": 241609,
+      "title": "掩耳盗邻",
+      "season": "S2",
+      "episode": "E10",
       "category": [
         "drama",
-        "comedy"
+        "thriller"
       ],
       "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
+      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
+      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
+      "time": "06-04",
       "tags": [
         "剧情",
-        "喜剧"
+        "犯罪"
       ],
       "status": "new",
-      "firstAirDate": "2023-01-26"
+      "firstAirDate": "2025-04-10"
     },
     {
       "id": 245318,
@@ -366,6 +344,28 @@
       "firstAirDate": "2026-04-14"
     },
     {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-26"
+    },
+    {
       "id": 127235,
       "title": "Invasion",
       "season": "S3",
@@ -386,6 +386,29 @@
       ],
       "status": "new",
       "firstAirDate": "2021-10-21"
+    },
+    {
+      "id": 258230,
+      "title": "Last Seen",
+      "season": "S1",
+      "episode": "",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 0,
+      "source": "Apple TV+",
+      "poster": "",
+      "summary": "",
+      "updateNote": " | 下集: S1E1 2026-09-09播出 | 共 1 季",
+      "time": "07-04",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-09-09"
     },
     {
       "id": 90282,
@@ -426,29 +449,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-06-28"
-    },
-    {
-      "id": 252107,
-      "title": "星城",
-      "season": "S1",
-      "episode": "E7",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
-      "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
-      "updateNote": "最新: 深耕 (2026-07-02) | 下集: S1E8 2026-07-09播出 | 共 1 季",
-      "time": "07-02",
-      "tags": [
-        "剧情",
-        "科幻",
-        "War & Politics"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-05-28"
     }
   ]
 }
