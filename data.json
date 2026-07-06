@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T05:57:36.437Z",
+  "updatedAt": "2026-07-06T06:21:10.153Z",
   "count": 20,
   "shows": [
     {
@@ -120,50 +120,6 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E6",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 6.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 负鼠 (2026-07-02) | 下集: S1E7 2026-07-09播出 | 共 1 季",
-      "time": "07-02",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-06-04"
-    },
-    {
-      "id": 225171,
-      "title": "Pluribus",
-      "season": "S1",
-      "episode": "E9",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
-      "tags": [
-        "剧情",
-        "科幻"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-11-06"
-    },
-    {
       "id": 97546,
       "title": "Ted Lasso",
       "season": "S4",
@@ -184,6 +140,50 @@
       ],
       "status": "new",
       "firstAirDate": "2020-08-14"
+    },
+    {
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
+      "episode": "E3",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 第 3 集 (2026-07-02) | 下集: S2E4 2026-07-09播出 | 共 2 季",
+      "time": "07-02",
+      "tags": [
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-04-04"
+    },
+    {
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
+      "episode": "E6",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 6.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 负鼠 (2026-07-02) | 下集: S1E7 2026-07-09播出 | 共 1 季",
+      "time": "07-02",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-06-04"
     },
     {
       "id": 93740,
@@ -208,26 +208,26 @@
       "firstAirDate": "2021-09-23"
     },
     {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E3",
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
       "category": [
         "drama",
-        "thriller"
+        "scifi"
       ],
-      "rating": 7.2,
+      "rating": 7.9,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 第 3 集 (2026-07-02) | 下集: S2E4 2026-07-09播出 | 共 2 季",
-      "time": "07-02",
+      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
       "tags": [
         "剧情",
-        "悬疑"
+        "科幻"
       ],
       "status": "new",
-      "firstAirDate": "2024-04-04"
+      "firstAirDate": "2025-11-06"
     },
     {
       "id": 202411,
@@ -401,7 +401,7 @@
       "poster": "",
       "summary": "",
       "updateNote": " | 下集: S1E1 2026-09-09播出 | 共 1 季",
-      "time": "07-05",
+      "time": "07-06",
       "tags": [
         "犯罪",
         "剧情",
@@ -409,6 +409,26 @@
       ],
       "status": "new",
       "firstAirDate": "2026-09-09"
+    },
+    {
+      "id": 110382,
+      "title": "Pachinko",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/41ktiaqjVdR3OWe1XZnKTVscU8T.jpg",
+      "summary": "改编自《纽约时报》畅销小说，这个影响范围广大的传奇故事记录了一个韩国移民家庭四代人背井离乡、顽强求生和发展过程中有关希望和梦想的点点滴滴。",
+      "updateNote": "最新: 第 16 章 (2024-10-10) | 共 2 季",
+      "time": "10-10",
+      "tags": [
+        "剧情"
+      ],
+      "status": "ended",
+      "firstAirDate": "2022-03-24"
     },
     {
       "id": 90282,
@@ -429,29 +449,6 @@
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 252107,
-      "title": "星城",
-      "season": "S1",
-      "episode": "E7",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
-      "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
-      "updateNote": "最新: 深耕 (2026-07-02) | 下集: S1E8 2026-07-09播出 | 共 1 季",
-      "time": "07-02",
-      "tags": [
-        "剧情",
-        "科幻",
-        "War & Politics"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-05-28"
     }
   ]
 }
