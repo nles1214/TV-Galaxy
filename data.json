@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T06:21:10.153Z",
+  "updatedAt": "2026-07-07T06:01:09.990Z",
   "count": 20,
   "shows": [
     {
@@ -96,6 +96,50 @@
       "firstAirDate": "2026-04-28"
     },
     {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "season": "S4",
+      "episode": "E12",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 8.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mo92ImS1Bkk24VxW8sOmazsyPQd.jpg",
+      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
+      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
+      "time": "05-30",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2020-08-14"
+    },
+    {
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
+      "episode": "E6",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 负鼠 (2026-07-02) | 下集: S1E7 2026-07-09播出 | 共 1 季",
+      "time": "07-02",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-06-04"
+    },
+    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -120,28 +164,6 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "season": "S4",
-      "episode": "E12",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 8.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mo92ImS1Bkk24VxW8sOmazsyPQd.jpg",
-      "summary": "美式足球教练泰德拉素受聘前往英格兰担任英超足球队教练。由于毫无相关执教经验，他未能获得球员及当地球迷的信任，但他誓要向大家证明：我是 Ted Lasso ！",
-      "updateNote": "最新: 道别 再会 (2023-05-30) | 下集: S4E1 2026-08-04播出 | 共 4 季",
-      "time": "05-30",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2020-08-14"
-    },
-    {
       "id": 203744,
       "title": "Sugar",
       "season": "S2",
@@ -150,7 +172,7 @@
         "drama",
         "thriller"
       ],
-      "rating": 7.2,
+      "rating": 7.1,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
       "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
@@ -162,28 +184,6 @@
       ],
       "status": "new",
       "firstAirDate": "2024-04-04"
-    },
-    {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E6",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 6.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 负鼠 (2026-07-02) | 下集: S1E7 2026-07-09播出 | 共 1 季",
-      "time": "07-02",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-06-04"
     },
     {
       "id": 93740,
@@ -276,6 +276,30 @@
       "firstAirDate": "2022-08-19"
     },
     {
+      "id": 241609,
+      "title": "掩耳盗邻",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
+      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
+      "time": "06-04",
+      "tags": [
+        "剧情",
+        "犯罪",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-04-10"
+    },
+    {
       "id": 80752,
       "title": "See",
       "season": "S3",
@@ -300,26 +324,26 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 241609,
-      "title": "掩耳盗邻",
-      "season": "S2",
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
       "episode": "E10",
       "category": [
-        "drama",
-        "thriller"
+        "scifi",
+        "drama"
       ],
-      "rating": 7.8,
+      "rating": 7.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
-      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
-      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
-      "time": "06-04",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
       "tags": [
-        "剧情",
-        "犯罪"
+        "科幻",
+        "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2025-04-10"
+      "firstAirDate": "2021-10-21"
     },
     {
       "id": 245318,
@@ -344,28 +368,6 @@
       "firstAirDate": "2026-04-14"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-10-21"
-    },
-    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -388,27 +390,47 @@
       "firstAirDate": "2023-01-26"
     },
     {
-      "id": 258230,
-      "title": "Last Seen",
-      "season": "S1",
-      "episode": "",
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S4",
+      "episode": "E10",
       "category": [
-        "thriller",
         "drama"
       ],
-      "rating": 0,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "",
-      "summary": "",
-      "updateNote": " | 下集: S1E1 2026-09-09播出 | 共 1 季",
-      "time": "07-06",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
+      "time": "11-18",
       "tags": [
-        "犯罪",
-        "剧情",
-        "悬疑"
+        "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2026-09-09"
+      "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 252107,
+      "title": "星城",
+      "season": "S1",
+      "episode": "E7",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+      "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+      "updateNote": "最新: 深耕 (2026-07-02) | 下集: S1E8 2026-07-09播出 | 共 1 季",
+      "time": "07-02",
+      "tags": [
+        "剧情",
+        "科幻",
+        "War & Politics"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-05-28"
     },
     {
       "id": 110382,
@@ -429,26 +451,6 @@
       ],
       "status": "ended",
       "firstAirDate": "2022-03-24"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
     }
   ]
 }
