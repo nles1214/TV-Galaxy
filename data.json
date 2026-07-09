@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T05:15:05.263Z",
+  "updatedAt": "2026-07-09T05:58:01.143Z",
   "count": 20,
   "shows": [
     {
@@ -232,6 +232,28 @@
       "firstAirDate": "2023-11-16"
     },
     {
+      "id": 199318,
+      "title": "Bad Sisters",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
+      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
+      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
+      "time": "12-24",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "ended",
+      "firstAirDate": "2022-08-19"
+    },
+    {
       "id": 80752,
       "title": "See",
       "season": "S3",
@@ -256,48 +278,26 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 199318,
-      "title": "Bad Sisters",
-      "season": "S2",
+      "id": 245318,
+      "title": "玛戈没钱了",
+      "season": "S1",
       "episode": "E8",
       "category": [
         "drama",
-        "thriller"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2022-08-19"
-    },
-    {
-      "id": 225171,
-      "title": "Pluribus",
-      "season": "S1",
-      "episode": "E9",
-      "category": [
-        "drama",
-        "scifi"
+        "comedy"
       ],
       "rating": 7.9,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
-      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
+      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
+      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
+      "updateNote": "最新: 蓄势待发 (2026-05-19) | 共 1 季",
+      "time": "05-19",
       "tags": [
         "剧情",
-        "科幻"
+        "喜剧"
       ],
       "status": "new",
-      "firstAirDate": "2025-11-06"
+      "firstAirDate": "2026-04-14"
     },
     {
       "id": 241609,
@@ -324,26 +324,26 @@
       "firstAirDate": "2025-04-10"
     },
     {
-      "id": 245318,
-      "title": "玛戈没钱了",
+      "id": 225171,
+      "title": "Pluribus",
       "season": "S1",
-      "episode": "E8",
+      "episode": "E9",
       "category": [
         "drama",
-        "comedy"
+        "scifi"
       ],
       "rating": 7.9,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
-      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
-      "updateNote": "最新: 蓄势待发 (2026-05-19) | 共 1 季",
-      "time": "05-19",
+      "poster": "https://image.tmdb.org/t/p/w300/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
       "tags": [
         "剧情",
-        "喜剧"
+        "科幻"
       ],
       "status": "new",
-      "firstAirDate": "2026-04-14"
+      "firstAirDate": "2025-11-06"
     },
     {
       "id": 127235,
@@ -366,6 +366,26 @@
       ],
       "status": "new",
       "firstAirDate": "2021-10-21"
+    },
+    {
+      "id": 110382,
+      "title": "Pachinko",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/41ktiaqjVdR3OWe1XZnKTVscU8T.jpg",
+      "summary": "改编自《纽约时报》畅销小说，这个影响范围广大的传奇故事记录了一个韩国移民家庭四代人背井离乡、顽强求生和发展过程中有关希望和梦想的点点滴滴。",
+      "updateNote": "最新: 第 16 章 (2024-10-10) | 共 2 季",
+      "time": "10-10",
+      "tags": [
+        "剧情"
+      ],
+      "status": "ended",
+      "firstAirDate": "2022-03-24"
     },
     {
       "id": 136311,
@@ -408,26 +428,6 @@
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 110382,
-      "title": "Pachinko",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/41ktiaqjVdR3OWe1XZnKTVscU8T.jpg",
-      "summary": "改编自《纽约时报》畅销小说，这个影响范围广大的传奇故事记录了一个韩国移民家庭四代人背井离乡、顽强求生和发展过程中有关希望和梦想的点点滴滴。",
-      "updateNote": "最新: 第 16 章 (2024-10-10) | 共 2 季",
-      "time": "10-10",
-      "tags": [
-        "剧情"
-      ],
-      "status": "ended",
-      "firstAirDate": "2022-03-24"
     },
     {
       "id": 252107,
