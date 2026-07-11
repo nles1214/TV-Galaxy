@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T05:56:43.873Z",
+  "updatedAt": "2026-07-11T04:57:56.243Z",
   "count": 20,
   "shows": [
     {
@@ -94,30 +94,6 @@
       "firstAirDate": "2026-04-28"
     },
     {
-      "id": 95396,
-      "title": "Severance",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "thriller",
-        "scifi"
-      ],
-      "rating": 8.4,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/s69hd1WlHYuE4XmAlIm7iAIhuTo.jpg",
-      "summary": "故事发生在一家名为卢蒙的超级大公司内，一种名为记忆分割术的全新技术正在公司内部进行实验，接受了手术的员工将进行人格分离手术，形成公司人格和日常人格，当踏进公司大门的那一刻，他们的日常人格就会陷入沉睡，身体由公司人格主导。相对的，在离开公司的那一刻，日常人格会重新接管身体，当然，这个人格不会记得任何在公司里发生的事情。\n\n马克（亚当·斯科特 Adam Scott 饰）、迪伦（扎克·切利 Zach Cherry 饰）和埃尔文（约翰·特托罗 John Turturro 饰）三人都接受了分离手术，这一天，他们所在的部门迎来了一位名叫海莉（布丽特·洛薇尔 Britt Lower 饰）的新同事，她身上的反叛气质打破了长久萦绕在这个部门，以及整个公司内的平静。",
-      "updateNote": "最新: 冷港 (2025-03-20) | 共 3 季",
-      "time": "03-20",
-      "tags": [
-        "剧情",
-        "悬疑",
-        "科幻"
-      ],
-      "status": "hot",
-      "firstAirDate": "2022-02-17"
-    },
-    {
       "id": 95480,
       "title": "Slow Horses",
       "season": "S6",
@@ -140,6 +116,30 @@
       ],
       "status": "new",
       "firstAirDate": "2022-04-01"
+    },
+    {
+      "id": 95396,
+      "title": "Severance",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller",
+        "scifi"
+      ],
+      "rating": 8.4,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/s69hd1WlHYuE4XmAlIm7iAIhuTo.jpg",
+      "summary": "故事发生在一家名为卢蒙的超级大公司内，一种名为记忆分割术的全新技术正在公司内部进行实验，接受了手术的员工将进行人格分离手术，形成公司人格和日常人格，当踏进公司大门的那一刻，他们的日常人格就会陷入沉睡，身体由公司人格主导。相对的，在离开公司的那一刻，日常人格会重新接管身体，当然，这个人格不会记得任何在公司里发生的事情。\n\n马克（亚当·斯科特 Adam Scott 饰）、迪伦（扎克·切利 Zach Cherry 饰）和埃尔文（约翰·特托罗 John Turturro 饰）三人都接受了分离手术，这一天，他们所在的部门迎来了一位名叫海莉（布丽特·洛薇尔 Britt Lower 饰）的新同事，她身上的反叛气质打破了长久萦绕在这个部门，以及整个公司内的平静。",
+      "updateNote": "最新: 冷港 (2025-03-20) | 共 3 季",
+      "time": "03-20",
+      "tags": [
+        "剧情",
+        "悬疑",
+        "科幻"
+      ],
+      "status": "hot",
+      "firstAirDate": "2022-02-17"
     },
     {
       "id": 277439,
@@ -211,7 +211,7 @@
       "id": 203744,
       "title": "Sugar",
       "season": "S2",
-      "episode": "E3",
+      "episode": "E4",
       "category": [
         "drama",
         "thriller"
@@ -220,8 +220,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
       "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 表盘线索 (2026-07-02) | 下集: S2E4 2026-07-09播出 | 共 2 季",
-      "time": "07-02",
+      "updateNote": "最新: 沙漠牧场 (2026-07-09) | 下集: S2E5 2026-07-16播出 | 共 2 季",
+      "time": "07-09",
       "tags": [
         "剧情",
         "悬疑"
@@ -252,6 +252,28 @@
       ],
       "status": "ended",
       "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 245318,
+      "title": "玛戈没钱了",
+      "season": "S1",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
+      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
+      "updateNote": "最新: 蓄势待发 (2026-05-19) | 共 1 季",
+      "time": "05-19",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-04-14"
     },
     {
       "id": 241609,
@@ -300,28 +322,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-11-16"
-    },
-    {
-      "id": 245318,
-      "title": "玛戈没钱了",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
-      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
-      "updateNote": "最新: 蓄势待发 (2026-05-19) | 共 1 季",
-      "time": "05-19",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-04-14"
     },
     {
       "id": 127235,
@@ -390,6 +390,29 @@
       "firstAirDate": "2023-01-26"
     },
     {
+      "id": 252107,
+      "title": "星城",
+      "season": "S1",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.4,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+      "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+      "updateNote": "最新: 狼群 (2026-07-09) | 共 1 季",
+      "time": "07-09",
+      "tags": [
+        "剧情",
+        "科幻",
+        "War & Politics"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-05-28"
+    },
+    {
       "id": 90282,
       "title": "The Morning Show",
       "season": "S4",
@@ -408,26 +431,6 @@
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 198102,
-      "title": "历劫惊途",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
-      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
-      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
-      "time": "03-04",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-06-28"
     },
     {
       "id": 285404,
