@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T05:13:19.954Z",
+  "updatedAt": "2026-07-23T05:18:19.838Z",
   "count": 20,
   "shows": [
     {
@@ -28,17 +28,17 @@
       "id": 278624,
       "title": "幸运女神",
       "season": "S1",
-      "episode": "E2",
+      "episode": "E3",
       "category": [
         "drama",
         "thriller"
       ],
-      "rating": 6.8,
+      "rating": 6.9,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
       "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
-      "updateNote": "最新: 股掌之间 (2026-07-14) | 下集: S1E3 2026-07-21播出 | 共 1 季",
-      "time": "07-14",
+      "updateNote": "最新: 察言观色 (2026-07-21) | 下集: S1E4 2026-07-28播出 | 共 1 季",
+      "time": "07-21",
       "tags": [
         "剧情",
         "犯罪"
@@ -136,28 +136,6 @@
       "firstAirDate": "2026-06-04"
     },
     {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E5",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 未知之数 (2026-07-16) | 下集: S2E6 2026-07-23播出 | 共 2 季",
-      "time": "07-16",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-04-04"
-    },
-    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -228,52 +206,26 @@
       "firstAirDate": "2026-04-28"
     },
     {
-      "id": 95480,
-      "title": "Slow Horses",
-      "season": "S6",
-      "episode": "E6",
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
+      "episode": "E5",
       "category": [
-        "thriller",
         "drama",
-        "comedy"
+        "thriller"
       ],
-      "rating": 8,
+      "rating": 7.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/qq7CaRWC4xZXTKDSkIVuRy45fOH.jpg",
-      "summary": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
-      "updateNote": "最新: 伤痕累累 (2025-10-29) | 下集: S6E1 2026-09-16播出 | 共 6 季",
-      "time": "10-29",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 未知之数 (2026-07-16) | 下集: S2E6 2026-07-23播出 | 共 2 季",
+      "time": "07-16",
       "tags": [
-        "犯罪",
         "剧情",
-        "喜剧"
+        "悬疑"
       ],
       "status": "new",
-      "firstAirDate": "2022-04-01"
-    },
-    {
-      "id": 80752,
-      "title": "See",
-      "season": "S3",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "scifi",
-        "action"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
-      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
-      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
-      "time": "10-13",
-      "tags": [
-        "剧情",
-        "科幻",
-        "动作"
-      ],
-      "status": "ended",
-      "firstAirDate": "2019-11-01"
+      "firstAirDate": "2024-04-04"
     },
     {
       "id": 202411,
@@ -300,6 +252,52 @@
       "firstAirDate": "2023-11-16"
     },
     {
+      "id": 80752,
+      "title": "See",
+      "season": "S3",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "scifi",
+        "action"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
+      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
+      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
+      "time": "10-13",
+      "tags": [
+        "剧情",
+        "科幻",
+        "动作"
+      ],
+      "status": "ended",
+      "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-26"
+    },
+    {
       "id": 225171,
       "title": "Pluribus",
       "season": "S1",
@@ -320,6 +318,30 @@
       ],
       "status": "new",
       "firstAirDate": "2025-11-06"
+    },
+    {
+      "id": 95480,
+      "title": "Slow Horses",
+      "season": "S6",
+      "episode": "E6",
+      "category": [
+        "thriller",
+        "drama",
+        "comedy"
+      ],
+      "rating": 8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/qq7CaRWC4xZXTKDSkIVuRy45fOH.jpg",
+      "summary": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
+      "updateNote": "最新: 伤痕累累 (2025-10-29) | 下集: S6E1 2026-09-16播出 | 共 6 季",
+      "time": "10-29",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2022-04-01"
     },
     {
       "id": 241609,
@@ -366,28 +388,6 @@
       "firstAirDate": "2026-05-19"
     },
     {
-      "id": 245318,
-      "title": "玛戈没钱了",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
-      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
-      "updateNote": "最新: 蓄势待发 (2026-05-19) | 共 1 季",
-      "time": "05-19",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-04-14"
-    },
-    {
       "id": 90282,
       "title": "The Morning Show",
       "season": "S4",
@@ -408,46 +408,47 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 110382,
-      "title": "Pachinko",
+      "id": 198102,
+      "title": "历劫惊途",
       "season": "S2",
       "episode": "E8",
       "category": [
         "drama"
       ],
-      "rating": 7.9,
+      "rating": 7.5,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/41ktiaqjVdR3OWe1XZnKTVscU8T.jpg",
-      "summary": "改编自《纽约时报》畅销小说，这个影响范围广大的传奇故事记录了一个韩国移民家庭四代人背井离乡、顽强求生和发展过程中有关希望和梦想的点点滴滴。",
-      "updateNote": "最新: 第 16 章 (2024-10-10) | 共 2 季",
-      "time": "10-10",
+      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
+      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
+      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
+      "time": "03-04",
       "tags": [
         "剧情"
       ],
-      "status": "ended",
-      "firstAirDate": "2022-03-24"
+      "status": "new",
+      "firstAirDate": "2023-06-28"
     },
     {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
+      "id": 252107,
+      "title": "星城",
+      "season": "S1",
+      "episode": "E8",
       "category": [
         "drama",
-        "comedy"
+        "scifi"
       ],
-      "rating": 7.8,
+      "rating": 7.6,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
+      "poster": "https://image.tmdb.org/t/p/w300/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+      "summary": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+      "updateNote": "最新: 狼群 (2026-07-09) | 共 1 季",
+      "time": "07-09",
       "tags": [
         "剧情",
-        "喜剧"
+        "科幻",
+        "War & Politics"
       ],
       "status": "new",
-      "firstAirDate": "2023-01-26"
+      "firstAirDate": "2026-05-28"
     }
   ]
 }
