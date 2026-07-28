@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T05:42:23.497Z",
+  "updatedAt": "2026-07-28T04:57:09.901Z",
   "count": 20,
   "shows": [
     {
@@ -206,30 +206,6 @@
       "firstAirDate": "2021-09-23"
     },
     {
-      "id": 202411,
-      "title": "Monarch: Legacy of Monsters",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama",
-        "action"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
-      "summary": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
-      "updateNote": "最新: 归属之地 (2026-04-30) | 共 2 季",
-      "time": "04-30",
-      "tags": [
-        "科幻",
-        "剧情",
-        "动作"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-11-16"
-    },
-    {
       "id": 270476,
       "title": "寡妇湾",
       "season": "S2",
@@ -254,6 +230,30 @@
       "firstAirDate": "2026-04-28"
     },
     {
+      "id": 202411,
+      "title": "Monarch: Legacy of Monsters",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama",
+        "action"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
+      "summary": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
+      "updateNote": "最新: 归属之地 (2026-04-30) | 共 2 季",
+      "time": "04-30",
+      "tags": [
+        "科幻",
+        "剧情",
+        "动作"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-11-16"
+    },
+    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -276,26 +276,6 @@
       "firstAirDate": "2023-01-26"
     },
     {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 225171,
       "title": "Pluribus",
       "season": "S1",
@@ -316,6 +296,48 @@
       ],
       "status": "new",
       "firstAirDate": "2025-11-06"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 4 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 196322,
+      "title": "Dark Matter",
+      "season": "S2",
+      "episode": "E9",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg",
+      "summary": "　　《人生复本》被誉为十年来最好的科幻小说之一，故事聚焦人生中未被选择的道路。\n\n　　剧集围绕Jason Dessen（Joel Edgerton饰）展开，他是一位物理学家、教授，也是个恋家的男人。有一天夜里，从芝加哥街头步行回家时，Jason被绑架进入了自己人生的另一个版本。面对自己可能经历的多元人生，他试图回到原本的现实里，奇事迅速成了场噩梦。在这重重现实迷宫中，Jason踏上了一段痛苦的旅程，以期回到真正的家人身边，并从他自己——一个最可怕又不可战胜的敌人手中，把家人拯救出来。",
+      "updateNote": "最新: 纠缠 (2024-06-25) | 下集: S2E1 2026-08-27播出 | 共 2 季",
+      "time": "06-25",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-05-07"
     },
     {
       "id": 80752,
@@ -366,28 +388,6 @@
       "firstAirDate": "2025-04-10"
     },
     {
-      "id": 196322,
-      "title": "Dark Matter",
-      "season": "S2",
-      "episode": "E9",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg",
-      "summary": "　　《人生复本》被誉为十年来最好的科幻小说之一，故事聚焦人生中未被选择的道路。\n\n　　剧集围绕Jason Dessen（Joel Edgerton饰）展开，他是一位物理学家、教授，也是个恋家的男人。有一天夜里，从芝加哥街头步行回家时，Jason被绑架进入了自己人生的另一个版本。面对自己可能经历的多元人生，他试图回到原本的现实里，奇事迅速成了场噩梦。在这重重现实迷宫中，Jason踏上了一段痛苦的旅程，以期回到真正的家人身边，并从他自己——一个最可怕又不可战胜的敌人手中，把家人拯救出来。",
-      "updateNote": "最新: 纠缠 (2024-06-25) | 下集: S2E1 2026-08-27播出 | 共 2 季",
-      "time": "06-25",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-05-07"
-    },
-    {
       "id": 98177,
       "title": "尝试",
       "season": "S5",
@@ -406,26 +406,6 @@
       ],
       "status": "new",
       "firstAirDate": "2020-05-01"
-    },
-    {
-      "id": 285404,
-      "title": "极乐布局",
-      "season": "S1",
-      "episode": "E10",
-      "category": [
-        "comedy"
-      ],
-      "rating": 6.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mLLfG5caoX2oA59saA14gQGq6Vy.jpg",
-      "summary": "刚离婚成为单身母亲的宝拉意外陷入牵涉勒索、谋杀和青少年足球的危险漩涡之中。",
-      "updateNote": "最新: 皇后区 (2026-07-14) | 共 1 季",
-      "time": "07-14",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-05-19"
     },
     {
       "id": 127235,
@@ -448,6 +428,26 @@
       ],
       "status": "new",
       "firstAirDate": "2021-10-21"
+    },
+    {
+      "id": 198102,
+      "title": "历劫惊途",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
+      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
+      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
+      "time": "03-04",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-06-28"
     }
   ]
 }
