@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T04:56:44.374Z",
+  "updatedAt": "2026-08-05T04:58:24.445Z",
   "count": 20,
   "shows": [
     {
@@ -28,45 +28,23 @@
       "id": 278624,
       "title": "幸运女神",
       "season": "S1",
-      "episode": "E4",
+      "episode": "E5",
       "category": [
         "drama",
         "thriller"
       ],
-      "rating": 7.3,
+      "rating": 7.4,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
       "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
-      "updateNote": "最新: 当局者迷 (2026-07-28) | 下集: S1E5 2026-08-04播出 | 共 1 季",
-      "time": "07-28",
+      "updateNote": "最新: 好人坏人 (2026-08-04) | 下集: S1E6 2026-08-11播出 | 共 1 季",
+      "time": "08-04",
       "tags": [
         "剧情",
         "犯罪"
       ],
       "status": "new",
       "firstAirDate": "2026-07-14"
-    },
-    {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E10",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
-      "time": "07-30",
-      "tags": [
-        "犯罪",
-        "剧情"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-06-04"
     },
     {
       "id": 97546,
@@ -89,6 +67,28 @@
       ],
       "status": "new",
       "firstAirDate": "2020-08-14"
+    },
+    {
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
+      "time": "07-30",
+      "tags": [
+        "犯罪",
+        "剧情"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-06-04"
     },
     {
       "id": 203744,
@@ -206,30 +206,6 @@
       "firstAirDate": "2021-09-23"
     },
     {
-      "id": 270476,
-      "title": "寡妇湾",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "comedy",
-        "thriller"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
-      "time": "06-16",
-      "tags": [
-        "剧情",
-        "喜剧",
-        "悬疑"
-      ],
-      "status": "hot",
-      "firstAirDate": "2026-04-28"
-    },
-    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -296,6 +272,30 @@
       "firstAirDate": "2024-05-07"
     },
     {
+      "id": 270476,
+      "title": "寡妇湾",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "comedy",
+        "thriller"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
+      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
+      "time": "06-16",
+      "tags": [
+        "剧情",
+        "喜剧",
+        "悬疑"
+      ],
+      "status": "hot",
+      "firstAirDate": "2026-04-28"
+    },
+    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -344,26 +344,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 98177,
       "title": "尝试",
       "season": "S5",
@@ -382,6 +362,26 @@
       ],
       "status": "new",
       "firstAirDate": "2020-05-01"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 241609,
