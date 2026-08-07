@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-06T04:59:17.288Z",
+  "updatedAt": "2026-08-07T04:20:43.639Z",
   "count": 20,
   "shows": [
     {
       "id": 125988,
       "title": "末日地堡",
       "season": "S4",
-      "episode": "E5",
+      "episode": "E6",
       "category": [
         "scifi",
         "drama"
@@ -15,36 +15,14 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
       "summary": "该剧基于休·豪伊所著同名畅销科幻系列小说改编，在一个满目疮痍、有毒物质遍布的未来世界中，成千上万的人居住在深埋在地下的巨大筒仓里。在警长违反了一项基本规则以及有些居民神秘死亡后，工程师朱丽叶开始揭开惊人的秘密和筒仓的真相。",
-      "updateNote": "最新: 记忆 (2026-07-30) | 下集: S3E6 2026-08-06播出 | 共 4 季",
-      "time": "07-30",
+      "updateNote": "最新: 车程 (2026-08-06) | 下集: S3E7 2026-08-13播出 | 共 4 季",
+      "time": "08-06",
       "tags": [
         "科幻",
         "剧情"
       ],
       "status": "new",
       "firstAirDate": "2023-05-04"
-    },
-    {
-      "id": 278624,
-      "title": "幸运女神",
-      "season": "S1",
-      "episode": "E5",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.4,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
-      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
-      "updateNote": "最新: 好人坏人 (2026-08-04) | 下集: S1E6 2026-08-11播出 | 共 1 季",
-      "time": "08-04",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-07-14"
     },
     {
       "id": 97546,
@@ -69,6 +47,28 @@
       "firstAirDate": "2020-08-14"
     },
     {
+      "id": 278624,
+      "title": "幸运女神",
+      "season": "S1",
+      "episode": "E5",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.4,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
+      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
+      "updateNote": "最新: 好人坏人 (2026-08-04) | 下集: S1E6 2026-08-11播出 | 共 1 季",
+      "time": "08-04",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-07-14"
+    },
+    {
       "id": 277439,
       "title": "恐怖角",
       "season": "S1",
@@ -89,6 +89,53 @@
       ],
       "status": "ended",
       "firstAirDate": "2026-06-04"
+    },
+    {
+      "id": 241609,
+      "title": "掩耳盗邻",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
+      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
+      "time": "06-04",
+      "tags": [
+        "剧情",
+        "犯罪",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-04-10"
+    },
+    {
+      "id": 87917,
+      "title": "For All Mankind",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
+      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
+      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
+      "time": "05-28",
+      "tags": [
+        "剧情",
+        "科幻",
+        "War & Politics"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 95480,
@@ -137,29 +184,6 @@
       "firstAirDate": "2024-04-04"
     },
     {
-      "id": 87917,
-      "title": "For All Mankind",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
-      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
-      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
-      "time": "05-28",
-      "tags": [
-        "剧情",
-        "科幻",
-        "War & Politics"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -206,6 +230,28 @@
       "firstAirDate": "2021-09-23"
     },
     {
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-11-06"
+    },
+    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -228,26 +274,26 @@
       "firstAirDate": "2023-01-26"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "season": "S1",
+      "id": 196322,
+      "title": "Dark Matter",
+      "season": "S2",
       "episode": "E9",
       "category": [
-        "drama",
-        "scifi"
+        "scifi",
+        "drama"
       ],
-      "rating": 7.9,
+      "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
-      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
+      "poster": "https://image.tmdb.org/t/p/w300/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg",
+      "summary": "　　《人生复本》被誉为十年来最好的科幻小说之一，故事聚焦人生中未被选择的道路。\n\n　　剧集围绕Jason Dessen（Joel Edgerton饰）展开，他是一位物理学家、教授，也是个恋家的男人。有一天夜里，从芝加哥街头步行回家时，Jason被绑架进入了自己人生的另一个版本。面对自己可能经历的多元人生，他试图回到原本的现实里，奇事迅速成了场噩梦。在这重重现实迷宫中，Jason踏上了一段痛苦的旅程，以期回到真正的家人身边，并从他自己——一个最可怕又不可战胜的敌人手中，把家人拯救出来。",
+      "updateNote": "最新: 纠缠 (2024-06-25) | 下集: S2E1 2026-08-27播出 | 共 2 季",
+      "time": "06-25",
       "tags": [
-        "剧情",
-        "科幻"
+        "科幻",
+        "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2025-11-06"
+      "firstAirDate": "2024-05-07"
     },
     {
       "id": 270476,
@@ -274,52 +320,6 @@
       "firstAirDate": "2026-04-28"
     },
     {
-      "id": 241609,
-      "title": "掩耳盗邻",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "thriller",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
-      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
-      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
-      "time": "06-04",
-      "tags": [
-        "剧情",
-        "犯罪",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-04-10"
-    },
-    {
-      "id": 196322,
-      "title": "Dark Matter",
-      "season": "S2",
-      "episode": "E9",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg",
-      "summary": "　　《人生复本》被誉为十年来最好的科幻小说之一，故事聚焦人生中未被选择的道路。\n\n　　剧集围绕Jason Dessen（Joel Edgerton饰）展开，他是一位物理学家、教授，也是个恋家的男人。有一天夜里，从芝加哥街头步行回家时，Jason被绑架进入了自己人生的另一个版本。面对自己可能经历的多元人生，他试图回到原本的现实里，奇事迅速成了场噩梦。在这重重现实迷宫中，Jason踏上了一段痛苦的旅程，以期回到真正的家人身边，并从他自己——一个最可怕又不可战胜的敌人手中，把家人拯救出来。",
-      "updateNote": "最新: 纠缠 (2024-06-25) | 下集: S2E1 2026-08-27播出 | 共 2 季",
-      "time": "06-25",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-05-07"
-    },
-    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -342,6 +342,26 @@
       ],
       "status": "new",
       "firstAirDate": "2023-11-16"
+    },
+    {
+      "id": 98177,
+      "title": "尝试",
+      "season": "S5",
+      "episode": "E5",
+      "category": [
+        "comedy"
+      ],
+      "rating": 7.6,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/vbFoXpvwIjZ677Y6kg7Y2ZDhB84.jpg",
+      "summary": "妮基和杰森唯一的心愿是生一个宝宝，但他们无法生育。于是，他们决定领养。考虑到他们生活一团乱的朋友、爱小题大做的家人和充满不定数的生活，这对夫妻最终是否能获得他们梦寐以求的小家庭？",
+      "updateNote": "最新: 反胃感 (2026-08-05) | 下集: S5E6 2026-08-12播出 | 共 5 季",
+      "time": "08-05",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2020-05-01"
     },
     {
       "id": 80752,
@@ -368,26 +388,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 98177,
-      "title": "尝试",
-      "season": "S5",
-      "episode": "E4",
-      "category": [
-        "comedy"
-      ],
-      "rating": 7.6,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/vbFoXpvwIjZ677Y6kg7Y2ZDhB84.jpg",
-      "summary": "妮基和杰森唯一的心愿是生一个宝宝，但他们无法生育。于是，他们决定领养。考虑到他们生活一团乱的朋友、爱小题大做的家人和充满不定数的生活，这对夫妻最终是否能获得他们梦寐以求的小家庭？",
-      "updateNote": "最新: 飓风 (2026-07-29) | 下集: S5E5 2026-08-05播出 | 共 5 季",
-      "time": "07-29",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2020-05-01"
-    },
-    {
       "id": 90282,
       "title": "The Morning Show",
       "season": "S5",
@@ -406,28 +406,6 @@
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 247767,
-      "title": "The Studio",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "comedy",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
-      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
-      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
-      "time": "05-20",
-      "tags": [
-        "喜剧",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-03-25"
     },
     {
       "id": 127235,
@@ -450,6 +428,28 @@
       ],
       "status": "new",
       "firstAirDate": "2021-10-21"
+    },
+    {
+      "id": 156933,
+      "title": "Presumed Innocent",
+      "season": "S1",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/6NmTbdNlvpKRxh5PPyj6GT8C37d.jpg",
+      "summary": "一桩骇人听闻的谋杀案闹得芝加哥检察官办公室天翻地覆，因为该办公室的一名成员成了这起犯罪的嫌疑人，使其不得不为维系家庭而战。\n\n该剧改编自斯考特·杜罗所著同名小说，讲述芝加哥检察官办公室发生了一起可怕的谋杀案后，检察官之一拉斯蒂·萨比奇(吉伦哈尔)成了犯罪嫌疑人。在被告为维持家庭和婚姻而奋斗的过程中，探索痴迷、性、政治以及爱情的力量和局限性。\n\n内伽饰演拉斯蒂妻子芭芭拉，是名艺术家、画廊老板和母亲，她的生活在丈夫被指控谋杀他的情妇后被颠覆了，她在处理受伤的心和破碎的婚姻时也为家人而战，并与丈夫广为人知的审判作斗争。",
+      "updateNote": "最新: 裁决 (2024-07-23) | 共 1 季",
+      "time": "07-23",
+      "tags": [
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-06-11"
     }
   ]
 }
