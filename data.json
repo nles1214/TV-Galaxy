@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T03:26:06.235Z",
+  "updatedAt": "2026-08-10T03:45:30.363Z",
   "count": 20,
   "shows": [
     {
@@ -115,28 +115,6 @@
       "firstAirDate": "2025-04-10"
     },
     {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E10",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
-      "time": "07-30",
-      "tags": [
-        "犯罪",
-        "剧情"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-06-04"
-    },
-    {
       "id": 95480,
       "title": "Slow Horses",
       "season": "S6",
@@ -159,6 +137,28 @@
       ],
       "status": "new",
       "firstAirDate": "2022-04-01"
+    },
+    {
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
+      "time": "07-30",
+      "tags": [
+        "犯罪",
+        "剧情"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-06-04"
     },
     {
       "id": 87917,
@@ -296,30 +296,6 @@
       "firstAirDate": "2024-05-07"
     },
     {
-      "id": 270476,
-      "title": "寡妇湾",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "comedy",
-        "thriller"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
-      "time": "06-16",
-      "tags": [
-        "剧情",
-        "喜剧",
-        "悬疑"
-      ],
-      "status": "hot",
-      "firstAirDate": "2026-04-28"
-    },
-    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -342,6 +318,30 @@
       ],
       "status": "new",
       "firstAirDate": "2023-11-16"
+    },
+    {
+      "id": 270476,
+      "title": "寡妇湾",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "comedy",
+        "thriller"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
+      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
+      "time": "06-16",
+      "tags": [
+        "剧情",
+        "喜剧",
+        "悬疑"
+      ],
+      "status": "hot",
+      "firstAirDate": "2026-04-28"
     },
     {
       "id": 80752,
@@ -388,6 +388,26 @@
       "firstAirDate": "2020-05-01"
     },
     {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 156933,
       "title": "Presumed Innocent",
       "season": "S1",
@@ -430,26 +450,6 @@
       ],
       "status": "new",
       "firstAirDate": "2021-10-21"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
     }
   ]
 }
