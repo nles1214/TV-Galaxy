@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T03:45:30.363Z",
+  "updatedAt": "2026-08-11T03:27:54.746Z",
   "count": 20,
   "shows": [
     {
@@ -230,28 +230,6 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
-      "time": "09-11",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-09-23"
-    },
-    {
       "id": 225171,
       "title": "Pluribus",
       "season": "S1",
@@ -272,6 +250,28 @@
       ],
       "status": "new",
       "firstAirDate": "2025-11-06"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
+      "time": "09-11",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-09-23"
     },
     {
       "id": 196322,
