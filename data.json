@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T03:58:19.665Z",
+  "updatedAt": "2026-08-13T04:02:26.895Z",
   "count": 20,
   "shows": [
     {
@@ -69,28 +69,6 @@
       "firstAirDate": "2026-07-14"
     },
     {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
-      "time": "08-06",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-04-04"
-    },
-    {
       "id": 241609,
       "title": "掩耳盗邻",
       "season": "S2",
@@ -113,6 +91,28 @@
       ],
       "status": "new",
       "firstAirDate": "2025-04-10"
+    },
+    {
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
+      "time": "08-06",
+      "tags": [
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-04-04"
     },
     {
       "id": 95480,
@@ -162,50 +162,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E10",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
-      "time": "07-30",
-      "tags": [
-        "犯罪",
-        "剧情"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-06-04"
-    },
-    {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
-    },
-    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -230,26 +186,26 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
+      "id": 277439,
+      "title": "恐怖角",
       "season": "S1",
-      "episode": "E9",
+      "episode": "E10",
       "category": [
-        "drama",
-        "scifi"
+        "thriller",
+        "drama"
       ],
-      "rating": 7.9,
+      "rating": 7.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
-      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
+      "time": "07-30",
       "tags": [
-        "剧情",
-        "科幻"
+        "犯罪",
+        "剧情"
       ],
-      "status": "new",
-      "firstAirDate": "2025-11-06"
+      "status": "ended",
+      "firstAirDate": "2026-06-04"
     },
     {
       "id": 93740,
@@ -272,6 +228,50 @@
       ],
       "status": "new",
       "firstAirDate": "2021-09-23"
+    },
+    {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-26"
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-11-06"
     },
     {
       "id": 196322,
@@ -391,7 +391,7 @@
       "id": 98177,
       "title": "尝试",
       "season": "S5",
-      "episode": "E5",
+      "episode": "E6",
       "category": [
         "comedy"
       ],
@@ -399,8 +399,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/vbFoXpvwIjZ677Y6kg7Y2ZDhB84.jpg",
       "summary": "妮基和杰森唯一的心愿是生一个宝宝，但他们无法生育。于是，他们决定领养。考虑到他们生活一团乱的朋友、爱小题大做的家人和充满不定数的生活，这对夫妻最终是否能获得他们梦寐以求的小家庭？",
-      "updateNote": "最新: 反胃感 (2026-08-05) | 下集: S5E6 2026-08-12播出 | 共 5 季",
-      "time": "08-05",
+      "updateNote": "最新: 万圣节 (2026-08-12) | 下集: S5E7 2026-08-19播出 | 共 5 季",
+      "time": "08-12",
       "tags": [
         "喜剧"
       ],
