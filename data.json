@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T02:44:27.463Z",
+  "updatedAt": "2026-08-16T02:53:11.719Z",
   "count": 20,
   "shows": [
     {
@@ -55,7 +55,7 @@
         "drama",
         "thriller"
       ],
-      "rating": 7.4,
+      "rating": 7.3,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
       "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
@@ -67,28 +67,6 @@
       ],
       "status": "new",
       "firstAirDate": "2026-07-14"
-    },
-    {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
-      "time": "08-06",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-04-04"
     },
     {
       "id": 241609,
@@ -113,6 +91,28 @@
       ],
       "status": "new",
       "firstAirDate": "2025-04-10"
+    },
+    {
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
+      "time": "08-06",
+      "tags": [
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-04-04"
     },
     {
       "id": 95480,
@@ -230,28 +230,6 @@
       "firstAirDate": "2023-01-26"
     },
     {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E10",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
-      "time": "07-30",
-      "tags": [
-        "犯罪",
-        "剧情"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-06-04"
-    },
-    {
       "id": 225171,
       "title": "Pluribus",
       "season": "S1",
@@ -272,6 +250,28 @@
       ],
       "status": "new",
       "firstAirDate": "2025-11-06"
+    },
+    {
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
+      "time": "07-30",
+      "tags": [
+        "犯罪",
+        "剧情"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-06-04"
     },
     {
       "id": 202411,
@@ -344,28 +344,6 @@
       "firstAirDate": "2024-05-07"
     },
     {
-      "id": 253983,
-      "title": "Las azules",
-      "season": "S2",
-      "episode": "E1",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/5WfpZWS94tFmYBnVLHTcZOJTJzr.jpg",
-      "summary": "1971年，四名女性不顾极端保守的社会准则，加入了墨西哥第一支女警队，却发现这只是为了分散媒体对连环杀手的注意力而采取的宣传噱头。随着遇害者数量的增加，她们约定誓将凶手绳之以法。",
-      "updateNote": "最新: 毛里齐奥 (2026-08-11) | 下集: S2E2 2026-08-18播出 | 共 2 季",
-      "time": "08-11",
-      "tags": [
-        "犯罪",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-07-30"
-    },
-    {
       "id": 80752,
       "title": "See",
       "season": "S3",
@@ -390,24 +368,26 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
+      "id": 253983,
+      "title": "Las azules",
+      "season": "S2",
+      "episode": "E1",
       "category": [
+        "thriller",
         "drama"
       ],
-      "rating": 7.7,
+      "rating": 7.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
+      "poster": "https://image.tmdb.org/t/p/w300/5WfpZWS94tFmYBnVLHTcZOJTJzr.jpg",
+      "summary": "1971年，四名女性不顾极端保守的社会准则，加入了墨西哥第一支女警队，却发现这只是为了分散媒体对连环杀手的注意力而采取的宣传噱头。随着遇害者数量的增加，她们约定誓将凶手绳之以法。",
+      "updateNote": "最新: 毛里齐奥 (2026-08-11) | 下集: S2E2 2026-08-18播出 | 共 2 季",
+      "time": "08-11",
       "tags": [
+        "犯罪",
         "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2019-11-01"
+      "firstAirDate": "2024-07-30"
     },
     {
       "id": 98177,
@@ -428,6 +408,26 @@
       ],
       "status": "new",
       "firstAirDate": "2020-05-01"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 156933,
