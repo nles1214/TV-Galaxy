@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T02:53:11.719Z",
+  "updatedAt": "2026-08-17T02:53:07.912Z",
   "count": 20,
   "shows": [
     {
@@ -93,6 +93,29 @@
       "firstAirDate": "2025-04-10"
     },
     {
+      "id": 95480,
+      "title": "Slow Horses",
+      "season": "S6",
+      "episode": "E6",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/qq7CaRWC4xZXTKDSkIVuRy45fOH.jpg",
+      "summary": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
+      "updateNote": "最新: 伤痕累累 (2025-10-29) | 下集: S6E1 2026-09-16播出 | 共 6 季",
+      "time": "10-29",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2022-04-01"
+    },
+    {
       "id": 203744,
       "title": "Sugar",
       "season": "S2",
@@ -113,30 +136,6 @@
       ],
       "status": "new",
       "firstAirDate": "2024-04-04"
-    },
-    {
-      "id": 95480,
-      "title": "Slow Horses",
-      "season": "S6",
-      "episode": "E6",
-      "category": [
-        "thriller",
-        "drama",
-        "comedy"
-      ],
-      "rating": 8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/qq7CaRWC4xZXTKDSkIVuRy45fOH.jpg",
-      "summary": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
-      "updateNote": "最新: 伤痕累累 (2025-10-29) | 下集: S6E1 2026-09-16播出 | 共 6 季",
-      "time": "10-29",
-      "tags": [
-        "犯罪",
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2022-04-01"
     },
     {
       "id": 87917,
@@ -208,6 +207,27 @@
       "firstAirDate": "2021-09-23"
     },
     {
+      "id": 46518,
+      "title": "Masters of the Air",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/nfXMImXVd0Jp1H0wbWFKMKin4Yi.jpg",
+      "summary": "本剧由《兄弟连》和《太平洋战争》的制片人史蒂文·斯皮尔伯格、汤姆·汉克斯和加里·高兹曼联袂打造。第二次世界大战期间，第100轰炸机大队的飞行员出生入死，用勇气、牺牲和胜利建立一段兄弟情谊。",
+      "updateNote": "最新: 第九部分 (2024-03-14) | 共 1 季",
+      "time": "03-14",
+      "tags": [
+        "剧情",
+        "War & Politics"
+      ],
+      "status": "ended",
+      "firstAirDate": "2024-01-25"
+    },
+    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -252,26 +272,28 @@
       "firstAirDate": "2025-11-06"
     },
     {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
+      "id": 270476,
+      "title": "寡妇湾",
+      "season": "S2",
       "episode": "E10",
       "category": [
-        "thriller",
-        "drama"
+        "drama",
+        "comedy",
+        "thriller"
       ],
-      "rating": 7.2,
+      "rating": 8.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
-      "time": "07-30",
+      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
+      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
+      "time": "06-16",
       "tags": [
-        "犯罪",
-        "剧情"
+        "剧情",
+        "喜剧",
+        "悬疑"
       ],
-      "status": "ended",
-      "firstAirDate": "2026-06-04"
+      "status": "hot",
+      "firstAirDate": "2026-04-28"
     },
     {
       "id": 202411,
@@ -298,50 +320,26 @@
       "firstAirDate": "2023-11-16"
     },
     {
-      "id": 270476,
-      "title": "寡妇湾",
-      "season": "S2",
-      "episode": "E10",
+      "id": 156933,
+      "title": "Presumed Innocent",
+      "season": "S1",
+      "episode": "E8",
       "category": [
         "drama",
-        "comedy",
         "thriller"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
-      "time": "06-16",
-      "tags": [
-        "剧情",
-        "喜剧",
-        "悬疑"
-      ],
-      "status": "hot",
-      "firstAirDate": "2026-04-28"
-    },
-    {
-      "id": 196322,
-      "title": "Dark Matter",
-      "season": "S2",
-      "episode": "E9",
-      "category": [
-        "scifi",
-        "drama"
       ],
       "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg",
-      "summary": "　　《人生复本》被誉为十年来最好的科幻小说之一，故事聚焦人生中未被选择的道路。\n\n　　剧集围绕Jason Dessen（Joel Edgerton饰）展开，他是一位物理学家、教授，也是个恋家的男人。有一天夜里，从芝加哥街头步行回家时，Jason被绑架进入了自己人生的另一个版本。面对自己可能经历的多元人生，他试图回到原本的现实里，奇事迅速成了场噩梦。在这重重现实迷宫中，Jason踏上了一段痛苦的旅程，以期回到真正的家人身边，并从他自己——一个最可怕又不可战胜的敌人手中，把家人拯救出来。",
-      "updateNote": "最新: 纠缠 (2024-06-25) | 下集: S2E1 2026-08-27播出 | 共 2 季",
-      "time": "06-25",
+      "poster": "https://image.tmdb.org/t/p/w300/6NmTbdNlvpKRxh5PPyj6GT8C37d.jpg",
+      "summary": "一桩骇人听闻的谋杀案闹得芝加哥检察官办公室天翻地覆，因为该办公室的一名成员成了这起犯罪的嫌疑人，使其不得不为维系家庭而战。\n\n该剧改编自斯考特·杜罗所著同名小说，讲述芝加哥检察官办公室发生了一起可怕的谋杀案后，检察官之一拉斯蒂·萨比奇(吉伦哈尔)成了犯罪嫌疑人。在被告为维持家庭和婚姻而奋斗的过程中，探索痴迷、性、政治以及爱情的力量和局限性。\n\n内伽饰演拉斯蒂妻子芭芭拉，是名艺术家、画廊老板和母亲，她的生活在丈夫被指控谋杀他的情妇后被颠覆了，她在处理受伤的心和破碎的婚姻时也为家人而战，并与丈夫广为人知的审判作斗争。",
+      "updateNote": "最新: 裁决 (2024-07-23) | 共 1 季",
+      "time": "07-23",
       "tags": [
-        "科幻",
-        "剧情"
+        "剧情",
+        "悬疑"
       ],
       "status": "new",
-      "firstAirDate": "2024-05-07"
+      "firstAirDate": "2024-06-11"
     },
     {
       "id": 80752,
@@ -366,6 +364,28 @@
       ],
       "status": "ended",
       "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
+      "time": "07-30",
+      "tags": [
+        "犯罪",
+        "剧情"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-06-04"
     },
     {
       "id": 253983,
@@ -428,28 +448,6 @@
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 156933,
-      "title": "Presumed Innocent",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/6NmTbdNlvpKRxh5PPyj6GT8C37d.jpg",
-      "summary": "一桩骇人听闻的谋杀案闹得芝加哥检察官办公室天翻地覆，因为该办公室的一名成员成了这起犯罪的嫌疑人，使其不得不为维系家庭而战。\n\n该剧改编自斯考特·杜罗所著同名小说，讲述芝加哥检察官办公室发生了一起可怕的谋杀案后，检察官之一拉斯蒂·萨比奇(吉伦哈尔)成了犯罪嫌疑人。在被告为维持家庭和婚姻而奋斗的过程中，探索痴迷、性、政治以及爱情的力量和局限性。\n\n内伽饰演拉斯蒂妻子芭芭拉，是名艺术家、画廊老板和母亲，她的生活在丈夫被指控谋杀他的情妇后被颠覆了，她在处理受伤的心和破碎的婚姻时也为家人而战，并与丈夫广为人知的审判作斗争。",
-      "updateNote": "最新: 裁决 (2024-07-23) | 共 1 季",
-      "time": "07-23",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-06-11"
     }
   ]
 }
