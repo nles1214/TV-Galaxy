@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T02:53:07.912Z",
+  "updatedAt": "2026-08-18T02:49:13.253Z",
   "count": 20,
   "shows": [
     {
@@ -116,26 +116,26 @@
       "firstAirDate": "2022-04-01"
     },
     {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E8",
+      "id": 98198,
+      "title": "中央公园",
+      "season": "S3",
+      "episode": "E13",
       "category": [
-        "drama",
-        "thriller"
+        "scifi",
+        "comedy"
       ],
-      "rating": 7.2,
+      "rating": 6.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
-      "time": "08-06",
+      "poster": "https://image.tmdb.org/t/p/w300/j8wjUFRAD5ogud30G6mNgbcoUre.jpg",
+      "summary": "一部关于 Tillermans 家族的音乐喜剧动画，这个家族住在中央公园的一座城堡里。公园经理 Owen 和他的记者妻子 Paige 在世界最著名的公园里抚养他们的孩子 Molly 和 Cole，同时抵御酒店女继承人 Bitsy Brandenham，她最想做的就是把公园变成公寓。",
+      "updateNote": "最新: 第 13 集 (2022-11-17) | 共 3 季",
+      "time": "11-17",
       "tags": [
-        "剧情",
-        "悬疑"
+        "动画",
+        "喜剧"
       ],
-      "status": "new",
-      "firstAirDate": "2024-04-04"
+      "status": "ended",
+      "firstAirDate": "2020-05-29"
     },
     {
       "id": 87917,
@@ -159,6 +159,28 @@
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-26"
     },
     {
       "id": 95396,
@@ -207,47 +229,26 @@
       "firstAirDate": "2021-09-23"
     },
     {
-      "id": 46518,
-      "title": "Masters of the Air",
-      "season": "S1",
-      "episode": "E9",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/nfXMImXVd0Jp1H0wbWFKMKin4Yi.jpg",
-      "summary": "本剧由《兄弟连》和《太平洋战争》的制片人史蒂文·斯皮尔伯格、汤姆·汉克斯和加里·高兹曼联袂打造。第二次世界大战期间，第100轰炸机大队的飞行员出生入死，用勇气、牺牲和胜利建立一段兄弟情谊。",
-      "updateNote": "最新: 第九部分 (2024-03-14) | 共 1 季",
-      "time": "03-14",
-      "tags": [
-        "剧情",
-        "War & Politics"
-      ],
-      "status": "ended",
-      "firstAirDate": "2024-01-25"
-    },
-    {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
+      "episode": "E8",
       "category": [
         "drama",
-        "comedy"
+        "thriller"
       ],
-      "rating": 7.8,
+      "rating": 7.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
+      "time": "08-06",
       "tags": [
         "剧情",
-        "喜剧"
+        "悬疑"
       ],
       "status": "new",
-      "firstAirDate": "2023-01-26"
+      "firstAirDate": "2024-04-04"
     },
     {
       "id": 225171,
@@ -320,6 +321,92 @@
       "firstAirDate": "2023-11-16"
     },
     {
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
+      "time": "07-30",
+      "tags": [
+        "犯罪",
+        "剧情"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-06-04"
+    },
+    {
+      "id": 196322,
+      "title": "Dark Matter",
+      "season": "S2",
+      "episode": "E9",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg",
+      "summary": "　　《人生复本》被誉为十年来最好的科幻小说之一，故事聚焦人生中未被选择的道路。\n\n　　剧集围绕Jason Dessen（Joel Edgerton饰）展开，他是一位物理学家、教授，也是个恋家的男人。有一天夜里，从芝加哥街头步行回家时，Jason被绑架进入了自己人生的另一个版本。面对自己可能经历的多元人生，他试图回到原本的现实里，奇事迅速成了场噩梦。在这重重现实迷宫中，Jason踏上了一段痛苦的旅程，以期回到真正的家人身边，并从他自己——一个最可怕又不可战胜的敌人手中，把家人拯救出来。",
+      "updateNote": "最新: 纠缠 (2024-06-25) | 下集: S2E1 2026-08-27播出 | 共 2 季",
+      "time": "06-25",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-05-07"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 253983,
+      "title": "Las azules",
+      "season": "S2",
+      "episode": "E1",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/5WfpZWS94tFmYBnVLHTcZOJTJzr.jpg",
+      "summary": "1971年，四名女性不顾极端保守的社会准则，加入了墨西哥第一支女警队，却发现这只是为了分散媒体对连环杀手的注意力而采取的宣传噱头。随着遇害者数量的增加，她们约定誓将凶手绳之以法。",
+      "updateNote": "最新: 毛里齐奥 (2026-08-11) | 下集: S2E2 2026-08-18播出 | 共 2 季",
+      "time": "08-11",
+      "tags": [
+        "犯罪",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-07-30"
+    },
+    {
       "id": 156933,
       "title": "Presumed Innocent",
       "season": "S1",
@@ -363,90 +450,6 @@
         "动作"
       ],
       "status": "ended",
-      "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E10",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
-      "time": "07-30",
-      "tags": [
-        "犯罪",
-        "剧情"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-06-04"
-    },
-    {
-      "id": 253983,
-      "title": "Las azules",
-      "season": "S2",
-      "episode": "E1",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/5WfpZWS94tFmYBnVLHTcZOJTJzr.jpg",
-      "summary": "1971年，四名女性不顾极端保守的社会准则，加入了墨西哥第一支女警队，却发现这只是为了分散媒体对连环杀手的注意力而采取的宣传噱头。随着遇害者数量的增加，她们约定誓将凶手绳之以法。",
-      "updateNote": "最新: 毛里齐奥 (2026-08-11) | 下集: S2E2 2026-08-18播出 | 共 2 季",
-      "time": "08-11",
-      "tags": [
-        "犯罪",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-07-30"
-    },
-    {
-      "id": 98177,
-      "title": "尝试",
-      "season": "S5",
-      "episode": "E6",
-      "category": [
-        "comedy"
-      ],
-      "rating": 7.6,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/vbFoXpvwIjZ677Y6kg7Y2ZDhB84.jpg",
-      "summary": "妮基和杰森唯一的心愿是生一个宝宝，但他们无法生育。于是，他们决定领养。考虑到他们生活一团乱的朋友、爱小题大做的家人和充满不定数的生活，这对夫妻最终是否能获得他们梦寐以求的小家庭？",
-      "updateNote": "最新: 万圣节 (2026-08-12) | 下集: S5E7 2026-08-19播出 | 共 5 季",
-      "time": "08-12",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2020-05-01"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
       "firstAirDate": "2019-11-01"
     }
   ]
