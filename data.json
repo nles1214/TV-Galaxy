@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T02:55:14.167Z",
+  "updatedAt": "2026-08-24T02:56:21.949Z",
   "count": 20,
   "shows": [
     {
@@ -139,6 +139,28 @@
       "firstAirDate": "2022-02-17"
     },
     {
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
+      "time": "09-11",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-09-23"
+    },
+    {
       "id": 225171,
       "title": "Pluribus",
       "season": "S1",
@@ -181,28 +203,6 @@
       ],
       "status": "new",
       "firstAirDate": "2024-04-04"
-    },
-    {
-      "id": 93740,
-      "title": "Foundation",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
-      "time": "09-11",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-09-23"
     },
     {
       "id": 136311,
@@ -249,6 +249,30 @@
       ],
       "status": "hot",
       "firstAirDate": "2026-04-28"
+    },
+    {
+      "id": 241609,
+      "title": "掩耳盗邻",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
+      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
+      "time": "06-04",
+      "tags": [
+        "剧情",
+        "犯罪",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-04-10"
     },
     {
       "id": 196322,
@@ -341,6 +365,26 @@
       "firstAirDate": "2022-08-19"
     },
     {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 98177,
       "title": "尝试",
       "season": "S5",
@@ -361,26 +405,26 @@
       "firstAirDate": "2020-05-01"
     },
     {
-      "id": 111834,
-      "title": "Stillwater",
-      "season": "S5",
-      "episode": "E5",
+      "id": 253983,
+      "title": "Las azules",
+      "season": "S2",
+      "episode": "E2",
       "category": [
-        "drama",
-        "scifi"
+        "thriller",
+        "drama"
       ],
-      "rating": 7.6,
+      "rating": 7.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/t6tcFn0LiyKRqR76XwNfErK81cw.jpg",
-      "summary": "艾迪和卡尔三兄妹，有位非常特别的邻居：充满智慧的熊猫——静水。他不但与这三兄妹���立友谊，并透过分享充满哲理的故事，令他们从全新角度看世界、认识自己，以及体会手足亲情。",
-      "updateNote": "最新: 第 5 集 (2026-08-20) | 共 5 季",
-      "time": "08-20",
+      "poster": "https://image.tmdb.org/t/p/w300/5WfpZWS94tFmYBnVLHTcZOJTJzr.jpg",
+      "summary": "1971年，四名女性不顾极端保守的社会准则，加入了墨西哥第一支女警队，却发现这只是为了分散媒体对连环杀手的注意力而采取的宣传噱头。随着遇害者数量的增加，她们约定誓将凶手绳之以法。",
+      "updateNote": "最新: 菲利波托 (2026-08-18) | 下集: S2E3 2026-08-25播出 | 共 2 季",
+      "time": "08-18",
       "tags": [
-        "儿童",
-        "动画"
+        "犯罪",
+        "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2020-12-04"
+      "firstAirDate": "2024-07-30"
     },
     {
       "id": 80752,
@@ -405,50 +449,6 @@
       ],
       "status": "ended",
       "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 98198,
-      "title": "中央公园",
-      "season": "S3",
-      "episode": "E13",
-      "category": [
-        "scifi",
-        "comedy"
-      ],
-      "rating": 6.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/j8wjUFRAD5ogud30G6mNgbcoUre.jpg",
-      "summary": "一部关于 Tillermans 家族的音乐喜剧动画，这个家族住在中央公园的一座城堡里。公园经理 Owen 和他的记者妻子 Paige 在世界最著名的公园里抚养他们的孩子 Molly 和 Cole，同时抵御酒店女继承人 Bitsy Brandenham，她最想做的就是把公园变成公寓。",
-      "updateNote": "最新: 第 13 集 (2022-11-17) | 共 3 季",
-      "time": "11-17",
-      "tags": [
-        "动画",
-        "喜剧"
-      ],
-      "status": "ended",
-      "firstAirDate": "2020-05-29"
-    },
-    {
-      "id": 156933,
-      "title": "Presumed Innocent",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/6NmTbdNlvpKRxh5PPyj6GT8C37d.jpg",
-      "summary": "一桩骇人听闻的谋杀案闹得芝加哥检察官办公室天翻地覆，因为该办公室的一名成员成了这起犯罪的嫌疑人，使其不得不为维系家庭而战。\n\n该剧改编自斯考特·杜罗所著同名小说，讲述芝加哥检察官办公室发生了一起可怕的谋杀案后，检察官之一拉斯蒂·萨比奇(吉伦哈尔)成了犯罪嫌疑人。在被告为维持家庭和婚姻而奋斗的过程中，探索痴迷、性、政治以及爱情的力量和局限性。\n\n内伽饰演拉斯蒂妻子芭芭拉，是名艺术家、画廊老板和母亲，她的生活在丈夫被指控谋杀他的情妇后被颠覆了，她在处理受伤的心和破碎的婚姻时也为家人而战，并与丈夫广为人知的审判作斗争。",
-      "updateNote": "最新: 裁决 (2024-07-23) | 共 1 季",
-      "time": "07-23",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-06-11"
     }
   ]
 }
