@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T13:37:29.385Z",
+  "updatedAt": "2026-08-29T08:28:36.762Z",
   "count": 20,
   "shows": [
     {
@@ -191,7 +191,7 @@
         "drama",
         "comedy"
       ],
-      "rating": 7.8,
+      "rating": 7.9,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
       "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
@@ -215,9 +215,9 @@
       ],
       "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg",
-      "summary": "杰森·德斯什被强行带到平行时空中的另一段人生，他为了回到真正的家人身边而踏上艰苦旅程，同时竭力拯救他们脱离头号敌人，也就是他自己。",
-      "updateNote": "最新: 第 1 集 (2026-08-27) | 下集: S2E2 2026-09-03播出 | 共 2 季",
+      "poster": "https://image.tmdb.org/t/p/w300/wdOwBBz4tV3msGtyN72uwS90TmW.jpg",
+      "summary": "杰森·戴森被强行带到平行时空中的另一段人生，他为了回到真正的家人身边而踏上艰苦旅程，同时竭力拯救他们脱离头号敌人，也就是他自己。",
+      "updateNote": "最新: 平静人生 (2026-08-27) | 下集: S2E2 2026-09-03播出 | 共 2 季",
       "time": "08-27",
       "tags": [
         "科幻",
@@ -271,6 +271,26 @@
       ],
       "status": "hot",
       "firstAirDate": "2026-04-28"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 203744,
@@ -429,26 +449,6 @@
       ],
       "status": "new",
       "firstAirDate": "2025-04-10"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
     }
   ]
 }
