@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T07:02:30.746Z",
+  "updatedAt": "2026-09-02T06:40:19.502Z",
   "count": 20,
   "shows": [
     {
@@ -28,7 +28,7 @@
       "id": 97546,
       "title": "Ted Lasso",
       "season": "S4",
-      "episode": "E4",
+      "episode": "E5",
       "category": [
         "drama",
         "comedy"
@@ -37,8 +37,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
       "summary": "一位美国橄榄球教练受聘执教一支英国足球队；他虽然缺乏足球知识，但他乐观、坚定，而且带了很多饼干。",
-      "updateNote": "最新: 灰狗休息日 (2026-08-25) | 下集: S4E5 2026-09-01播出 | 共 4 季",
-      "time": "08-25",
+      "updateNote": "最新: 出丑的价值 (2026-09-01) | 下集: S4E6 2026-09-08播出 | 共 4 季",
+      "time": "09-01",
       "tags": [
         "剧情",
         "喜剧"
@@ -92,6 +92,29 @@
       "firstAirDate": "2022-04-01"
     },
     {
+      "id": 87917,
+      "title": "For All Mankind",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
+      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
+      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
+      "time": "05-28",
+      "tags": [
+        "剧情",
+        "科幻",
+        "War & Politics"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 278624,
       "title": "幸运女神",
       "season": "S1",
@@ -136,29 +159,6 @@
       "firstAirDate": "2026-06-04"
     },
     {
-      "id": 87917,
-      "title": "For All Mankind",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
-      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
-      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
-      "time": "05-28",
-      "tags": [
-        "剧情",
-        "科幻",
-        "War & Politics"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -183,28 +183,6 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
-    },
-    {
       "id": 93740,
       "title": "Foundation",
       "season": "S3",
@@ -225,6 +203,28 @@
       ],
       "status": "new",
       "firstAirDate": "2021-09-23"
+    },
+    {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-26"
     },
     {
       "id": 225171,
@@ -273,26 +273,46 @@
       "firstAirDate": "2026-04-28"
     },
     {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 156933,
+      "title": "Presumed Innocent",
+      "season": "S1",
       "episode": "E8",
       "category": [
         "drama",
         "thriller"
       ],
-      "rating": 7.1,
+      "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
-      "time": "08-06",
+      "poster": "https://image.tmdb.org/t/p/w300/6NmTbdNlvpKRxh5PPyj6GT8C37d.jpg",
+      "summary": "一桩骇人听闻的谋杀案闹得芝加哥检察官办公室天翻地覆，因为该办公室的一名成员成了这起犯罪的嫌疑人，使其不得不为维系家庭而战。\n\n该剧改编自斯考特·杜罗所著同名小说，讲述芝加哥检察官办公室发生了一起可怕的谋杀案后，检察官之一拉斯蒂·萨比奇(吉伦哈尔)成了犯罪嫌疑人。在被告为维持家庭和婚姻而奋斗的过程中，探索痴迷、性、政治以及爱情的力量和局限性。\n\n内伽饰演拉斯蒂妻子芭芭拉，是名艺术家、画廊老板和母亲，她的生活在丈夫被指控谋杀他的情妇后被颠覆了，她在处理受伤的心和破碎的婚姻时也为家人而战，并与丈夫广为人知的审判作斗争。",
+      "updateNote": "最新: 裁决 (2024-07-23) | 共 1 季",
+      "time": "07-23",
       "tags": [
         "剧情",
         "悬疑"
       ],
       "status": "new",
-      "firstAirDate": "2024-04-04"
+      "firstAirDate": "2024-06-11"
     },
     {
       "id": 80752,
@@ -319,46 +339,26 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 156933,
-      "title": "Presumed Innocent",
-      "season": "S1",
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
       "episode": "E8",
       "category": [
         "drama",
         "thriller"
       ],
-      "rating": 7.8,
+      "rating": 7.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/6NmTbdNlvpKRxh5PPyj6GT8C37d.jpg",
-      "summary": "一桩骇人听闻的谋杀案闹得芝加哥检察官办公室天翻地覆，因为该办公室的一名成员成了这起犯罪的嫌疑人，使其不得不为维系家庭而战。\n\n该剧改编自斯考特·杜罗所著同名小说，讲述芝加哥检察官办公室发生了一起可怕的谋杀案后，检察官之一拉斯蒂·萨比奇(吉伦哈尔)成了犯罪嫌疑人。在被告为维持家庭和婚姻而奋斗的过程中，探索痴迷、性、政治以及爱情的力量和局限性。\n\n内伽饰演拉斯蒂妻子芭芭拉，是名艺术家、画廊老板和母亲，她的生活在丈夫被指控谋杀他的情妇后被颠覆了，她在处理受伤的心和破碎的婚姻时也为家人而战，并与丈夫广为人知的审判作斗争。",
-      "updateNote": "最新: 裁决 (2024-07-23) | 共 1 季",
-      "time": "07-23",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
+      "time": "08-06",
       "tags": [
         "剧情",
         "悬疑"
       ],
       "status": "new",
-      "firstAirDate": "2024-06-11"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
+      "firstAirDate": "2024-04-04"
     },
     {
       "id": 248830,
@@ -407,6 +407,26 @@
       "firstAirDate": "2025-04-10"
     },
     {
+      "id": 285310,
+      "title": "通告大咖",
+      "season": "S1",
+      "episode": "E2",
+      "category": [
+        "doc"
+      ],
+      "rating": 3.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/9RSVpvo2g4NRCODWkOtzu9SQ8g1.jpg",
+      "summary": "好莱坞巨星畅谈如何踏上改变游戏规则的主角之路。通过真诚访谈，他们深入剖析演艺生涯的起伏、突破时刻、成功蓝图以及新一代的无限潜力。",
+      "updateNote": "最新: 黑人女星征服好莱坞 (2025-03-27) | 共 1 季",
+      "time": "03-27",
+      "tags": [
+        "纪录"
+      ],
+      "status": "ended",
+      "firstAirDate": "2025-03-27"
+    },
+    {
       "id": 98177,
       "title": "尝试",
       "season": "S5",
@@ -425,28 +445,6 @@
       ],
       "status": "new",
       "firstAirDate": "2020-05-01"
-    },
-    {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-10-21"
     }
   ]
 }
