@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T06:40:19.502Z",
+  "updatedAt": "2026-09-03T06:42:37.282Z",
   "count": 20,
   "shows": [
     {
@@ -183,6 +183,28 @@
       "firstAirDate": "2022-02-17"
     },
     {
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-11-06"
+    },
+    {
       "id": 93740,
       "title": "Foundation",
       "season": "S3",
@@ -227,28 +249,6 @@
       "firstAirDate": "2023-01-26"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "season": "S1",
-      "episode": "E9",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
-      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
-      "tags": [
-        "剧情",
-        "科幻"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-11-06"
-    },
-    {
       "id": 270476,
       "title": "寡妇湾",
       "season": "S2",
@@ -291,6 +291,28 @@
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
+      "time": "08-06",
+      "tags": [
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-04-04"
     },
     {
       "id": 156933,
@@ -339,28 +361,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
-      "time": "08-06",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-04-04"
-    },
-    {
       "id": 248830,
       "title": "一杆入魂",
       "season": "S2",
@@ -383,50 +383,6 @@
       "firstAirDate": "2025-06-03"
     },
     {
-      "id": 241609,
-      "title": "掩耳盗邻",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "thriller",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
-      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
-      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
-      "time": "06-04",
-      "tags": [
-        "剧情",
-        "犯罪",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-04-10"
-    },
-    {
-      "id": 285310,
-      "title": "通告大咖",
-      "season": "S1",
-      "episode": "E2",
-      "category": [
-        "doc"
-      ],
-      "rating": 3.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9RSVpvo2g4NRCODWkOtzu9SQ8g1.jpg",
-      "summary": "好莱坞巨星畅谈如何踏上改变游戏规则的主角之路。通过真诚访谈，他们深入剖析演艺生涯的起伏、突破时刻、成功蓝图以及新一代的无限潜力。",
-      "updateNote": "最新: 黑人女星征服好莱坞 (2025-03-27) | 共 1 季",
-      "time": "03-27",
-      "tags": [
-        "纪录"
-      ],
-      "status": "ended",
-      "firstAirDate": "2025-03-27"
-    },
-    {
       "id": 98177,
       "title": "尝试",
       "season": "S5",
@@ -445,6 +401,50 @@
       ],
       "status": "new",
       "firstAirDate": "2020-05-01"
+    },
+    {
+      "id": 221079,
+      "title": "失序边缘",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/hKOPr8nj2BcrhqxBtHE281BO5td.jpg",
+      "summary": "一架监狱运输机在偏远的阿拉斯加荒野坠毁，数十名暴力囚犯因而获得自由，而该地区单枪匹马的警长必须保护他誓言要守护的小镇。",
+      "updateNote": "最新: 四面楚歌 (2025-12-04) | 共 1 季",
+      "time": "12-04",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "ended",
+      "firstAirDate": "2025-10-09"
+    },
+    {
+      "id": 247767,
+      "title": "The Studio",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "comedy",
+        "drama"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
+      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
+      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
+      "time": "05-20",
+      "tags": [
+        "喜剧",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-03-25"
     }
   ]
 }
