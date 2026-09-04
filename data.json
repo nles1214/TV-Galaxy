@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T06:42:37.282Z",
+  "updatedAt": "2026-09-04T06:47:46.178Z",
   "count": 20,
   "shows": [
     {
@@ -50,7 +50,7 @@
       "id": 196322,
       "title": "Dark Matter",
       "season": "S2",
-      "episode": "E1",
+      "episode": "E2",
       "category": [
         "scifi",
         "drama"
@@ -59,8 +59,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/wdOwBBz4tV3msGtyN72uwS90TmW.jpg",
       "summary": "杰森·戴森被强行带到平行时空中的另一段人生，他为了回到真正的家人身边而踏上艰苦旅程，同时竭力拯救他们脱离头号敌人，也就是他自己。",
-      "updateNote": "最新: 平静人生 (2026-08-27) | 下集: S2E2 2026-09-03播出 | 共 2 季",
-      "time": "08-27",
+      "updateNote": "最新: 完美世界 (2026-09-03) | 下集: S2E3 2026-09-10播出 | 共 2 季",
+      "time": "09-03",
       "tags": [
         "科幻",
         "剧情"
@@ -137,28 +137,6 @@
       "firstAirDate": "2026-07-14"
     },
     {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E10",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
-      "time": "07-30",
-      "tags": [
-        "犯罪",
-        "剧情"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-06-04"
-    },
-    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -181,28 +159,6 @@
       ],
       "status": "hot",
       "firstAirDate": "2022-02-17"
-    },
-    {
-      "id": 225171,
-      "title": "Pluribus",
-      "season": "S1",
-      "episode": "E9",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
-      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
-      "tags": [
-        "剧情",
-        "科幻"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-11-06"
     },
     {
       "id": 93740,
@@ -249,48 +205,70 @@
       "firstAirDate": "2023-01-26"
     },
     {
-      "id": 270476,
-      "title": "寡妇湾",
-      "season": "S2",
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
       "episode": "E10",
       "category": [
-        "drama",
-        "comedy",
-        "thriller"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
-      "time": "06-16",
-      "tags": [
-        "剧情",
-        "喜剧",
-        "悬疑"
-      ],
-      "status": "hot",
-      "firstAirDate": "2026-04-28"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
+        "thriller",
         "drama"
       ],
-      "rating": 7.7,
+      "rating": 7.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
+      "time": "07-30",
       "tags": [
+        "犯罪",
         "剧情"
       ],
+      "status": "ended",
+      "firstAirDate": "2026-06-04"
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
       "status": "new",
-      "firstAirDate": "2019-11-01"
+      "firstAirDate": "2025-11-06"
+    },
+    {
+      "id": 156933,
+      "title": "Presumed Innocent",
+      "season": "S1",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/6NmTbdNlvpKRxh5PPyj6GT8C37d.jpg",
+      "summary": "一桩骇人听闻的谋杀案闹得芝加哥检察官办公室天翻地覆，因为该办公室的一名成员成了这起犯罪的嫌疑人，使其不得不为维系家庭而战。\n\n该剧改编自斯考特·杜罗所著同名小说，讲述芝加哥检察官办公室发生了一起可怕的谋杀案后，检察官之一拉斯蒂·萨比奇(吉伦哈尔)成了犯罪嫌疑人。在被告为维持家庭和婚姻而奋斗的过程中，探索痴迷、性、政治以及爱情的力量和局限性。\n\n内伽饰演拉斯蒂妻子芭芭拉，是名艺术家、画廊老板和母亲，她的生活在丈夫被指控谋杀他的情妇后被颠覆了，她在处理受伤的心和破碎的婚姻时也为家人而战，并与丈夫广为人知的审判作斗争。",
+      "updateNote": "最新: 裁决 (2024-07-23) | 共 1 季",
+      "time": "07-23",
+      "tags": [
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-06-11"
     },
     {
       "id": 203744,
@@ -315,26 +293,28 @@
       "firstAirDate": "2024-04-04"
     },
     {
-      "id": 156933,
-      "title": "Presumed Innocent",
-      "season": "S1",
-      "episode": "E8",
+      "id": 270476,
+      "title": "寡妇湾",
+      "season": "S2",
+      "episode": "E10",
       "category": [
         "drama",
+        "comedy",
         "thriller"
       ],
-      "rating": 7.8,
+      "rating": 8.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/6NmTbdNlvpKRxh5PPyj6GT8C37d.jpg",
-      "summary": "一桩骇人听闻的谋杀案闹得芝加哥检察官办公室天翻地覆，因为该办公室的一名成员成了这起犯罪的嫌疑人，使其不得不为维系家庭而战。\n\n该剧改编自斯考特·杜罗所著同名小说，讲述芝加哥检察官办公室发生了一起可怕的谋杀案后，检察官之一拉斯蒂·萨比奇(吉伦哈尔)成了犯罪嫌疑人。在被告为维持家庭和婚姻而奋斗的过程中，探索痴迷、性、政治以及爱情的力量和局限性。\n\n内伽饰演拉斯蒂妻子芭芭拉，是名艺术家、画廊老板和母亲，她的生活在丈夫被指控谋杀他的情妇后被颠覆了，她在处理受伤的心和破碎的婚姻时也为家人而战，并与丈夫广为人知的审判作斗争。",
-      "updateNote": "最新: 裁决 (2024-07-23) | 共 1 季",
-      "time": "07-23",
+      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+      "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
+      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
+      "time": "06-16",
       "tags": [
         "剧情",
+        "喜剧",
         "悬疑"
       ],
-      "status": "new",
-      "firstAirDate": "2024-06-11"
+      "status": "hot",
+      "firstAirDate": "2026-04-28"
     },
     {
       "id": 80752,
@@ -361,26 +341,24 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 248830,
-      "title": "一杆入魂",
-      "season": "S2",
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
       "episode": "E10",
       "category": [
-        "comedy",
         "drama"
       ],
-      "rating": 7.3,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hDoXOCWxQpwaUKjFMNnsQ5dwCGs.jpg",
-      "summary": "普莱斯·卡希尔原本有望成为伟大的高尔夫球员，但因为一次在球场上情绪崩溃，而断送了他的职业生涯。现在，只能勉强维持生计的他，赌上一切指导一名潜力无限的少年天才桑提，同时也试图拯救自己。",
-      "updateNote": "最新: 旧景重现 (2025-07-22) | 下集: S2E1 2026-11-03播出 | 共 2 季",
-      "time": "07-22",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
       "tags": [
-        "喜剧",
         "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2025-06-03"
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 98177,
@@ -403,48 +381,72 @@
       "firstAirDate": "2020-05-01"
     },
     {
-      "id": 221079,
-      "title": "失序边缘",
-      "season": "S1",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hKOPr8nj2BcrhqxBtHE281BO5td.jpg",
-      "summary": "一架监狱运输机在偏远的阿拉斯加荒野坠毁，数十名暴力囚犯因而获得自由，而该地区单枪匹马的警长必须保护他誓言要守护的小镇。",
-      "updateNote": "最新: 四面楚歌 (2025-12-04) | 共 1 季",
-      "time": "12-04",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2025-10-09"
-    },
-    {
-      "id": 247767,
-      "title": "The Studio",
+      "id": 248830,
+      "title": "一杆入魂",
       "season": "S2",
       "episode": "E10",
       "category": [
         "comedy",
         "drama"
       ],
-      "rating": 7.8,
+      "rating": 7.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
-      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
-      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
-      "time": "05-20",
+      "poster": "https://image.tmdb.org/t/p/w300/hDoXOCWxQpwaUKjFMNnsQ5dwCGs.jpg",
+      "summary": "普莱斯·卡希尔原本有望成为伟大的高尔夫球员，但因为一次在球场上情绪崩溃，而断送了他的职业生涯。现在，只能勉强维持生计的他，赌上一切指导一名潜力无限的少年天才桑提，同时也试图拯救自己。",
+      "updateNote": "最新: 旧景重现 (2025-07-22) | 下集: S2E1 2026-11-03播出 | 共 2 季",
+      "time": "07-22",
       "tags": [
         "喜剧",
         "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2025-03-25"
+      "firstAirDate": "2025-06-03"
+    },
+    {
+      "id": 241609,
+      "title": "掩耳盗邻",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
+      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
+      "time": "06-04",
+      "tags": [
+        "剧情",
+        "犯罪",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-04-10"
+    },
+    {
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-10-21"
     }
   ]
 }
