@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-04T06:47:46.178Z",
+  "updatedAt": "2026-09-05T06:33:08.478Z",
   "count": 20,
   "shows": [
     {
       "id": 125988,
       "title": "末日地堡",
       "season": "S4",
-      "episode": "E9",
+      "episode": "E10",
       "category": [
         "scifi",
         "drama"
@@ -15,8 +15,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
       "summary": "该剧基于休·豪伊所著同名畅销科幻系列小说改编，在一个满目疮痍、有毒物质遍布的未来世界中，成千上万的人居住在深埋在地下的巨大筒仓里。在警长违反了一项基本规则以及有些居民神秘死亡后，工程师朱丽叶开始揭开惊人的秘密和筒仓的真相。",
-      "updateNote": "最新: 告别 (2026-08-27) | 下集: S3E10 2026-09-03播出 | 共 4 季",
-      "time": "08-27",
+      "updateNote": "最新: 特洛伊 (2026-09-03) | 下集: S4E1 2027-07-09播出 | 共 4 季",
+      "time": "09-03",
       "tags": [
         "科幻",
         "剧情"
@@ -115,28 +115,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 278624,
-      "title": "幸运女神",
-      "season": "S1",
-      "episode": "E7",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
-      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
-      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
-      "time": "08-18",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-07-14"
-    },
-    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -161,26 +139,26 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
-      "season": "S3",
-      "episode": "E10",
+      "id": 278624,
+      "title": "幸运女神",
+      "season": "S1",
+      "episode": "E7",
       "category": [
-        "scifi",
-        "drama"
+        "drama",
+        "thriller"
       ],
-      "rating": 7.7,
+      "rating": 7.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
-      "time": "09-11",
+      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
+      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
+      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
+      "time": "08-18",
       "tags": [
-        "科幻",
-        "剧情"
+        "剧情",
+        "犯罪"
       ],
-      "status": "new",
-      "firstAirDate": "2021-09-23"
+      "status": "ended",
+      "firstAirDate": "2026-07-14"
     },
     {
       "id": 136311,
@@ -205,26 +183,26 @@
       "firstAirDate": "2023-01-26"
     },
     {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S3",
       "episode": "E10",
       "category": [
-        "thriller",
+        "scifi",
         "drama"
       ],
-      "rating": 7.2,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
-      "time": "07-30",
+      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
+      "time": "09-11",
       "tags": [
-        "犯罪",
+        "科幻",
         "剧情"
       ],
-      "status": "ended",
-      "firstAirDate": "2026-06-04"
+      "status": "new",
+      "firstAirDate": "2021-09-23"
     },
     {
       "id": 225171,
@@ -249,6 +227,72 @@
       "firstAirDate": "2025-11-06"
     },
     {
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
+      "time": "07-30",
+      "tags": [
+        "犯罪",
+        "剧情"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-06-04"
+    },
+    {
+      "id": 94951,
+      "title": "神话任务",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "comedy"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
+      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
+      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
+      "time": "03-25",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "ended",
+      "firstAirDate": "2020-02-07"
+    },
+    {
+      "id": 80752,
+      "title": "See",
+      "season": "S3",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "scifi",
+        "action"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
+      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
+      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
+      "time": "10-13",
+      "tags": [
+        "剧情",
+        "科幻",
+        "动作"
+      ],
+      "status": "ended",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 156933,
       "title": "Presumed Innocent",
       "season": "S1",
@@ -269,28 +313,6 @@
       ],
       "status": "new",
       "firstAirDate": "2024-06-11"
-    },
-    {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
-      "time": "08-06",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-04-04"
     },
     {
       "id": 270476,
@@ -317,28 +339,48 @@
       "firstAirDate": "2026-04-28"
     },
     {
-      "id": 80752,
-      "title": "See",
-      "season": "S3",
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
       "episode": "E8",
       "category": [
         "drama",
-        "scifi",
-        "action"
+        "thriller"
       ],
-      "rating": 8.1,
+      "rating": 7.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hQc2tHHcLDkpgRq0p8fpmDRn0i6.jpg",
-      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
-      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
-      "time": "10-13",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
+      "time": "08-06",
       "tags": [
         "剧情",
-        "科幻",
-        "动作"
+        "悬疑"
       ],
-      "status": "ended",
-      "firstAirDate": "2019-11-01"
+      "status": "new",
+      "firstAirDate": "2024-04-04"
+    },
+    {
+      "id": 248830,
+      "title": "一杆入魂",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "comedy",
+        "drama"
+      ],
+      "rating": 7.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/hDoXOCWxQpwaUKjFMNnsQ5dwCGs.jpg",
+      "summary": "普莱斯·卡希尔原本有望成为伟大的高尔夫球员，但因为一次在球场上情绪崩溃，而断送了他的职业生涯。现在，只能勉强维持生计的他，赌上一切指导一名潜力无限的少年天才桑提，同时也试图拯救自己。",
+      "updateNote": "最新: 旧景重现 (2025-07-22) | 下集: S2E1 2026-11-03播出 | 共 2 季",
+      "time": "07-22",
+      "tags": [
+        "喜剧",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-06-03"
     },
     {
       "id": 90282,
@@ -381,72 +423,26 @@
       "firstAirDate": "2020-05-01"
     },
     {
-      "id": 248830,
-      "title": "一杆入魂",
+      "id": 247767,
+      "title": "The Studio",
       "season": "S2",
       "episode": "E10",
       "category": [
         "comedy",
         "drama"
       ],
-      "rating": 7.3,
+      "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hDoXOCWxQpwaUKjFMNnsQ5dwCGs.jpg",
-      "summary": "普莱斯·卡希尔原本有望成为伟大的高尔夫球员，但因为一次在球场上情绪崩溃，而断送了他的职业生涯。现在，只能勉强维持生计的他，赌上一切指导一名潜力无限的少年天才桑提，同时也试图拯救自己。",
-      "updateNote": "最新: 旧景重现 (2025-07-22) | 下集: S2E1 2026-11-03播出 | 共 2 季",
-      "time": "07-22",
+      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
+      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
+      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
+      "time": "05-20",
       "tags": [
         "喜剧",
         "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2025-06-03"
-    },
-    {
-      "id": 241609,
-      "title": "掩耳盗邻",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "thriller",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
-      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
-      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
-      "time": "06-04",
-      "tags": [
-        "剧情",
-        "犯罪",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-04-10"
-    },
-    {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-10-21"
+      "firstAirDate": "2025-03-25"
     }
   ]
 }
