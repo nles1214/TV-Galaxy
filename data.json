@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T06:33:08.478Z",
+  "updatedAt": "2026-09-06T06:42:24.328Z",
   "count": 20,
   "shows": [
     {
@@ -15,7 +15,7 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
       "summary": "该剧基于休·豪伊所著同名畅销科幻系列小说改编，在一个满目疮痍、有毒物质遍布的未来世界中，成千上万的人居住在深埋在地下的巨大筒仓里。在警长违反了一项基本规则以及有些居民神秘死亡后，工程师朱丽叶开始揭开惊人的秘密和筒仓的真相。",
-      "updateNote": "最新: 特洛伊 (2026-09-03) | 下集: S4E1 2027-07-09播出 | 共 4 季",
+      "updateNote": "最新: 特洛伊 (2026-09-03) | 下集: S4E1 2027-07-08播出 | 共 4 季",
       "time": "09-03",
       "tags": [
         "科幻",
@@ -57,7 +57,7 @@
       ],
       "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/wdOwBBz4tV3msGtyN72uwS90TmW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
       "summary": "杰森·戴森被强行带到平行时空中的另一段人生，他为了回到真正的家人身边而踏上艰苦旅程，同时竭力拯救他们脱离头号敌人，也就是他自己。",
       "updateNote": "最新: 完美世界 (2026-09-03) | 下集: S2E3 2026-09-10播出 | 共 2 季",
       "time": "09-03",
@@ -92,29 +92,6 @@
       "firstAirDate": "2022-04-01"
     },
     {
-      "id": 87917,
-      "title": "For All Mankind",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
-      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
-      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
-      "time": "05-28",
-      "tags": [
-        "剧情",
-        "科幻",
-        "War & Politics"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -139,26 +116,27 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 278624,
-      "title": "幸运女神",
-      "season": "S1",
-      "episode": "E7",
+      "id": 87917,
+      "title": "For All Mankind",
+      "season": "S5",
+      "episode": "E10",
       "category": [
         "drama",
-        "thriller"
+        "scifi"
       ],
-      "rating": 7.3,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
-      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
-      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
-      "time": "08-18",
+      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
+      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
+      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
+      "time": "05-28",
       "tags": [
         "剧情",
-        "犯罪"
+        "科幻",
+        "War & Politics"
       ],
-      "status": "ended",
-      "firstAirDate": "2026-07-14"
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 136311,
@@ -183,6 +161,28 @@
       "firstAirDate": "2023-01-26"
     },
     {
+      "id": 278624,
+      "title": "幸运女神",
+      "season": "S1",
+      "episode": "E7",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
+      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
+      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
+      "time": "08-18",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-07-14"
+    },
+    {
       "id": 93740,
       "title": "Foundation",
       "season": "S3",
@@ -205,26 +205,24 @@
       "firstAirDate": "2021-09-23"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "season": "S1",
-      "episode": "E9",
+      "id": 94951,
+      "title": "神话任务",
+      "season": "S4",
+      "episode": "E10",
       "category": [
-        "drama",
-        "scifi"
+        "comedy"
       ],
-      "rating": 7.9,
+      "rating": 7.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
-      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
+      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
+      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
+      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
+      "time": "03-25",
       "tags": [
-        "剧情",
-        "科幻"
+        "喜剧"
       ],
-      "status": "new",
-      "firstAirDate": "2025-11-06"
+      "status": "ended",
+      "firstAirDate": "2020-02-07"
     },
     {
       "id": 277439,
@@ -249,24 +247,46 @@
       "firstAirDate": "2026-06-04"
     },
     {
-      "id": 94951,
-      "title": "神话任务",
-      "season": "S4",
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
       "episode": "E10",
       "category": [
-        "comedy"
+        "drama"
       ],
-      "rating": 7.2,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
-      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
-      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
-      "time": "03-25",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
       "tags": [
-        "喜剧"
+        "剧情"
       ],
-      "status": "ended",
-      "firstAirDate": "2020-02-07"
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-11-06"
     },
     {
       "id": 80752,
@@ -315,6 +335,48 @@
       "firstAirDate": "2024-06-11"
     },
     {
+      "id": 98177,
+      "title": "尝试",
+      "season": "S5",
+      "episode": "E8",
+      "category": [
+        "comedy"
+      ],
+      "rating": 7.6,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/vbFoXpvwIjZ677Y6kg7Y2ZDhB84.jpg",
+      "summary": "妮基和杰森唯一的心愿是生一个宝宝，但他们无法生育。于是，他们决定领养。考虑到他们生活一团乱的朋友、爱小题大做的家人和充满不定数的生活，这对夫妻最终是否能获得他们梦寐以求的小家庭？",
+      "updateNote": "最新: 斯考特节 (2026-08-26) | 共 5 季",
+      "time": "08-26",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2020-05-01"
+    },
+    {
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-10-21"
+    },
+    {
       "id": 270476,
       "title": "寡妇湾",
       "season": "S2",
@@ -324,7 +386,7 @@
         "comedy",
         "thriller"
       ],
-      "rating": 8.1,
+      "rating": 8,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
       "summary": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
@@ -369,7 +431,7 @@
         "comedy",
         "drama"
       ],
-      "rating": 7.3,
+      "rating": 7.2,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/hDoXOCWxQpwaUKjFMNnsQ5dwCGs.jpg",
       "summary": "普莱斯·卡希尔原本有望成为伟大的高尔夫球员，但因为一次在球场上情绪崩溃，而断送了他的职业生涯。现在，只能勉强维持生计的他，赌上一切指导一名潜力无限的少年天才桑提，同时也试图拯救自己。",
@@ -381,68 +443,6 @@
       ],
       "status": "new",
       "firstAirDate": "2025-06-03"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 98177,
-      "title": "尝试",
-      "season": "S5",
-      "episode": "E8",
-      "category": [
-        "comedy"
-      ],
-      "rating": 7.6,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/vbFoXpvwIjZ677Y6kg7Y2ZDhB84.jpg",
-      "summary": "妮基和杰森唯一的心愿是生一个宝宝，但他们无法生育。于是，他们决定领养。考虑到他们生活一团乱的朋友、爱小题大做的家人和充满不定数的生活，这对夫妻最终是否能获得他们梦寐以求的小家庭？",
-      "updateNote": "最新: 斯考特节 (2026-08-26) | 共 5 季",
-      "time": "08-26",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2020-05-01"
-    },
-    {
-      "id": 247767,
-      "title": "The Studio",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "comedy",
-        "drama"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
-      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
-      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
-      "time": "05-20",
-      "tags": [
-        "喜剧",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-03-25"
     }
   ]
 }
