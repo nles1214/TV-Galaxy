@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T06:52:29.124Z",
+  "updatedAt": "2026-09-11T06:52:08.453Z",
   "count": 20,
   "shows": [
     {
@@ -47,28 +47,6 @@
       "firstAirDate": "2020-08-14"
     },
     {
-      "id": 196322,
-      "title": "Dark Matter",
-      "season": "S2",
-      "episode": "E2",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-      "summary": "杰森·戴森被强行带到平行时空中的另一段人生，他为了回到真正的家人身边而踏上艰苦旅程，同时竭力拯救他们脱离头号敌人，也就是他自己。",
-      "updateNote": "最新: 完美世界 (2026-09-03) | 下集: S2E3 2026-09-10播出 | 共 2 季",
-      "time": "09-03",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-05-07"
-    },
-    {
       "id": 95480,
       "title": "Slow Horses",
       "season": "S6",
@@ -90,6 +68,73 @@
       ],
       "status": "new",
       "firstAirDate": "2022-04-01"
+    },
+    {
+      "id": 196322,
+      "title": "Dark Matter",
+      "season": "S2",
+      "episode": "E3",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
+      "summary": "杰森·戴森被强行带到平行时空中的另一段人生，他为了回到真正的家人身边而踏上艰苦旅程，同时竭力拯救他们脱离头号敌人，也就是他自己。",
+      "updateNote": "最新: 一切最美好的事物，所有最恐怖的灾难 (2026-09-10) | 下集: S2E4 2026-09-17播出 | 共 2 季",
+      "time": "09-10",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-05-07"
+    },
+    {
+      "id": 258230,
+      "title": "最后目击",
+      "season": "S1",
+      "episode": "E2",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
+      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
+      "updateNote": "最新: 来电 (2026-09-09) | 下集: S1E3 2026-09-16播出 | 共 1 季",
+      "time": "09-09",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-09-09"
+    },
+    {
+      "id": 98198,
+      "title": "中央公园",
+      "season": "S3",
+      "episode": "E13",
+      "category": [
+        "scifi",
+        "comedy"
+      ],
+      "rating": 6.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/j8wjUFRAD5ogud30G6mNgbcoUre.jpg",
+      "summary": "一部关于 Tillermans 家族的音乐喜剧动画，这个家族住在中央公园的一座城堡里。公园经理 Owen 和他的记者妻子 Paige 在世界最著名的公园里抚养他们的孩子 Molly 和 Cole，同时抵御酒店女继承人 Bitsy Brandenham，她最想做的就是把公园变成公寓。",
+      "updateNote": "最新: 第 13 集 (2022-11-17) | 共 3 季",
+      "time": "11-17",
+      "tags": [
+        "动画",
+        "喜剧"
+      ],
+      "status": "ended",
+      "firstAirDate": "2020-05-29"
     },
     {
       "id": 95396,
@@ -137,28 +182,6 @@
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 98198,
-      "title": "中央公园",
-      "season": "S3",
-      "episode": "E13",
-      "category": [
-        "scifi",
-        "comedy"
-      ],
-      "rating": 6.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/j8wjUFRAD5ogud30G6mNgbcoUre.jpg",
-      "summary": "一部关于 Tillermans 家族的音乐喜剧动画，这个家族住在中央公园的一座城堡里。公园经理 Owen 和他的记者妻子 Paige 在世界最著名的公园里抚养他们的孩子 Molly 和 Cole，同时抵御酒店女继承人 Bitsy Brandenham，她最想做的就是把公园变成公寓。",
-      "updateNote": "最新: 第 13 集 (2022-11-17) | 共 3 季",
-      "time": "11-17",
-      "tags": [
-        "动画",
-        "喜剧"
-      ],
-      "status": "ended",
-      "firstAirDate": "2020-05-29"
     },
     {
       "id": 93740,
@@ -271,26 +294,6 @@
       "firstAirDate": "2025-11-06"
     },
     {
-      "id": 94951,
-      "title": "神话任务",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "comedy"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
-      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
-      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
-      "time": "03-25",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "ended",
-      "firstAirDate": "2020-02-07"
-    },
-    {
       "id": 270476,
       "title": "寡妇湾",
       "season": "S2",
@@ -315,6 +318,26 @@
       "firstAirDate": "2026-04-28"
     },
     {
+      "id": 94951,
+      "title": "神话任务",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "comedy"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
+      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
+      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
+      "time": "03-25",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "ended",
+      "firstAirDate": "2020-02-07"
+    },
+    {
       "id": 90282,
       "title": "The Morning Show",
       "season": "S5",
@@ -335,50 +358,26 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 241609,
-      "title": "掩耳盗邻",
-      "season": "S2",
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
       "episode": "E10",
       "category": [
-        "drama",
-        "thriller",
-        "comedy"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
-      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
-      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
-      "time": "06-04",
-      "tags": [
-        "剧情",
-        "犯罪",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-04-10"
-    },
-    {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E10",
-      "category": [
-        "thriller",
+        "scifi",
         "drama"
       ],
-      "rating": 7.2,
+      "rating": 7.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
-      "time": "07-30",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
       "tags": [
-        "犯罪",
+        "科幻",
         "剧情"
       ],
-      "status": "ended",
-      "firstAirDate": "2026-06-04"
+      "status": "new",
+      "firstAirDate": "2021-10-21"
     },
     {
       "id": 80752,
@@ -405,26 +404,28 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
+      "id": 241609,
+      "title": "掩耳盗邻",
+      "season": "S2",
       "episode": "E10",
       "category": [
-        "scifi",
-        "drama"
+        "drama",
+        "thriller",
+        "comedy"
       ],
-      "rating": 7.1,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
+      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
+      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
+      "time": "06-04",
       "tags": [
-        "科幻",
-        "剧情"
+        "剧情",
+        "犯罪",
+        "喜剧"
       ],
       "status": "new",
-      "firstAirDate": "2021-10-21"
+      "firstAirDate": "2025-04-10"
     },
     {
       "id": 156933,
