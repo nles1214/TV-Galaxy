@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T07:01:24.723Z",
+  "updatedAt": "2026-09-14T07:24:22.265Z",
   "count": 20,
   "shows": [
     {
@@ -47,28 +47,6 @@
       "firstAirDate": "2020-08-14"
     },
     {
-      "id": 196322,
-      "title": "Dark Matter",
-      "season": "S2",
-      "episode": "E3",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-      "summary": "杰森·戴森被强行带到平行时空中的另一段人生，他为了回到真正的家人身边而踏上艰苦旅程，同时竭力拯救他们脱离头号敌人，也就是他自己。",
-      "updateNote": "最新: 一切最美好的事物，所有最恐怖的灾难 (2026-09-10) | 下集: S2E4 2026-09-17播出 | 共 2 季",
-      "time": "09-10",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-05-07"
-    },
-    {
       "id": 95480,
       "title": "Slow Horses",
       "season": "S6",
@@ -92,6 +70,28 @@
       "firstAirDate": "2022-04-01"
     },
     {
+      "id": 196322,
+      "title": "Dark Matter",
+      "season": "S2",
+      "episode": "E3",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
+      "summary": "杰森·戴森被强行带到平行时空中的另一段人生，他为了回到真正的家人身边而踏上艰苦旅程，同时竭力拯救他们脱离头号敌人，也就是他自己。",
+      "updateNote": "最新: 一切最美好的事物，所有最恐怖的灾难 (2026-09-10) | 下集: S2E4 2026-09-17播出 | 共 2 季",
+      "time": "09-10",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-05-07"
+    },
+    {
       "id": 258230,
       "title": "最后目击",
       "season": "S1",
@@ -100,7 +100,7 @@
         "thriller",
         "drama"
       ],
-      "rating": 8.9,
+      "rating": 9,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
       "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
@@ -113,6 +113,29 @@
       ],
       "status": "new",
       "firstAirDate": "2026-09-09"
+    },
+    {
+      "id": 87917,
+      "title": "For All Mankind",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
+      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
+      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
+      "time": "05-28",
+      "tags": [
+        "剧情",
+        "科幻",
+        "War & Politics"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 95396,
@@ -139,24 +162,21 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 87917,
-      "title": "For All Mankind",
+      "id": 90282,
+      "title": "The Morning Show",
       "season": "S5",
       "episode": "E10",
       "category": [
-        "drama",
-        "scifi"
+        "drama"
       ],
       "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
-      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
-      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
-      "time": "05-28",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
       "tags": [
-        "剧情",
-        "科幻",
-        "War & Politics"
+        "剧情"
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
@@ -252,48 +272,6 @@
       "firstAirDate": "2025-11-06"
     },
     {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 98198,
-      "title": "中央公园",
-      "season": "S3",
-      "episode": "E13",
-      "category": [
-        "scifi",
-        "comedy"
-      ],
-      "rating": 6.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/j8wjUFRAD5ogud30G6mNgbcoUre.jpg",
-      "summary": "一部关于 Tillermans 家族的音乐喜剧动画，这个家族住在中央公园的一座城堡里。公园经理 Owen 和他的记者妻子 Paige 在世界最著名的公园里抚养他们的孩子 Molly 和 Cole，同时抵御酒店女继承人 Bitsy Brandenham，她最想做的就是把公园变成公寓。",
-      "updateNote": "最新: 第 13 集 (2022-11-17) | 共 3 季",
-      "time": "11-17",
-      "tags": [
-        "动画",
-        "喜剧"
-      ],
-      "status": "ended",
-      "firstAirDate": "2020-05-29"
-    },
-    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -314,28 +292,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-01-26"
-    },
-    {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
-      "time": "08-06",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-04-04"
     },
     {
       "id": 80752,
@@ -362,50 +318,48 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 241609,
-      "title": "掩耳盗邻",
+      "id": 203744,
+      "title": "Sugar",
       "season": "S2",
-      "episode": "E10",
+      "episode": "E8",
       "category": [
         "drama",
-        "thriller",
-        "comedy"
+        "thriller"
       ],
-      "rating": 7.7,
+      "rating": 7.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
-      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
-      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
-      "time": "06-04",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
+      "time": "08-06",
       "tags": [
         "剧情",
-        "犯罪",
-        "喜剧"
+        "悬疑"
       ],
       "status": "new",
-      "firstAirDate": "2025-04-10"
+      "firstAirDate": "2024-04-04"
     },
     {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E10",
+      "id": 98198,
+      "title": "中央公园",
+      "season": "S3",
+      "episode": "E13",
       "category": [
-        "thriller",
-        "drama"
+        "scifi",
+        "comedy"
       ],
-      "rating": 7.2,
+      "rating": 6.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
-      "time": "07-30",
+      "poster": "https://image.tmdb.org/t/p/w300/j8wjUFRAD5ogud30G6mNgbcoUre.jpg",
+      "summary": "一部关于 Tillermans 家族的音乐喜剧动画，这个家族住在中央公园的一座城堡里。公园经理 Owen 和他的记者妻子 Paige 在世界最著名的公园里抚养他们的孩子 Molly 和 Cole，同时抵御酒店女继承人 Bitsy Brandenham，她最想做的就是把公园变成公寓。",
+      "updateNote": "最新: 第 13 集 (2022-11-17) | 共 3 季",
+      "time": "11-17",
       "tags": [
-        "犯罪",
-        "剧情"
+        "动画",
+        "喜剧"
       ],
       "status": "ended",
-      "firstAirDate": "2026-06-04"
+      "firstAirDate": "2020-05-29"
     },
     {
       "id": 127235,
@@ -430,26 +384,74 @@
       "firstAirDate": "2021-10-21"
     },
     {
-      "id": 248830,
-      "title": "一杆入魂",
+      "id": 241609,
+      "title": "掩耳盗邻",
       "season": "S2",
       "episode": "E10",
       "category": [
-        "comedy",
-        "drama"
+        "drama",
+        "thriller",
+        "comedy"
       ],
-      "rating": 7.3,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hDoXOCWxQpwaUKjFMNnsQ5dwCGs.jpg",
-      "summary": "普莱斯·卡希尔原本有望成为伟大的高尔夫球员，但因为一次在球场上情绪崩溃，而断送了他的职业生涯。现在，只能勉强维持生计的他，赌上一切指导一名潜力无限的少年天才桑提，同时也试图拯救自己。",
-      "updateNote": "最新: 旧景重现 (2025-07-22) | 下集: S2E1 2026-11-03播出 | 共 2 季",
-      "time": "07-22",
+      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
+      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
+      "time": "06-04",
       "tags": [
-        "喜剧",
-        "剧情"
+        "剧情",
+        "犯罪",
+        "喜剧"
       ],
       "status": "new",
-      "firstAirDate": "2025-06-03"
+      "firstAirDate": "2025-04-10"
+    },
+    {
+      "id": 202411,
+      "title": "Monarch: Legacy of Monsters",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama",
+        "action"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
+      "summary": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
+      "updateNote": "最新: 归属之地 (2026-04-30) | 共 2 季",
+      "time": "04-30",
+      "tags": [
+        "科幻",
+        "剧情",
+        "动作"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-11-16"
+    },
+    {
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
+      "time": "07-30",
+      "tags": [
+        "犯罪",
+        "剧情"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-06-04"
     }
   ]
 }
