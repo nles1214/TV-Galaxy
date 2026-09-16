@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T07:00:54.723Z",
+  "updatedAt": "2026-09-16T07:02:01.854Z",
   "count": 20,
   "shows": [
     {
@@ -28,7 +28,7 @@
       "id": 97546,
       "title": "Ted Lasso",
       "season": "S4",
-      "episode": "E6",
+      "episode": "E7",
       "category": [
         "drama",
         "comedy"
@@ -37,8 +37,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
       "summary": "一位美国橄榄球教练受聘执教一支英国足球队；他虽然缺乏足球知识，但他乐观、坚定，而且带了很多饼干。",
-      "updateNote": "最新: 不再乱蹦乱跳 (2026-09-08) | 下集: S4E7 2026-09-15播出 | 共 4 季",
-      "time": "09-08",
+      "updateNote": "最新: 好啊 宝贝 (2026-09-15) | 下集: S4E8 2026-09-22播出 | 共 4 季",
+      "time": "09-15",
       "tags": [
         "剧情",
         "喜剧"
@@ -100,7 +100,7 @@
         "thriller",
         "drama"
       ],
-      "rating": 9.1,
+      "rating": 9.2,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
       "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
@@ -184,6 +184,26 @@
       "firstAirDate": "2021-09-23"
     },
     {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 270476,
       "title": "寡妇湾",
       "season": "S2",
@@ -208,46 +228,26 @@
       "firstAirDate": "2026-04-28"
     },
     {
-      "id": 138169,
-      "title": "外推",
+      "id": 225171,
+      "title": "Pluribus",
       "season": "S1",
-      "episode": "E8",
+      "episode": "E9",
       "category": [
         "drama",
         "scifi"
       ],
-      "rating": 6.1,
+      "rating": 7.9,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/jmnbhL11PDxqartBlwucu31ZNMj.jpg",
-      "summary": "本剧跨越33年讲述八个相互关联的故事，探讨我们星球不断变化的气候将如何影响家庭、工作、信仰和生存。",
-      "updateNote": "最新: 2070年：生态灭绝 (2023-04-20) | 共 1 季",
-      "time": "04-20",
+      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
+      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
       "tags": [
         "剧情",
         "科幻"
       ],
-      "status": "ended",
-      "firstAirDate": "2023-03-16"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
       "status": "new",
-      "firstAirDate": "2019-11-01"
+      "firstAirDate": "2025-11-06"
     },
     {
       "id": 136311,
@@ -272,26 +272,26 @@
       "firstAirDate": "2023-01-26"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
+      "id": 278624,
+      "title": "幸运女神",
       "season": "S1",
-      "episode": "E9",
+      "episode": "E7",
       "category": [
         "drama",
-        "scifi"
+        "thriller"
       ],
-      "rating": 7.9,
+      "rating": 7.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
-      "summary": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
+      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
+      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
+      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
+      "time": "08-18",
       "tags": [
         "剧情",
-        "科幻"
+        "犯罪"
       ],
-      "status": "new",
-      "firstAirDate": "2025-11-06"
+      "status": "ended",
+      "firstAirDate": "2026-07-14"
     },
     {
       "id": 80752,
@@ -318,28 +318,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 278624,
-      "title": "幸运女神",
-      "season": "S1",
-      "episode": "E7",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
-      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
-      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
-      "time": "08-18",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-07-14"
-    },
-    {
       "id": 203744,
       "title": "Sugar",
       "season": "S2",
@@ -360,6 +338,28 @@
       ],
       "status": "new",
       "firstAirDate": "2024-04-04"
+    },
+    {
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-10-21"
     },
     {
       "id": 202411,
@@ -410,48 +410,48 @@
       "firstAirDate": "2025-04-10"
     },
     {
-      "id": 98198,
-      "title": "中央公园",
-      "season": "S3",
-      "episode": "E13",
-      "category": [
-        "scifi",
-        "comedy"
-      ],
-      "rating": 6.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/j8wjUFRAD5ogud30G6mNgbcoUre.jpg",
-      "summary": "一部关于 Tillermans 家族的音乐喜剧动画，这个家族住在中央公园的一座城堡里。公园经理 Owen 和他的记者妻子 Paige 在世界最著名的公园里抚养他们的孩子 Molly 和 Cole，同时抵御酒店女继承人 Bitsy Brandenham，她最想做的就是把公园变成公寓。",
-      "updateNote": "最新: 第 13 集 (2022-11-17) | 共 3 季",
-      "time": "11-17",
-      "tags": [
-        "动画",
-        "喜剧"
-      ],
-      "status": "ended",
-      "firstAirDate": "2020-05-29"
-    },
-    {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
+      "id": 241554,
+      "title": "Murderbot",
+      "season": "S1",
       "episode": "E10",
       "category": [
-        "scifi",
+        "comedy",
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/3NJpcIDR2PGfJ8OoXoyP1XP21n0.jpg",
+      "summary": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
+      "updateNote": "最新: 边界危局 (2025-07-10) | 共 1 季",
+      "time": "07-10",
+      "tags": [
+        "喜剧",
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-05-15"
+    },
+    {
+      "id": 198102,
+      "title": "历劫惊途",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
         "drama"
       ],
-      "rating": 7.1,
+      "rating": 7.5,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
+      "poster": "https://image.tmdb.org/t/p/w300/h8Y9FDPIk1aHDpTbPoLLu7jnxid.jpg",
+      "summary": "在挟持者夺取控制权后，谈判专家山姆·尼尔森面临人生中最惊险的挑战，所有乘客亦深陷其中。为了扭转局势，他将施展所有谈判手段，而情况亦越来越严峻。",
+      "updateNote": "最新: 终点站 (2026-03-04) | 共 2 季",
+      "time": "03-04",
       "tags": [
-        "科幻",
         "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2021-10-21"
+      "firstAirDate": "2023-06-28"
     }
   ]
 }
