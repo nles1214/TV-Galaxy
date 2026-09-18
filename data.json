@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-09-17T06:57:39.014Z",
+  "updatedAt": "2026-09-18T06:54:31.850Z",
   "count": 20,
   "shows": [
-    {
-      "id": 125988,
-      "title": "末日地堡",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 8.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
-      "summary": "该剧基于休·豪伊所著同名畅销科幻系列小说改编，在一个满目疮痍、有毒物质遍布的未来世界中，成千上万的人居住在深埋在地下的巨大筒仓里。在警长违反了一项基本规则以及有些居民神秘死亡后，工程师朱丽叶开始揭开惊人的秘密和筒仓的真相。",
-      "updateNote": "最新: 特洛伊 (2026-09-03) | 下集: S4E1 2027-07-08播出 | 共 4 季",
-      "time": "09-03",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-05-04"
-    },
     {
       "id": 97546,
       "title": "Ted Lasso",
@@ -45,6 +23,28 @@
       ],
       "status": "new",
       "firstAirDate": "2020-08-14"
+    },
+    {
+      "id": 125988,
+      "title": "末日地堡",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 8.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
+      "summary": "该剧基于休·豪伊所著同名畅销科幻系列小说改编，在一个满目疮痍、有毒物质遍布的未来世界中，成千上万的人居住在深埋在地下的巨大筒仓里。在警长违反了一项基本规则以及有些居民神秘死亡后，工程师朱丽叶开始揭开惊人的秘密和筒仓的真相。",
+      "updateNote": "最新: 特洛伊 (2026-09-03) | 下集: S4E1 2027-07-08播出 | 共 4 季",
+      "time": "09-03",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-05-04"
     },
     {
       "id": 95480,
@@ -97,7 +97,7 @@
       "id": 196322,
       "title": "Dark Matter",
       "season": "S2",
-      "episode": "E3",
+      "episode": "E4",
       "category": [
         "scifi",
         "drama"
@@ -106,14 +106,37 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
       "summary": "物理学家杰森·迪森被绑架到了另一个版本的人生中。为了回到真正的家人身边，他踏上了一段惊心动魄的旅程，要从最可怕的敌人——他自己——手中拯救家人。改编自Blake Crouch同名畅销小说。",
-      "updateNote": "最新: 一切美好，一切可怕 (2026-09-10) | 下集: S2E4 2026-09-17播出 | 共 2 季",
-      "time": "09-10",
+      "updateNote": "最新: 星星，藏起你的火焰 (2026-09-17) | 下集: S2E5 2026-09-24播出 | 共 2 季",
+      "time": "09-17",
       "tags": [
         "科幻",
         "剧情"
       ],
       "status": "new",
       "firstAirDate": "2024-05-07"
+    },
+    {
+      "id": 87917,
+      "title": "For All Mankind",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
+      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
+      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
+      "time": "05-28",
+      "tags": [
+        "剧情",
+        "科幻",
+        "War & Politics"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 258230,
@@ -124,7 +147,7 @@
         "thriller",
         "drama"
       ],
-      "rating": 8.8,
+      "rating": 8.6,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
       "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
@@ -163,27 +186,26 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 87917,
-      "title": "For All Mankind",
-      "season": "S5",
-      "episode": "E10",
+      "id": 138169,
+      "title": "外推",
+      "season": "S1",
+      "episode": "E8",
       "category": [
         "drama",
         "scifi"
       ],
-      "rating": 7.7,
+      "rating": 6.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
-      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
-      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
-      "time": "05-28",
+      "poster": "https://image.tmdb.org/t/p/w300/jmnbhL11PDxqartBlwucu31ZNMj.jpg",
+      "summary": "本剧跨越33年讲述八个相互关联的故事，探讨我们星球不断变化的气候将如何影响家庭、工作、信仰和生存。",
+      "updateNote": "最新: 2070年：生态灭绝 (2023-04-20) | 共 1 季",
+      "time": "04-20",
       "tags": [
         "剧情",
-        "科幻",
-        "War & Politics"
+        "科幻"
       ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
+      "status": "ended",
+      "firstAirDate": "2023-03-16"
     },
     {
       "id": 93740,
@@ -230,6 +252,28 @@
       "firstAirDate": "2025-11-06"
     },
     {
+      "id": 278624,
+      "title": "幸运女神",
+      "season": "S1",
+      "episode": "E7",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
+      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
+      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
+      "time": "08-18",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-07-14"
+    },
+    {
       "id": 90282,
       "title": "The Morning Show",
       "season": "S5",
@@ -248,29 +292,6 @@
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 226745,
-      "title": "史努比露营记",
-      "season": "S2",
-      "episode": "E13",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xymty6tAY7QA6BdBO3Jobk3lbo5.jpg",
-      "summary": "在发觉队伍面临解散的大危机后，史努比以《小猎犬童子军手册》作为指南，率领小黄鸟们再次组成比格犬童子军出发去亲近自然并体验户外生活，以此获得队伍的卓越徽章。与此同时，查理·布朗和他的朋友们在春水湖营地享受夏天，他们不仅与史努比及其小猎犬童子军相遇，而且还一起体验徒步旅行、游泳甚至是篝火围坐，体验夏令营和户外活动的种种乐趣。",
-      "updateNote": "最新: 第 13 集 (2026-06-25) | 共 2 季",
-      "time": "06-25",
-      "tags": [
-        "动画",
-        "儿童",
-        "家庭"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-06-13"
     },
     {
       "id": 136311,
@@ -293,50 +314,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-01-26"
-    },
-    {
-      "id": 138169,
-      "title": "外推",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 6.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/jmnbhL11PDxqartBlwucu31ZNMj.jpg",
-      "summary": "本剧跨越33年讲述八个相互关联的故事，探讨我们星球不断变化的气候将如何影响家庭、工作、信仰和生存。",
-      "updateNote": "最新: 2070年：生态灭绝 (2023-04-20) | 共 1 季",
-      "time": "04-20",
-      "tags": [
-        "剧情",
-        "科幻"
-      ],
-      "status": "ended",
-      "firstAirDate": "2023-03-16"
-    },
-    {
-      "id": 278624,
-      "title": "幸运女神",
-      "season": "S1",
-      "episode": "E7",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
-      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
-      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
-      "time": "08-18",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-07-14"
     },
     {
       "id": 80752,
@@ -363,28 +340,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-10-21"
-    },
-    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -409,26 +364,26 @@
       "firstAirDate": "2023-11-16"
     },
     {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E8",
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
       "category": [
-        "drama",
-        "thriller"
+        "scifi",
+        "drama"
       ],
       "rating": 7.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
-      "time": "08-06",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
       "tags": [
-        "剧情",
-        "悬疑"
+        "科幻",
+        "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2024-04-04"
+      "firstAirDate": "2021-10-21"
     },
     {
       "id": 241609,
@@ -451,6 +406,51 @@
       ],
       "status": "new",
       "firstAirDate": "2025-04-10"
+    },
+    {
+      "id": 253983,
+      "title": "Las azules",
+      "season": "S2",
+      "episode": "E6",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/5WfpZWS94tFmYBnVLHTcZOJTJzr.jpg",
+      "summary": "1971年，四名女性不顾极端保守的社会准则，加入了墨西哥第一支女警队，却发现这只是为了分散媒体对连环杀手的注意力而采取的宣传噱头。随着遇害者数量的增加，她们约定誓将凶手绳之以法。",
+      "updateNote": "最新: 吉尔伯托 (2026-09-15) | 下集: S2E7 2026-09-22播出 | 共 2 季",
+      "time": "09-15",
+      "tags": [
+        "犯罪",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-07-30"
+    },
+    {
+      "id": 226745,
+      "title": "史努比露营记",
+      "season": "S2",
+      "episode": "E13",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/xymty6tAY7QA6BdBO3Jobk3lbo5.jpg",
+      "summary": "在发觉队伍面临解散的大危机后，史努比以《小猎犬童子军手册》作为指南，率领小黄鸟们再次组成比格犬童子军出发去亲近自然并体验户外生活，以此获得队伍的卓越徽章。与此同时，查理·布朗和他的朋友们在春水湖营地享受夏天，他们不仅与史努比及其小猎犬童子军相遇，而且还一起体验徒步旅行、游泳甚至是篝火围坐，体验夏令营和户外活动的种种乐趣。",
+      "updateNote": "最新: 第 13 集 (2026-06-25) | 共 2 季",
+      "time": "06-25",
+      "tags": [
+        "动画",
+        "儿童",
+        "家庭"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-06-13"
     }
   ]
 }
