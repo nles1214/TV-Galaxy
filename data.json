@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T06:54:31.850Z",
+  "updatedAt": "2026-09-19T06:53:27.753Z",
   "count": 20,
   "shows": [
     {
@@ -139,29 +139,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 258230,
-      "title": "最后目击",
-      "season": "S1",
-      "episode": "E3",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 8.6,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
-      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
-      "updateNote": "最新: 谎言 (2026-09-16) | 下集: S1E4 2026-09-23播出 | 共 1 季",
-      "time": "09-16",
-      "tags": [
-        "犯罪",
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-09-09"
-    },
-    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -186,26 +163,27 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 138169,
-      "title": "外推",
+      "id": 258230,
+      "title": "最后目击",
       "season": "S1",
-      "episode": "E8",
+      "episode": "E3",
       "category": [
-        "drama",
-        "scifi"
+        "thriller",
+        "drama"
       ],
-      "rating": 6.1,
+      "rating": 8.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/jmnbhL11PDxqartBlwucu31ZNMj.jpg",
-      "summary": "本剧跨越33年讲述八个相互关联的故事，探讨我们星球不断变化的气候将如何影响家庭、工作、信仰和生存。",
-      "updateNote": "最新: 2070年：生态灭绝 (2023-04-20) | 共 1 季",
-      "time": "04-20",
+      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
+      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
+      "updateNote": "最新: 谎言 (2026-09-16) | 下集: S1E4 2026-09-23播出 | 共 1 季",
+      "time": "09-16",
       "tags": [
+        "犯罪",
         "剧情",
-        "科幻"
+        "悬疑"
       ],
-      "status": "ended",
-      "firstAirDate": "2023-03-16"
+      "status": "new",
+      "firstAirDate": "2026-09-09"
     },
     {
       "id": 93740,
@@ -230,6 +208,28 @@
       "firstAirDate": "2021-09-23"
     },
     {
+      "id": 138169,
+      "title": "外推",
+      "season": "S1",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 6.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/jmnbhL11PDxqartBlwucu31ZNMj.jpg",
+      "summary": "本剧跨越33年讲述八个相互关联的故事，探讨我们星球不断变化的气候将如何影响家庭、工作、信仰和生存。",
+      "updateNote": "最新: 2070年：生态灭绝 (2023-04-20) | 共 1 季",
+      "time": "04-20",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "ended",
+      "firstAirDate": "2023-03-16"
+    },
+    {
       "id": 225171,
       "title": "Pluribus",
       "season": "S1",
@@ -250,28 +250,6 @@
       ],
       "status": "new",
       "firstAirDate": "2025-11-06"
-    },
-    {
-      "id": 278624,
-      "title": "幸运女神",
-      "season": "S1",
-      "episode": "E7",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
-      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
-      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
-      "time": "08-18",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-07-14"
     },
     {
       "id": 90282,
@@ -340,6 +318,28 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 278624,
+      "title": "幸运女神",
+      "season": "S1",
+      "episode": "E7",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
+      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
+      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
+      "time": "08-18",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-07-14"
+    },
+    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -386,6 +386,50 @@
       "firstAirDate": "2021-10-21"
     },
     {
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
+      "time": "08-06",
+      "tags": [
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-04-04"
+    },
+    {
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
+      "time": "07-30",
+      "tags": [
+        "犯罪",
+        "剧情"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-06-04"
+    },
+    {
       "id": 241609,
       "title": "掩耳盗邻",
       "season": "S2",
@@ -406,51 +450,6 @@
       ],
       "status": "new",
       "firstAirDate": "2025-04-10"
-    },
-    {
-      "id": 253983,
-      "title": "Las azules",
-      "season": "S2",
-      "episode": "E6",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 7.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/5WfpZWS94tFmYBnVLHTcZOJTJzr.jpg",
-      "summary": "1971年，四名女性不顾极端保守的社会准则，加入了墨西哥第一支女警队，却发现这只是为了分散媒体对连环杀手的注意力而采取的宣传噱头。随着遇害者数量的增加，她们约定誓将凶手绳之以法。",
-      "updateNote": "最新: 吉尔伯托 (2026-09-15) | 下集: S2E7 2026-09-22播出 | 共 2 季",
-      "time": "09-15",
-      "tags": [
-        "犯罪",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-07-30"
-    },
-    {
-      "id": 226745,
-      "title": "史努比露营记",
-      "season": "S2",
-      "episode": "E13",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xymty6tAY7QA6BdBO3Jobk3lbo5.jpg",
-      "summary": "在发觉队伍面临解散的大危机后，史努比以《小猎犬童子军手册》作为指南，率领小黄鸟们再次组成比格犬童子军出发去亲近自然并体验户外生活，以此获得队伍的卓越徽章。与此同时，查理·布朗和他的朋友们在春水湖营地享受夏天，他们不仅与史努比及其小猎犬童子军相遇，而且还一起体验徒步旅行、游泳甚至是篝火围坐，体验夏令营和户外活动的种种乐趣。",
-      "updateNote": "最新: 第 13 集 (2026-06-25) | 共 2 季",
-      "time": "06-25",
-      "tags": [
-        "动画",
-        "儿童",
-        "家庭"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-06-13"
     }
   ]
 }
