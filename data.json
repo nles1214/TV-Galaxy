@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T07:28:14.173Z",
+  "updatedAt": "2026-09-22T07:06:34.338Z",
   "count": 20,
   "shows": [
     {
@@ -70,28 +70,6 @@
       "firstAirDate": "2022-04-01"
     },
     {
-      "id": 196322,
-      "title": "Dark Matter",
-      "season": "S2",
-      "episode": "E4",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-      "summary": "平行世界的出现，让不同的人生与现实彼此交错。杰森、丹妮拉、阿曼达、瑞恩等人被卷入其中，在无数种可能的人生之间寻找自己的归宿，也重新面对选择、家庭、欲望与真正想要的人生。",
-      "updateNote": "最新: 星星啊，收起你们的光芒 (2026-09-17) | 下集: S2E5 2026-09-24播出 | 共 2 季",
-      "time": "09-17",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-05-07"
-    },
-    {
       "id": 270476,
       "title": "寡妇湾",
       "season": "S2",
@@ -137,6 +115,28 @@
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 196322,
+      "title": "Dark Matter",
+      "season": "S2",
+      "episode": "E4",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
+      "summary": "平行世界的出现，让不同的人生与现实彼此交错。杰森、丹妮拉、阿曼达、瑞恩等人被卷入其中，在无数种可能的人生之间寻找自己的归宿，也重新面对选择、家庭、欲望与真正想要的人生。",
+      "updateNote": "最新: 星星啊，收起你们的光芒 (2026-09-17) | 下集: S2E5 2026-09-24播出 | 共 2 季",
+      "time": "09-17",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-05-07"
     },
     {
       "id": 95396,
@@ -227,51 +227,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 138169,
-      "title": "外推",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 6.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/jmnbhL11PDxqartBlwucu31ZNMj.jpg",
-      "summary": "本剧跨越33年讲述八个相互关联的故事，探讨我们星球不断变化的气候将如何影响家庭、工作、信仰和生存。",
-      "updateNote": "最新: 2070年：生态灭绝 (2023-04-20) | 共 1 季",
-      "time": "04-20",
-      "tags": [
-        "剧情",
-        "科幻"
-      ],
-      "status": "ended",
-      "firstAirDate": "2023-03-16"
-    },
-    {
-      "id": 258230,
-      "title": "最后目击",
-      "season": "S1",
-      "episode": "E3",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 8.4,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
-      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
-      "updateNote": "最新: 谎言 (2026-09-16) | 下集: S1E4 2026-09-23播出 | 共 1 季",
-      "time": "09-16",
-      "tags": [
-        "犯罪",
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-09-09"
-    },
-    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -316,6 +271,29 @@
       ],
       "status": "ended",
       "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 258230,
+      "title": "最后目击",
+      "season": "S1",
+      "episode": "E3",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
+      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
+      "updateNote": "最新: 谎言 (2026-09-16) | 下集: S1E4 2026-09-23播出 | 共 1 季",
+      "time": "09-16",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-09-09"
     },
     {
       "id": 202411,
@@ -364,26 +342,26 @@
       "firstAirDate": "2026-07-14"
     },
     {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
+      "id": 138169,
+      "title": "外推",
+      "season": "S1",
       "episode": "E8",
       "category": [
         "drama",
-        "thriller"
+        "scifi"
       ],
-      "rating": 7.1,
+      "rating": 6.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
-      "time": "08-06",
+      "poster": "https://image.tmdb.org/t/p/w300/jmnbhL11PDxqartBlwucu31ZNMj.jpg",
+      "summary": "本剧跨越33年讲述八个相互关联的故事，探讨我们星球不断变化的气候将如何影响家庭、工作、信仰和生存。",
+      "updateNote": "最新: 2070年：生态灭绝 (2023-04-20) | 共 1 季",
+      "time": "04-20",
       "tags": [
         "剧情",
-        "悬疑"
+        "科幻"
       ],
-      "status": "new",
-      "firstAirDate": "2024-04-04"
+      "status": "ended",
+      "firstAirDate": "2023-03-16"
     },
     {
       "id": 127235,
@@ -408,26 +386,26 @@
       "firstAirDate": "2021-10-21"
     },
     {
-      "id": 199318,
-      "title": "Bad Sisters",
+      "id": 203744,
+      "title": "Sugar",
       "season": "S2",
       "episode": "E8",
       "category": [
         "drama",
         "thriller"
       ],
-      "rating": 7.5,
+      "rating": 7.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
+      "time": "08-06",
       "tags": [
         "剧情",
-        "犯罪"
+        "悬疑"
       ],
-      "status": "ended",
-      "firstAirDate": "2022-08-19"
+      "status": "new",
+      "firstAirDate": "2024-04-04"
     },
     {
       "id": 241609,
@@ -450,6 +428,26 @@
       ],
       "status": "new",
       "firstAirDate": "2025-04-10"
+    },
+    {
+      "id": 94951,
+      "title": "神话任务",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "comedy"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
+      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
+      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
+      "time": "03-25",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "ended",
+      "firstAirDate": "2020-02-07"
     }
   ]
 }
