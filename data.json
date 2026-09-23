@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-22T07:06:34.338Z",
+  "updatedAt": "2026-09-23T07:04:14.771Z",
   "count": 20,
   "shows": [
     {
       "id": 97546,
       "title": "Ted Lasso",
       "season": "S4",
-      "episode": "E7",
+      "episode": "E8",
       "category": [
         "drama",
         "comedy"
@@ -15,8 +15,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/uPtfFJmTKHCfYW2NTIND8SBeZBa.jpg",
       "summary": "一位美国橄榄球教练受聘执教一支英国足球队；他虽然缺乏足球知识，但他乐观、坚定，而且带了很多饼干。",
-      "updateNote": "最新: 好啊 宝贝 (2026-09-15) | 下集: S4E8 2026-09-22播出 | 共 4 季",
-      "time": "09-15",
+      "updateNote": "最新: 跟随愤怒 (2026-09-22) | 下集: S4E9 2026-09-29播出 | 共 4 季",
+      "time": "09-22",
       "tags": [
         "剧情",
         "喜剧"
@@ -94,6 +94,28 @@
       "firstAirDate": "2026-04-28"
     },
     {
+      "id": 196322,
+      "title": "Dark Matter",
+      "season": "S2",
+      "episode": "E4",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
+      "summary": "平行世界的出现，让不同的人生与现实彼此交错。杰森、丹妮拉、阿曼达、瑞恩等人被卷入其中，在无数种可能的人生之间寻找自己的归宿，也重新面对选择、家庭、欲望与真正想要的人生。",
+      "updateNote": "最新: 星星啊，收起你们的光芒 (2026-09-17) | 下集: S2E5 2026-09-24播出 | 共 2 季",
+      "time": "09-17",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-05-07"
+    },
+    {
       "id": 87917,
       "title": "For All Mankind",
       "season": "S5",
@@ -115,28 +137,6 @@
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 196322,
-      "title": "Dark Matter",
-      "season": "S2",
-      "episode": "E4",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-      "summary": "平行世界的出现，让不同的人生与现实彼此交错。杰森、丹妮拉、阿曼达、瑞恩等人被卷入其中，在无数种可能的人生之间寻找自己的归宿，也重新面对选择、家庭、欲望与真正想要的人生。",
-      "updateNote": "最新: 星星啊，收起你们的光芒 (2026-09-17) | 下集: S2E5 2026-09-24播出 | 共 2 季",
-      "time": "09-17",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-05-07"
     },
     {
       "id": 95396,
@@ -227,28 +227,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
-    },
-    {
       "id": 80752,
       "title": "See",
       "season": "S3",
@@ -271,6 +249,52 @@
       ],
       "status": "ended",
       "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-26"
+    },
+    {
+      "id": 202411,
+      "title": "Monarch: Legacy of Monsters",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama",
+        "action"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
+      "summary": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
+      "updateNote": "最新: 归属之地 (2026-04-30) | 共 2 季",
+      "time": "04-30",
+      "tags": [
+        "科幻",
+        "剧情",
+        "动作"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-11-16"
     },
     {
       "id": 258230,
@@ -296,28 +320,72 @@
       "firstAirDate": "2026-09-09"
     },
     {
-      "id": 202411,
-      "title": "Monarch: Legacy of Monsters",
-      "season": "S2",
-      "episode": "E10",
+      "id": 95341,
+      "title": "项塔兰",
+      "season": "S1",
+      "episode": "E12",
       "category": [
-        "scifi",
+        "thriller",
         "drama",
         "action"
       ],
-      "rating": 7.7,
+      "rating": 7.4,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
-      "summary": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
-      "updateNote": "最新: 归属之地 (2026-04-30) | 共 2 季",
-      "time": "04-30",
+      "poster": "https://image.tmdb.org/t/p/w300/ujNS6zduNedK4Q9xur6YLUNxIEZ.jpg",
+      "summary": "1980年代，逃犯林·福特逃亡至熙熙攘攘的孟买街头，想从此隐姓埋名。他成为孟买贫民区的医生，在寻找救赎的漫漫长路上，邂逅意外的爱情、结交挚友、找到勇气。",
+      "updateNote": "最新: 千里迢迢来到这里 (2022-12-15) | 共 1 季",
+      "time": "12-15",
       "tags": [
-        "科幻",
+        "犯罪",
         "剧情",
         "动作"
       ],
+      "status": "ended",
+      "firstAirDate": "2022-10-13"
+    },
+    {
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
+      "time": "08-06",
+      "tags": [
+        "剧情",
+        "悬疑"
+      ],
       "status": "new",
-      "firstAirDate": "2023-11-16"
+      "firstAirDate": "2024-04-04"
+    },
+    {
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-10-21"
     },
     {
       "id": 278624,
@@ -364,50 +432,6 @@
       "firstAirDate": "2023-03-16"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-10-21"
-    },
-    {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
-      "time": "08-06",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-04-04"
-    },
-    {
       "id": 241609,
       "title": "掩耳盗邻",
       "season": "S2",
@@ -428,26 +452,6 @@
       ],
       "status": "new",
       "firstAirDate": "2025-04-10"
-    },
-    {
-      "id": 94951,
-      "title": "神话任务",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "comedy"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
-      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
-      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
-      "time": "03-25",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "ended",
-      "firstAirDate": "2020-02-07"
     }
   ]
 }
