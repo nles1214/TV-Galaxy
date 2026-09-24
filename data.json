@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T07:04:14.771Z",
+  "updatedAt": "2026-09-24T06:59:40.785Z",
   "count": 20,
   "shows": [
     {
@@ -50,7 +50,7 @@
       "id": 95480,
       "title": "Slow Horses",
       "season": "S6",
-      "episode": "E1",
+      "episode": "E2",
       "category": [
         "thriller",
         "drama"
@@ -59,8 +59,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
       "summary": "该剧根据米克·赫伦的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
-      "updateNote": "最新: 人生轮回 (2026-09-16) | 下集: S6E2 2026-09-23播出 | 共 6 季",
-      "time": "09-16",
+      "updateNote": "最新: 父子情仇 (2026-09-23) | 下集: S6E3 2026-09-30播出 | 共 6 季",
+      "time": "09-23",
       "tags": [
         "犯罪",
         "剧情",
@@ -70,28 +70,47 @@
       "firstAirDate": "2022-04-01"
     },
     {
-      "id": 270476,
-      "title": "寡妇湾",
-      "season": "S2",
+      "id": 250203,
+      "title": "无间兄弟情",
+      "season": "S1",
+      "episode": "E2",
+      "category": [
+        "comedy"
+      ],
+      "rating": 10,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/9XGxH25h5o6aycGLnidA5DKomwl.jpg",
+      "summary": "伍迪·哈里森和马修·麦康纳两位相识多年的好友意外得知可能是亲兄弟，在追查身世真相的同时，也卷入家庭纷争与竞选州长的混乱之中。",
+      "updateNote": "最新: 打猎 (2026-09-22) | 下集: S1E3 2026-09-29播出 | 共 1 季",
+      "time": "09-22",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-09-22"
+    },
+    {
+      "id": 87917,
+      "title": "For All Mankind",
+      "season": "S5",
       "episode": "E10",
       "category": [
         "drama",
-        "comedy",
-        "thriller"
+        "scifi"
       ],
-      "rating": 8.1,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-      "summary": "新英格兰小岛寡妇湾长期流传着关于诅咒的传说。市长汤姆·洛夫蒂斯试图将小岛打造为旅游胜地，却在游客涌入后接连遭遇一系列诡异事件。随着事态不断失控，笼罩小岛的神秘传说逐渐成为现实。",
-      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
-      "time": "06-16",
+      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
+      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
+      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
+      "time": "05-28",
       "tags": [
         "剧情",
-        "喜剧",
-        "悬疑"
+        "科幻",
+        "War & Politics"
       ],
-      "status": "hot",
-      "firstAirDate": "2026-04-28"
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 196322,
@@ -116,27 +135,52 @@
       "firstAirDate": "2024-05-07"
     },
     {
-      "id": 87917,
-      "title": "For All Mankind",
-      "season": "S5",
+      "id": 270476,
+      "title": "寡妇湾",
+      "season": "S2",
       "episode": "E10",
       "category": [
         "drama",
-        "scifi"
+        "comedy",
+        "thriller"
       ],
-      "rating": 7.7,
+      "rating": 8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
-      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
-      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
-      "time": "05-28",
+      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+      "summary": "新英格兰小岛寡妇湾长期流传着关于诅咒的传说。市长汤姆·洛夫蒂斯试图将小岛打造为旅游胜地，却在游客涌入后接连遭遇一系列诡异事件。随着事态不断失控，笼罩小岛的神秘传说逐渐成为现实。",
+      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
+      "time": "06-16",
       "tags": [
         "剧情",
-        "科幻",
-        "War & Politics"
+        "喜剧",
+        "悬疑"
       ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
+      "status": "hot",
+      "firstAirDate": "2026-04-28"
+    },
+    {
+      "id": 95341,
+      "title": "项塔兰",
+      "season": "S1",
+      "episode": "E12",
+      "category": [
+        "thriller",
+        "drama",
+        "action"
+      ],
+      "rating": 7.4,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/ujNS6zduNedK4Q9xur6YLUNxIEZ.jpg",
+      "summary": "1980年代，逃犯林·福特逃亡至熙熙攘攘的孟买街头，想从此隐姓埋名。他成为孟买贫民区的医生，在寻找救赎的漫漫长路上，邂逅意外的爱情、结交挚友、找到勇气。",
+      "updateNote": "最新: 千里迢迢来到这里 (2022-12-15) | 共 1 季",
+      "time": "12-15",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "动作"
+      ],
+      "status": "ended",
+      "firstAirDate": "2022-10-13"
     },
     {
       "id": 95396,
@@ -273,6 +317,29 @@
       "firstAirDate": "2023-01-26"
     },
     {
+      "id": 258230,
+      "title": "最后目击",
+      "season": "S1",
+      "episode": "E4",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 8.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
+      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
+      "updateNote": "最新: 真相 (2026-09-23) | 下集: S1E5 2026-09-30播出 | 共 1 季",
+      "time": "09-23",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-09-09"
+    },
+    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -297,51 +364,26 @@
       "firstAirDate": "2023-11-16"
     },
     {
-      "id": 258230,
-      "title": "最后目击",
+      "id": 278624,
+      "title": "幸运女神",
       "season": "S1",
-      "episode": "E3",
+      "episode": "E7",
       "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
-      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
-      "updateNote": "最新: 谎言 (2026-09-16) | 下集: S1E4 2026-09-23播出 | 共 1 季",
-      "time": "09-16",
-      "tags": [
-        "犯罪",
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-09-09"
-    },
-    {
-      "id": 95341,
-      "title": "项塔兰",
-      "season": "S1",
-      "episode": "E12",
-      "category": [
-        "thriller",
         "drama",
-        "action"
+        "thriller"
       ],
-      "rating": 7.4,
+      "rating": 7.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/ujNS6zduNedK4Q9xur6YLUNxIEZ.jpg",
-      "summary": "1980年代，逃犯林·福特逃亡至熙熙攘攘的孟买街头，想从此隐姓埋名。他成为孟买贫民区的医生，在寻找救赎的漫漫长路上，邂逅意外的爱情、结交挚友、找到勇气。",
-      "updateNote": "最新: 千里迢迢来到这里 (2022-12-15) | 共 1 季",
-      "time": "12-15",
+      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
+      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
+      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
+      "time": "08-18",
       "tags": [
-        "犯罪",
         "剧情",
-        "动作"
+        "犯罪"
       ],
       "status": "ended",
-      "firstAirDate": "2022-10-13"
+      "firstAirDate": "2026-07-14"
     },
     {
       "id": 203744,
@@ -386,50 +428,6 @@
       ],
       "status": "new",
       "firstAirDate": "2021-10-21"
-    },
-    {
-      "id": 278624,
-      "title": "幸运女神",
-      "season": "S1",
-      "episode": "E7",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
-      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
-      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
-      "time": "08-18",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-07-14"
-    },
-    {
-      "id": 138169,
-      "title": "外推",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 6.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/jmnbhL11PDxqartBlwucu31ZNMj.jpg",
-      "summary": "本剧跨越33年讲述八个相互关联的故事，探讨我们星球不断变化的气候将如何影响家庭、工作、信仰和生存。",
-      "updateNote": "最新: 2070年：生态灭绝 (2023-04-20) | 共 1 季",
-      "time": "04-20",
-      "tags": [
-        "剧情",
-        "科幻"
-      ],
-      "status": "ended",
-      "firstAirDate": "2023-03-16"
     },
     {
       "id": 241609,
