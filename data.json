@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T06:54:58.714Z",
+  "updatedAt": "2026-09-27T07:24:12.580Z",
   "count": 20,
   "shows": [
     {
@@ -25,6 +25,29 @@
       "firstAirDate": "2020-08-14"
     },
     {
+      "id": 95480,
+      "title": "Slow Horses",
+      "season": "S6",
+      "episode": "E2",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
+      "summary": "该剧根据米克·赫伦的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
+      "updateNote": "最新: 父子情仇 (2026-09-23) | 下集: S6E3 2026-09-30播出 | 共 6 季",
+      "time": "09-23",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2022-04-01"
+    },
+    {
       "id": 125988,
       "title": "末日地堡",
       "season": "S4",
@@ -47,27 +70,26 @@
       "firstAirDate": "2023-05-04"
     },
     {
-      "id": 95480,
-      "title": "Slow Horses",
-      "season": "S6",
-      "episode": "E2",
+      "id": 196322,
+      "title": "Dark Matter",
+      "season": "S2",
+      "episode": "E5",
       "category": [
-        "thriller",
+        "scifi",
         "drama"
       ],
-      "rating": 8,
+      "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
-      "summary": "该剧根据米克·赫伦的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
-      "updateNote": "最新: 父子情仇 (2026-09-23) | 下集: S6E3 2026-09-30播出 | 共 6 季",
-      "time": "09-23",
+      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
+      "summary": "平行世界的出现，让不同的人生与现实彼此交错。杰森、丹妮拉、阿曼达、瑞恩等人被卷入其中，在无数种可能的人生之间寻找自己的归宿，也重新面对选择、家庭、欲望与真正想要的人生。",
+      "updateNote": "最新: 爱与被爱 (2026-09-24) | 下集: S2E6 2026-10-01播出 | 共 2 季",
+      "time": "09-24",
       "tags": [
-        "犯罪",
-        "剧情",
-        "悬疑"
+        "科幻",
+        "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2022-04-01"
+      "firstAirDate": "2024-05-07"
     },
     {
       "id": 87917,
@@ -111,28 +133,6 @@
       ],
       "status": "new",
       "firstAirDate": "2026-09-22"
-    },
-    {
-      "id": 196322,
-      "title": "Dark Matter",
-      "season": "S2",
-      "episode": "E5",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-      "summary": "平行世界的出现，让不同的人生与现实彼此交错。杰森、丹妮拉、阿曼达、瑞恩等人被卷入其中，在无数种可能的人生之间寻找自己的归宿，也重新面对选择、家庭、欲望与真正想要的人生。",
-      "updateNote": "最新: 爱与被爱 (2026-09-24) | 下集: S2E6 2026-10-01播出 | 共 2 季",
-      "time": "09-24",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-05-07"
     },
     {
       "id": 95396,
@@ -205,6 +205,26 @@
       "firstAirDate": "2021-09-23"
     },
     {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 258230,
       "title": "最后目击",
       "season": "S1",
@@ -250,26 +270,6 @@
       "firstAirDate": "2025-11-06"
     },
     {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 80752,
       "title": "See",
       "season": "S3",
@@ -292,28 +292,6 @@
       ],
       "status": "ended",
       "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
     },
     {
       "id": 202411,
@@ -340,26 +318,26 @@
       "firstAirDate": "2023-11-16"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
+      "id": 136311,
+      "title": "Shrinking",
       "season": "S3",
-      "episode": "E10",
+      "episode": "E11",
       "category": [
-        "scifi",
-        "drama"
+        "drama",
+        "comedy"
       ],
-      "rating": 7.1,
+      "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
       "tags": [
-        "科幻",
-        "剧情"
+        "剧情",
+        "喜剧"
       ],
       "status": "new",
-      "firstAirDate": "2021-10-21"
+      "firstAirDate": "2023-01-26"
     },
     {
       "id": 72610,
@@ -382,26 +360,48 @@
       "firstAirDate": "2017-08-08"
     },
     {
-      "id": 199318,
-      "title": "Bad Sisters",
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-10-21"
+    },
+    {
+      "id": 203744,
+      "title": "Sugar",
       "season": "S2",
       "episode": "E8",
       "category": [
         "drama",
         "thriller"
       ],
-      "rating": 7.5,
+      "rating": 7.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/PTS8fKn37wen6zIJuB3FVYs2Oy.jpg",
-      "summary": "关系密切的加维姐妹们一直以来互相关照。当她们其中一位的老公突然死亡，他的人寿保险公司为了证明恶意杀人动机的存在而展开了调查，并将怀疑目标锁定一众姐妹，因为她们都有充足理由杀死他。",
-      "updateNote": "最新: 悬念 (2024-12-24) | 共 2 季",
-      "time": "12-24",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
+      "time": "08-06",
       "tags": [
         "剧情",
-        "犯罪"
+        "悬疑"
       ],
-      "status": "ended",
-      "firstAirDate": "2022-08-19"
+      "status": "new",
+      "firstAirDate": "2024-04-04"
     },
     {
       "id": 278624,
