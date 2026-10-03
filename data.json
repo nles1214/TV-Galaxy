@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-10-02T07:47:39.163Z",
+  "updatedAt": "2026-10-03T07:22:01.152Z",
   "count": 20,
   "shows": [
-    {
-      "id": 125988,
-      "title": "末日地堡",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 8.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
-      "summary": "末日后的世界，人类被困在神秘地堡中，与外界隔绝。工程师朱丽叶·尼科尔斯因接连发生的死亡事件展开调查，逐渐揭开地堡社会背后的秘密与真相。该剧基于休·豪伊所著同名畅销科幻系列小说改编。",
-      "updateNote": "最新: 特洛伊 (2026-09-03) | 下集: S4E1 2027-07-08播出 | 共 4 季",
-      "time": "09-03",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-05-04"
-    },
     {
       "id": 97546,
       "title": "Ted Lasso",
@@ -45,6 +23,28 @@
       ],
       "status": "new",
       "firstAirDate": "2020-08-14"
+    },
+    {
+      "id": 125988,
+      "title": "末日地堡",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 8.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
+      "summary": "末日后的世界，人类被困在神秘地堡中，与外界隔绝。工程师朱丽叶·尼科尔斯因接连发生的死亡事件展开调查，逐渐揭开地堡社会背后的秘密与真相。该剧基于休·豪伊所著同名畅销科幻系列小说改编。",
+      "updateNote": "最新: 特洛伊 (2026-09-03) | 下集: S4E1 2027-07-08播出 | 共 4 季",
+      "time": "09-03",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-05-04"
     },
     {
       "id": 95480,
@@ -70,29 +70,6 @@
       "firstAirDate": "2022-04-01"
     },
     {
-      "id": 87917,
-      "title": "For All Mankind",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
-      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
-      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
-      "time": "05-28",
-      "tags": [
-        "剧情",
-        "科幻",
-        "War & Politics"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 196322,
       "title": "Dark Matter",
       "season": "S2",
@@ -115,24 +92,27 @@
       "firstAirDate": "2024-05-07"
     },
     {
-      "id": 250203,
-      "title": "好莱坞好兄弟",
-      "season": "S1",
-      "episode": "E3",
+      "id": 87917,
+      "title": "For All Mankind",
+      "season": "S5",
+      "episode": "E10",
       "category": [
-        "comedy"
+        "drama",
+        "scifi"
       ],
-      "rating": 8.4,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9XGxH25h5o6aycGLnidA5DKomwl.jpg",
-      "summary": "伍迪·哈里森和马修·麦康纳两位相识多年的好友意外得知可能是亲兄弟，在追查身世真相的同时，也卷入家庭纷争与竞选州长的混乱之中。",
-      "updateNote": "最新: 小伍迪 (2026-09-29) | 下集: S1E4 2026-10-06播出 | 共 1 季",
-      "time": "09-29",
+      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
+      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
+      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
+      "time": "05-28",
       "tags": [
-        "喜剧"
+        "剧情",
+        "科幻",
+        "War & Politics"
       ],
       "status": "new",
-      "firstAirDate": "2026-09-22"
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 95396,
@@ -159,28 +139,6 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
-      "time": "09-11",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-09-23"
-    },
-    {
       "id": 90282,
       "title": "The Morning Show",
       "season": "S5",
@@ -201,27 +159,26 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 258230,
-      "title": "最后目击",
-      "season": "S1",
-      "episode": "E5",
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S3",
+      "episode": "E10",
       "category": [
-        "thriller",
+        "scifi",
         "drama"
       ],
-      "rating": 8.2,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
-      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
-      "updateNote": "最新: 先知 (2026-09-30) | 下集: S1E6 2026-10-07播出 | 共 1 季",
-      "time": "09-30",
+      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
+      "time": "09-11",
       "tags": [
-        "犯罪",
-        "剧情",
-        "悬疑"
+        "科幻",
+        "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2026-09-09"
+      "firstAirDate": "2021-09-23"
     },
     {
       "id": 270476,
@@ -248,6 +205,29 @@
       "firstAirDate": "2026-04-28"
     },
     {
+      "id": 258230,
+      "title": "最后目击",
+      "season": "S1",
+      "episode": "E5",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 8.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
+      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
+      "updateNote": "最新: 先知 (2026-09-30) | 下集: S1E6 2026-10-07播出 | 共 1 季",
+      "time": "09-30",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-09-09"
+    },
+    {
       "id": 225171,
       "title": "Pluribus",
       "season": "S1",
@@ -268,6 +248,26 @@
       ],
       "status": "new",
       "firstAirDate": "2025-11-06"
+    },
+    {
+      "id": 250203,
+      "title": "无间兄弟情",
+      "season": "S1",
+      "episode": "E3",
+      "category": [
+        "comedy"
+      ],
+      "rating": 8.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/9XGxH25h5o6aycGLnidA5DKomwl.jpg",
+      "summary": "伍迪·哈里森和马修·麦康纳两位相识多年的好友意外得知可能是亲兄弟，在追查身世真相的同时，也卷入家庭纷争与竞选州长的混乱之中。",
+      "updateNote": "最新: 小伍迪 (2026-09-29) | 下集: S1E4 2026-10-06播出 | 共 1 季",
+      "time": "09-29",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-09-22"
     },
     {
       "id": 80752,
@@ -294,28 +294,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
-    },
-    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -340,26 +318,26 @@
       "firstAirDate": "2023-11-16"
     },
     {
-      "id": 278624,
-      "title": "幸运女神",
-      "season": "S1",
-      "episode": "E7",
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
       "category": [
         "drama",
-        "thriller"
+        "comedy"
       ],
-      "rating": 7.3,
+      "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
-      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
-      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
-      "time": "08-18",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
       "tags": [
         "剧情",
-        "犯罪"
+        "喜剧"
       ],
-      "status": "ended",
-      "firstAirDate": "2026-07-14"
+      "status": "new",
+      "firstAirDate": "2023-01-26"
     },
     {
       "id": 127235,
@@ -406,24 +384,26 @@
       "firstAirDate": "2025-04-10"
     },
     {
-      "id": 197449,
-      "title": "战利品",
-      "season": "S3",
-      "episode": "E10",
+      "id": 278624,
+      "title": "幸运女神",
+      "season": "S1",
+      "episode": "E7",
       "category": [
-        "comedy"
+        "drama",
+        "thriller"
       ],
-      "rating": 6.6,
+      "rating": 7.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/AsssQ8QLO5BY9Gbk5oRcGuXchs0.jpg",
-      "summary": "莫莉·诺瓦克与结婚20年的丈夫离婚后，必须想清楚如何处理她那870亿美元的离婚财产。她决定重新参与自己的慈善基金会，并回归现实世界，同时在这个过程中找到自己。",
-      "updateNote": "最新: 孤注一掷 (2025-12-09) | 共 3 季",
-      "time": "12-09",
+      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
+      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
+      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
+      "time": "08-18",
       "tags": [
-        "喜剧"
+        "剧情",
+        "犯罪"
       ],
-      "status": "new",
-      "firstAirDate": "2022-06-23"
+      "status": "ended",
+      "firstAirDate": "2026-07-14"
     },
     {
       "id": 203744,
@@ -446,6 +426,26 @@
       ],
       "status": "new",
       "firstAirDate": "2024-04-04"
+    },
+    {
+      "id": 197449,
+      "title": "战利品",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "comedy"
+      ],
+      "rating": 6.6,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/AsssQ8QLO5BY9Gbk5oRcGuXchs0.jpg",
+      "summary": "莫莉·诺瓦克与结婚20年的丈夫离婚后，必须想清楚如何处理她那870亿美元的离婚财产。她决定重新参与自己的慈善基金会，并回归现实世界，同时在这个过程中找到自己。",
+      "updateNote": "最新: 孤注一掷 (2025-12-09) | 共 3 季",
+      "time": "12-09",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2022-06-23"
     }
   ]
 }
