@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T07:22:01.152Z",
+  "updatedAt": "2026-10-04T07:37:21.552Z",
   "count": 20,
   "shows": [
     {
@@ -139,26 +139,6 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 93740,
       "title": "Foundation",
       "season": "S3",
@@ -179,6 +159,26 @@
       ],
       "status": "new",
       "firstAirDate": "2021-09-23"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 270476,
@@ -213,7 +213,7 @@
         "thriller",
         "drama"
       ],
-      "rating": 8.2,
+      "rating": 8.4,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
       "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
@@ -294,6 +294,28 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-26"
+    },
+    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -316,28 +338,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-11-16"
-    },
-    {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
     },
     {
       "id": 127235,
@@ -428,24 +428,24 @@
       "firstAirDate": "2024-04-04"
     },
     {
-      "id": 197449,
-      "title": "战利品",
-      "season": "S3",
+      "id": 94951,
+      "title": "神话任务",
+      "season": "S4",
       "episode": "E10",
       "category": [
         "comedy"
       ],
-      "rating": 6.6,
+      "rating": 7.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/AsssQ8QLO5BY9Gbk5oRcGuXchs0.jpg",
-      "summary": "莫莉·诺瓦克与结婚20年的丈夫离婚后，必须想清楚如何处理她那870亿美元的离婚财产。她决定重新参与自己的慈善基金会，并回归现实世界，同时在这个过程中找到自己。",
-      "updateNote": "最新: 孤注一掷 (2025-12-09) | 共 3 季",
-      "time": "12-09",
+      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
+      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
+      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
+      "time": "03-25",
       "tags": [
         "喜剧"
       ],
-      "status": "new",
-      "firstAirDate": "2022-06-23"
+      "status": "ended",
+      "firstAirDate": "2020-02-07"
     }
   ]
 }
