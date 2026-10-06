@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T08:00:47.373Z",
+  "updatedAt": "2026-10-06T08:22:55.187Z",
   "count": 20,
   "shows": [
     {
@@ -205,6 +205,29 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 258230,
+      "title": "最后目击",
+      "season": "S1",
+      "episode": "E5",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 8.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
+      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
+      "updateNote": "最新: 先知 (2026-09-30) | 下集: S1E6 2026-10-07播出 | 共 1 季",
+      "time": "09-30",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-09-09"
+    },
+    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -229,49 +252,6 @@
       "firstAirDate": "2023-11-16"
     },
     {
-      "id": 258230,
-      "title": "最后目击",
-      "season": "S1",
-      "episode": "E5",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 8.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
-      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
-      "updateNote": "最新: 先知 (2026-09-30) | 下集: S1E6 2026-10-07播出 | 共 1 季",
-      "time": "09-30",
-      "tags": [
-        "犯罪",
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-09-09"
-    },
-    {
-      "id": 250203,
-      "title": "无间兄弟情",
-      "season": "S1",
-      "episode": "E3",
-      "category": [
-        "comedy"
-      ],
-      "rating": 8.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9XGxH25h5o6aycGLnidA5DKomwl.jpg",
-      "summary": "伍迪·哈里森和马修·麦康纳两位相识多年的好友意外得知可能是亲兄弟，在追查身世真相的同时，也卷入家庭纷争与竞选州长的混乱之中。",
-      "updateNote": "最新: 小伍迪 (2026-09-29) | 下集: S1E4 2026-10-06播出 | 共 1 季",
-      "time": "09-29",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-09-22"
-    },
-    {
       "id": 225171,
       "title": "Pluribus",
       "season": "S1",
@@ -292,28 +272,6 @@
       ],
       "status": "new",
       "firstAirDate": "2025-11-06"
-    },
-    {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
     },
     {
       "id": 80752,
@@ -340,6 +298,28 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-26"
+    },
+    {
       "id": 127235,
       "title": "Invasion",
       "season": "S3",
@@ -360,6 +340,26 @@
       ],
       "status": "new",
       "firstAirDate": "2021-10-21"
+    },
+    {
+      "id": 250203,
+      "title": "无间兄弟情",
+      "season": "S1",
+      "episode": "E3",
+      "category": [
+        "comedy"
+      ],
+      "rating": 8.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/9XGxH25h5o6aycGLnidA5DKomwl.jpg",
+      "summary": "伍迪·哈里森和马修·麦康纳两位相识多年的好友意外得知可能是亲兄弟，在追查身世真相的同时，也卷入家庭纷争与竞选州长的混乱之中。",
+      "updateNote": "最新: 小伍迪 (2026-09-29) | 下集: S1E4 2026-10-06播出 | 共 1 季",
+      "time": "09-29",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-09-22"
     },
     {
       "id": 241609,
@@ -404,6 +404,26 @@
       "firstAirDate": "2020-02-07"
     },
     {
+      "id": 108664,
+      "title": "医院五日",
+      "season": "S1",
+      "episode": "E8",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.5,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/hQx8TnG8QOswQcEdSdz76nRAxJO.jpg",
+      "summary": "本剧基于飓风卡特里娜引发的相关真实事件改编。面对洪水泛滥、电力中断、气温飙升等恶劣情况时，新奥尔良一家医院精疲力竭的医护人员们被迫做出各种重大、令人心碎的决定。",
+      "updateNote": "最新: 清算 (2022-09-15) | 共 1 季",
+      "time": "09-15",
+      "tags": [
+        "剧情"
+      ],
+      "status": "ended",
+      "firstAirDate": "2022-08-11"
+    },
+    {
       "id": 278624,
       "title": "幸运女神",
       "season": "S1",
@@ -424,28 +444,6 @@
       ],
       "status": "ended",
       "firstAirDate": "2026-07-14"
-    },
-    {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
-      "time": "08-06",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-04-04"
     }
   ]
 }
