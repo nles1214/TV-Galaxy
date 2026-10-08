@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T07:59:04.236Z",
+  "updatedAt": "2026-10-08T08:13:14.510Z",
   "count": 20,
   "shows": [
     {
@@ -70,6 +70,28 @@
       "firstAirDate": "2023-05-04"
     },
     {
+      "id": 196322,
+      "title": "Dark Matter",
+      "season": "S2",
+      "episode": "E6",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
+      "summary": "平行世界的出现，让不同的人生与现实彼此交错。杰森、丹妮拉、阿曼达、瑞恩等人被卷入其中，在无数种可能的人生之间寻找自己的归宿，也重新面对选择、家庭、欲望与真正想要的人生。",
+      "updateNote": "最新: 宇宙由什么构成 (2026-10-01) | 下集: S2E7 2026-10-08播出 | 共 2 季",
+      "time": "10-01",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-05-07"
+    },
+    {
       "id": 87917,
       "title": "For All Mankind",
       "season": "S5",
@@ -93,28 +115,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 196322,
-      "title": "Dark Matter",
-      "season": "S2",
-      "episode": "E6",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-      "summary": "平行世界的出现，让不同的人生与现实彼此交错。杰森、丹妮拉、阿曼达、瑞恩等人被卷入其中，在无数种可能的人生之间寻找自己的归宿，也重新面对选择、家庭、欲望与真正想要的人生。",
-      "updateNote": "最新: 宇宙由什么构成 (2026-10-01) | 下集: S2E7 2026-10-08播出 | 共 2 季",
-      "time": "10-01",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-05-07"
-    },
-    {
       "id": 93740,
       "title": "Foundation",
       "season": "S3",
@@ -135,30 +135,6 @@
       ],
       "status": "new",
       "firstAirDate": "2021-09-23"
-    },
-    {
-      "id": 95396,
-      "title": "Severance",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "thriller",
-        "scifi"
-      ],
-      "rating": 8.4,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/s69hd1WlHYuE4XmAlIm7iAIhuTo.jpg",
-      "summary": "故事发生在一家名为卢蒙的超级大公司内，一种名为记忆分割术的全新技术正在公司内部进行实验，接受了手术的员工将进行人格分离手术，形成公司人格和日常人格，当踏进公司大门的那一刻，他们的日常人格就会陷入沉睡，身体由公司人格主导。相对的，在离开公司的那一刻，日常人格会重新接管身体，当然，这个人格不会记得任何在公司里发生的事情。\n\n马克（亚当·斯科特 Adam Scott 饰）、迪伦（扎克·切利 Zach Cherry 饰）和埃尔文（约翰·特托罗 John Turturro 饰）三人都接受了分离手术，这一天，他们所在的部门迎来了一位名叫海莉（布丽特·洛薇尔 Britt Lower 饰）的新同事，她身上的反叛气质打破了长久萦绕在这个部门，以及整个公司内的平静。",
-      "updateNote": "最新: 冷港 (2025-03-20) | 共 3 季",
-      "time": "03-20",
-      "tags": [
-        "剧情",
-        "悬疑",
-        "科幻"
-      ],
-      "status": "hot",
-      "firstAirDate": "2022-02-17"
     },
     {
       "id": 270476,
@@ -205,6 +181,30 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 95396,
+      "title": "Severance",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller",
+        "scifi"
+      ],
+      "rating": 8.4,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/s69hd1WlHYuE4XmAlIm7iAIhuTo.jpg",
+      "summary": "故事发生在一家名为卢蒙的超级大公司内，一种名为记忆分割术的全新技术正在公司内部进行实验，接受了手术的员工将进行人格分离手术，形成公司人格和日常人格，当踏进公司大门的那一刻，他们的日常人格就会陷入沉睡，身体由公司人格主导。相对的，在离开公司的那一刻，日常人格会重新接管身体，当然，这个人格不会记得任何在公司里发生的事情。\n\n马克（亚当·斯科特 Adam Scott 饰）、迪伦（扎克·切利 Zach Cherry 饰）和埃尔文（约翰·特托罗 John Turturro 饰）三人都接受了分离手术，这一天，他们所在的部门迎来了一位名叫海莉（布丽特·洛薇尔 Britt Lower 饰）的新同事，她身上的反叛气质打破了长久萦绕在这个部门，以及整个公司内的平静。",
+      "updateNote": "最新: 冷港 (2025-03-20) | 共 3 季",
+      "time": "03-20",
+      "tags": [
+        "剧情",
+        "悬疑",
+        "科幻"
+      ],
+      "status": "hot",
+      "firstAirDate": "2022-02-17"
+    },
+    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -229,29 +229,6 @@
       "firstAirDate": "2023-11-16"
     },
     {
-      "id": 258230,
-      "title": "最后目击",
-      "season": "S1",
-      "episode": "E5",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 8.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
-      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
-      "updateNote": "最新: 先知 (2026-09-30) | 下集: S1E6 2026-10-07播出 | 共 1 季",
-      "time": "09-30",
-      "tags": [
-        "犯罪",
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-09-09"
-    },
-    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -274,6 +251,29 @@
       "firstAirDate": "2023-01-26"
     },
     {
+      "id": 258230,
+      "title": "最后目击",
+      "season": "S1",
+      "episode": "E6",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
+      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
+      "updateNote": "最新: 抉择 (2026-10-07) | 共 1 季",
+      "time": "10-07",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-09-09"
+    },
+    {
       "id": 225171,
       "title": "Pluribus",
       "season": "S1",
@@ -294,6 +294,28 @@
       ],
       "status": "new",
       "firstAirDate": "2025-11-06"
+    },
+    {
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-10-21"
     },
     {
       "id": 80752,
@@ -320,48 +342,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-10-21"
-    },
-    {
-      "id": 250203,
-      "title": "无间兄弟情",
-      "season": "S1",
-      "episode": "E4",
-      "category": [
-        "comedy"
-      ],
-      "rating": 8.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9XGxH25h5o6aycGLnidA5DKomwl.jpg",
-      "summary": "伍迪·哈里森和马修·麦康纳两位相识多年的好友意外得知可能是亲兄弟，在追查身世真相的同时，也卷入家庭纷争与竞选州长的混乱之中。",
-      "updateNote": "最新: 乐队 (2026-10-06) | 下集: S1E5 2026-10-13播出 | 共 1 季",
-      "time": "10-06",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-09-22"
-    },
-    {
       "id": 241609,
       "title": "掩耳盗邻",
       "season": "S2",
@@ -382,6 +362,26 @@
       ],
       "status": "new",
       "firstAirDate": "2025-04-10"
+    },
+    {
+      "id": 250203,
+      "title": "无间兄弟情",
+      "season": "S1",
+      "episode": "E4",
+      "category": [
+        "comedy"
+      ],
+      "rating": 8.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/9XGxH25h5o6aycGLnidA5DKomwl.jpg",
+      "summary": "伍迪·哈里森和马修·麦康纳两位相识多年的好友意外得知可能是亲兄弟，在追查身世真相的同时，也卷入家庭纷争与竞选州长的混乱之中。",
+      "updateNote": "最新: 乐队 (2026-10-06) | 下集: S1E5 2026-10-13播出 | 共 1 季",
+      "time": "10-06",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-09-22"
     },
     {
       "id": 203744,
@@ -406,24 +406,26 @@
       "firstAirDate": "2024-04-04"
     },
     {
-      "id": 94951,
-      "title": "神话任务",
-      "season": "S4",
-      "episode": "E10",
+      "id": 278624,
+      "title": "幸运女神",
+      "season": "S1",
+      "episode": "E7",
       "category": [
-        "comedy"
+        "drama",
+        "thriller"
       ],
-      "rating": 7.2,
+      "rating": 7.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
-      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
-      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
-      "time": "03-25",
+      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
+      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
+      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
+      "time": "08-18",
       "tags": [
-        "喜剧"
+        "剧情",
+        "犯罪"
       ],
       "status": "ended",
-      "firstAirDate": "2020-02-07"
+      "firstAirDate": "2026-07-14"
     },
     {
       "id": 108664,
