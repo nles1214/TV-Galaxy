@@ -1,7 +1,30 @@
 {
-  "updatedAt": "2026-10-08T08:13:14.510Z",
+  "updatedAt": "2026-10-09T08:14:13.227Z",
   "count": 20,
   "shows": [
+    {
+      "id": 95480,
+      "title": "Slow Horses",
+      "season": "S6",
+      "episode": "E4",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
+      "summary": "该剧根据米克·赫伦的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
+      "updateNote": "最新: 失而复得 (2026-10-07) | 下集: S6E5 2026-10-14播出 | 共 6 季",
+      "time": "10-07",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2022-04-01"
+    },
     {
       "id": 97546,
       "title": "Ted Lasso",
@@ -23,29 +46,6 @@
       ],
       "status": "hot",
       "firstAirDate": "2020-08-14"
-    },
-    {
-      "id": 95480,
-      "title": "Slow Horses",
-      "season": "S6",
-      "episode": "E3",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
-      "summary": "该剧根据米克·赫伦的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
-      "updateNote": "最新: 死而复生 (2026-09-30) | 下集: S6E4 2026-10-07播出 | 共 6 季",
-      "time": "09-30",
-      "tags": [
-        "犯罪",
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2022-04-01"
     },
     {
       "id": 125988,
@@ -73,7 +73,7 @@
       "id": 196322,
       "title": "Dark Matter",
       "season": "S2",
-      "episode": "E6",
+      "episode": "E7",
       "category": [
         "scifi",
         "drama"
@@ -82,8 +82,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
       "summary": "平行世界的出现，让不同的人生与现实彼此交错。杰森、丹妮拉、阿曼达、瑞恩等人被卷入其中，在无数种可能的人生之间寻找自己的归宿，也重新面对选择、家庭、欲望与真正想要的人生。",
-      "updateNote": "最新: 宇宙由什么构成 (2026-10-01) | 下集: S2E7 2026-10-08播出 | 共 2 季",
-      "time": "10-01",
+      "updateNote": "最新: 金字塔 (2026-10-08) | 下集: S2E8 2026-10-15播出 | 共 2 季",
+      "time": "10-08",
       "tags": [
         "科幻",
         "剧情"
@@ -137,50 +137,6 @@
       "firstAirDate": "2021-09-23"
     },
     {
-      "id": 270476,
-      "title": "寡妇湾",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "comedy",
-        "thriller"
-      ],
-      "rating": 8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-      "summary": "新英格兰小岛寡妇湾长期流传着关于诅咒的传说。市长汤姆·洛夫蒂斯试图将小岛打造为旅游胜地，却在游客涌入后接连遭遇一系列诡异事件。随着事态不断失控，笼罩小岛的神秘传说逐渐成为现实。",
-      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
-      "time": "06-16",
-      "tags": [
-        "剧情",
-        "喜剧",
-        "悬疑"
-      ],
-      "status": "hot",
-      "firstAirDate": "2026-04-28"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 95396,
       "title": "Severance",
       "season": "S3",
@@ -203,6 +159,49 @@
       ],
       "status": "hot",
       "firstAirDate": "2022-02-17"
+    },
+    {
+      "id": 258230,
+      "title": "最后目击",
+      "season": "S1",
+      "episode": "E6",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.6,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
+      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
+      "updateNote": "最新: 抉择 (2026-10-07) | 共 1 季",
+      "time": "10-07",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-09-09"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 202411,
@@ -229,6 +228,30 @@
       "firstAirDate": "2023-11-16"
     },
     {
+      "id": 270476,
+      "title": "寡妇湾",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "comedy",
+        "thriller"
+      ],
+      "rating": 8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+      "summary": "新英格兰小岛寡妇湾长期流传着关于诅咒的传说。市长汤姆·洛夫蒂斯试图将小岛打造为旅游胜地，却在游客涌入后接连遭遇一系列诡异事件。随着事态不断失控，笼罩小岛的神秘传说逐渐成为现实。",
+      "updateNote": "最新: 希望您旅行愉快 (2026-06-16) | 共 2 季",
+      "time": "06-16",
+      "tags": [
+        "剧情",
+        "喜剧",
+        "悬疑"
+      ],
+      "status": "hot",
+      "firstAirDate": "2026-04-28"
+    },
+    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -249,51 +272,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-01-26"
-    },
-    {
-      "id": 258230,
-      "title": "最后目击",
-      "season": "S1",
-      "episode": "E6",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
-      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
-      "updateNote": "最新: 抉择 (2026-10-07) | 共 1 季",
-      "time": "10-07",
-      "tags": [
-        "犯罪",
-        "剧情",
-        "悬疑"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-09-09"
-    },
-    {
-      "id": 225171,
-      "title": "Pluribus",
-      "season": "S1",
-      "episode": "E9",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
-      "summary": "天文学家发现神秘信号后，一种外星病毒迅速感染人类，将绝大多数人连接成共享意识的“联合体”。小说家卡萝尔·斯图尔卡却对病毒免疫，成为少数保持独立意识的人，并试图阻止全人类被“幸福”彻底同化。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
-      "tags": [
-        "剧情",
-        "科幻"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-11-06"
     },
     {
       "id": 127235,
@@ -342,6 +320,28 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
+      "summary": "天文学家发现神秘信号后，一种外星病毒迅速感染人类，将绝大多数人连接成共享意识的“联合体”。小说家卡萝尔·斯图尔卡却对病毒免疫，成为少数保持独立意识的人，并试图阻止全人类被“幸福”彻底同化。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-11-06"
+    },
+    {
       "id": 241609,
       "title": "掩耳盗邻",
       "season": "S2",
@@ -350,7 +350,7 @@
         "drama",
         "thriller"
       ],
-      "rating": 7.8,
+      "rating": 7.7,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
       "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
@@ -384,6 +384,26 @@
       "firstAirDate": "2026-09-22"
     },
     {
+      "id": 94951,
+      "title": "神话任务",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "comedy"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
+      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
+      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
+      "time": "03-25",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "ended",
+      "firstAirDate": "2020-02-07"
+    },
+    {
       "id": 203744,
       "title": "Sugar",
       "season": "S2",
@@ -392,7 +412,7 @@
         "drama",
         "thriller"
       ],
-      "rating": 7.2,
+      "rating": 7.1,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
       "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
@@ -426,26 +446,6 @@
       ],
       "status": "ended",
       "firstAirDate": "2026-07-14"
-    },
-    {
-      "id": 108664,
-      "title": "医院五日",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.5,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/hQx8TnG8QOswQcEdSdz76nRAxJO.jpg",
-      "summary": "本剧基于飓风卡特里娜引发的相关真实事件改编。面对洪水泛滥、电力中断、气温飙升等恶劣情况时，新奥尔良一家医院精疲力竭的医护人员们被迫做出各种重大、令人心碎的决定。",
-      "updateNote": "最新: 清算 (2022-09-15) | 共 1 季",
-      "time": "09-15",
-      "tags": [
-        "剧情"
-      ],
-      "status": "ended",
-      "firstAirDate": "2022-08-11"
     }
   ]
 }
