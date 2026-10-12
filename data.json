@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T08:04:28.504Z",
+  "updatedAt": "2026-10-12T08:21:18.764Z",
   "count": 20,
   "shows": [
     {
@@ -33,7 +33,7 @@
         "thriller",
         "drama"
       ],
-      "rating": 8,
+      "rating": 8.1,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/xPrBhPFundGRzXRZiRknxieycdQ.jpg",
       "summary": "该剧根据米克·赫伦的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
@@ -185,53 +185,6 @@
       "firstAirDate": "2026-04-28"
     },
     {
-      "id": 258230,
-      "title": "最后目击",
-      "season": "S1",
-      "episode": "E6",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
-      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
-      "updateNote": "最新: 抉择 (2026-10-07) | 共 1 季",
-      "time": "10-07",
-      "tags": [
-        "犯罪",
-        "剧情",
-        "悬疑"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-09-09"
-    },
-    {
-      "id": 202411,
-      "title": "Monarch: Legacy of Monsters",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama",
-        "action"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
-      "summary": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
-      "updateNote": "最新: 归属之地 (2026-04-30) | 共 2 季",
-      "time": "04-30",
-      "tags": [
-        "科幻",
-        "剧情",
-        "动作"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-11-16"
-    },
-    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -252,6 +205,29 @@
       ],
       "status": "new",
       "firstAirDate": "2023-01-26"
+    },
+    {
+      "id": 258230,
+      "title": "最后目击",
+      "season": "S1",
+      "episode": "E6",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.6,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/fvfkAqD1Q1GfdZv3Pew95lmMe6u.jpg",
+      "summary": "紧急报案中心调度员伊恩接到一通少女的求助电话，深信对方就是失踪多年的女儿玛吉，于是不惜一切展开追寻。",
+      "updateNote": "最新: 抉择 (2026-10-07) | 共 1 季",
+      "time": "10-07",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "ended",
+      "firstAirDate": "2026-09-09"
     },
     {
       "id": 90282,
@@ -298,6 +274,30 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 202411,
+      "title": "Monarch: Legacy of Monsters",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama",
+        "action"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
+      "summary": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
+      "updateNote": "最新: 归属之地 (2026-04-30) | 共 2 季",
+      "time": "04-30",
+      "tags": [
+        "科幻",
+        "剧情",
+        "动作"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-11-16"
+    },
+    {
       "id": 127235,
       "title": "Invasion",
       "season": "S3",
@@ -318,6 +318,28 @@
       ],
       "status": "new",
       "firstAirDate": "2021-10-21"
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
+      "summary": "天文学家发现神秘信号后，一种外星病毒迅速感染人类，将绝大多数人连接成共享意识的“联合体”。小说家卡萝尔·斯图尔卡却对病毒免疫，成为少数保持独立意识的人，并试图阻止全人类被“幸福”彻底同化。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-11-06"
     },
     {
       "id": 241609,
@@ -342,26 +364,46 @@
       "firstAirDate": "2025-04-10"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
+      "id": 197449,
+      "title": "战利品",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "comedy"
+      ],
+      "rating": 6.6,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/AsssQ8QLO5BY9Gbk5oRcGuXchs0.jpg",
+      "summary": "莫莉·诺瓦克与结婚20年的丈夫离婚后，必须想清楚如何处理她那870亿美元的离婚财产。她决定重新参与自己的慈善基金会，并回归现实世界，同时在这个过程中找到自己。",
+      "updateNote": "最新: 孤注一掷 (2025-12-09) | 共 3 季",
+      "time": "12-09",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2022-06-23"
+    },
+    {
+      "id": 245318,
+      "title": "玛戈没钱了",
       "season": "S1",
-      "episode": "E9",
+      "episode": "E8",
       "category": [
         "drama",
-        "scifi"
+        "comedy"
       ],
       "rating": 7.9,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
-      "summary": "天文学家发现神秘信号后，一种外星病毒迅速感染人类，将绝大多数人连接成共享意识的“联合体”。小说家卡萝尔·斯图尔卡却对病毒免疫，成为少数保持独立意识的人，并试图阻止全人类被“幸福”彻底同化。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
+      "poster": "https://image.tmdb.org/t/p/w300/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
+      "summary": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
+      "updateNote": "最新: 蓄势待发 (2026-05-19) | 共 1 季",
+      "time": "05-19",
       "tags": [
         "剧情",
-        "科幻"
+        "喜剧"
       ],
       "status": "new",
-      "firstAirDate": "2025-11-06"
+      "firstAirDate": "2026-04-14"
     },
     {
       "id": 156933,
@@ -404,48 +446,6 @@
       ],
       "status": "new",
       "firstAirDate": "2026-09-22"
-    },
-    {
-      "id": 197449,
-      "title": "战利品",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "comedy"
-      ],
-      "rating": 6.6,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/AsssQ8QLO5BY9Gbk5oRcGuXchs0.jpg",
-      "summary": "莫莉·诺瓦克与结婚20年的丈夫离婚后，必须想清楚如何处理她那870亿美元的离婚财产。她决定重新参与自己的慈善基金会，并回归现实世界，同时在这个过程中找到自己。",
-      "updateNote": "最新: 孤注一掷 (2025-12-09) | 共 3 季",
-      "time": "12-09",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2022-06-23"
-    },
-    {
-      "id": 278624,
-      "title": "幸运女神",
-      "season": "S1",
-      "episode": "E7",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/9gCX7hf1nDovg3E5WHRzxFdzOm1.jpg",
-      "summary": "一宗涉及数百万美元的劫案搞砸后，骗徒幸儿被迫亡命天涯。在联邦调查局与冷血黑帮大佬的夹击下，幸儿必须为生存而战，设法逃出生天。",
-      "updateNote": "最新: 好景不常 (2026-08-18) | 共 1 季",
-      "time": "08-18",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-07-14"
     }
   ]
 }
