@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T06:25:40.463Z",
+  "updatedAt": "2026-10-18T06:50:17.111Z",
   "count": 20,
   "shows": [
     {
@@ -70,6 +70,28 @@
       "firstAirDate": "2023-05-04"
     },
     {
+      "id": 196322,
+      "title": "Dark Matter",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
+      "summary": "平行世界的出现，让不同的人生与现实彼此交错。杰森、丹妮拉、阿曼达、瑞恩等人被卷入其中，在无数种可能的人生之间寻找自己的归宿，也重新面对选择、家庭、欲望与真正想要的人生。",
+      "updateNote": "最新: 万物一体 (2026-10-15) | 下集: S2E9 2026-10-22播出 | 共 2 季",
+      "time": "10-15",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-05-07"
+    },
+    {
       "id": 87917,
       "title": "For All Mankind",
       "season": "S5",
@@ -93,28 +115,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 196322,
-      "title": "Dark Matter",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-      "summary": "平行世界的出现，让不同的人生与现实彼此交错。杰森、丹妮拉、阿曼达、瑞恩等人被卷入其中，在无数种可能的人生之间寻找自己的归宿，也重新面对选择、家庭、欲望与真正想要的人生。",
-      "updateNote": "最新: 万物一体 (2026-10-15) | 下集: S2E9 2026-10-22播出 | 共 2 季",
-      "time": "10-15",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-05-07"
-    },
-    {
       "id": 245318,
       "title": "玛戈没钱了",
       "season": "S1",
@@ -135,6 +135,28 @@
       ],
       "status": "new",
       "firstAirDate": "2026-04-14"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
+      "time": "09-11",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-09-23"
     },
     {
       "id": 95396,
@@ -161,28 +183,6 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
-      "time": "09-11",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-09-23"
-    },
-    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -203,6 +203,28 @@
       ],
       "status": "new",
       "firstAirDate": "2023-01-26"
+    },
+    {
+      "id": 127641,
+      "title": "表象之下",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 6.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/37UacJ0h3QBYnmAtaH6H3ZC1A2u.jpg",
+      "summary": "苏菲因遭受头部外伤导致失去记忆，而这据说是因为她自杀未遂的结果。在丈夫和朋友的帮助下，苏菲开始将她的生活片段重新组合起来，但渐渐地，她质疑起她所听到的真相是否真的是她所经历的过往。",
+      "updateNote": "最新: 真相大白 (2025-04-10) | 共 2 季",
+      "time": "04-10",
+      "tags": [
+        "剧情",
+        "悬疑"
+      ],
+      "status": "ended",
+      "firstAirDate": "2022-07-28"
     },
     {
       "id": 202411,
@@ -229,6 +251,46 @@
       "firstAirDate": "2023-11-16"
     },
     {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！剧集由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭和史蒂夫·卡瑞尔领衔主演，以大胆直接的拍摄手法透视当代职场百态。",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 248287,
+      "title": "STEVE! (martin) a documentary in 2 pieces",
+      "season": "S1",
+      "episode": "E2",
+      "category": [
+        "doc"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/z3NnQ4iVarQiZTl6hxiWocozvIB.jpg",
+      "summary": "史蒂夫‧马丁是娱乐圈最受欢迎、最神秘的人物之一，本片从现在和过去这两个角度切入他超凡的人生故事，马丁回顾他的事业起步是如何带他走向今日这个意料之外的充实人生。",
+      "updateNote": "最新: 第 2 集 (2024-03-28) | 共 1 季",
+      "time": "03-28",
+      "tags": [
+        "纪录"
+      ],
+      "status": "ended",
+      "firstAirDate": "2024-03-28"
+    },
+    {
       "id": 247767,
       "title": "The Studio",
       "season": "S2",
@@ -249,28 +311,6 @@
       ],
       "status": "new",
       "firstAirDate": "2025-03-25"
-    },
-    {
-      "id": 127641,
-      "title": "表象之下",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 6.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/37UacJ0h3QBYnmAtaH6H3ZC1A2u.jpg",
-      "summary": "苏菲因遭受头部外伤导致失去记忆，而这据说是因为她自杀未遂的结果。在丈夫和朋友的帮助下，苏菲开始将她的生活片段重新组合起来，但渐渐地，她质疑起她所听到的真相是否真的是她所经历的过往。",
-      "updateNote": "最新: 真相大白 (2025-04-10) | 共 2 季",
-      "time": "04-10",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "ended",
-      "firstAirDate": "2022-07-28"
     },
     {
       "id": 241609,
@@ -317,6 +357,50 @@
       "firstAirDate": "2024-07-18"
     },
     {
+      "id": 94951,
+      "title": "神话任务",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "comedy"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
+      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
+      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
+      "time": "03-25",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "ended",
+      "firstAirDate": "2020-02-07"
+    },
+    {
+      "id": 80752,
+      "title": "See",
+      "season": "S3",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "scifi",
+        "action"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/tzyJtfTLnAzBIrPBlEZin8Pk1mV.jpg",
+      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
+      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
+      "time": "10-13",
+      "tags": [
+        "剧情",
+        "科幻",
+        "动作"
+      ],
+      "status": "ended",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 117303,
       "title": "Lessons in Chemistry",
       "season": "S1",
@@ -335,28 +419,6 @@
       ],
       "status": "ended",
       "firstAirDate": "2023-10-12"
-    },
-    {
-      "id": 130853,
-      "title": "坏猴子",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "comedy",
-        "thriller"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xhf51wDfNUZpYTj87JAda5PaXcD.jpg",
-      "summary": "在佛罗里达州南部，一位游客钓鱼时发现一只断胳膊后，一名前警探转职的餐馆稽查员被卷入了一个贪婪和腐败的世界。是的，还有一只猴子。",
-      "updateNote": "最新: 我们从事回忆制造业务 (2024-10-08) | 下集: S2E1 2026-12-01播出 | 共 2 季",
-      "time": "10-08",
-      "tags": [
-        "喜剧",
-        "犯罪"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-08-13"
     },
     {
       "id": 270476,
@@ -381,68 +443,6 @@
       ],
       "status": "hot",
       "firstAirDate": "2026-04-28"
-    },
-    {
-      "id": 156933,
-      "title": "Presumed Innocent",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/6NmTbdNlvpKRxh5PPyj6GT8C37d.jpg",
-      "summary": "一桩骇人听闻的谋杀案闹得芝加哥检察官办公室天翻地覆，因为该办公室的一名成员成了这起犯罪的嫌疑人，使其不得不为维系家庭而战。\n\n该剧改编自斯考特·杜罗所著同名小说，讲述芝加哥检察官办公室发生了一起可怕的谋杀案后，检察官之一拉斯蒂·萨比奇(吉伦哈尔)成了犯罪嫌疑人。在被告为维持家庭和婚姻而奋斗的过程中，探索痴迷、性、政治以及爱情的力量和局限性。\n\n内伽饰演拉斯蒂妻子芭芭拉，是名艺术家、画廊老板和母亲，她的生活在丈夫被指控谋杀他的情妇后被颠覆了，她在处理受伤的心和破碎的婚姻时也为家人而战，并与丈夫广为人知的审判作斗争。",
-      "updateNote": "最新: 裁决 (2024-07-23) | 共 1 季",
-      "time": "07-23",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-06-11"
-    },
-    {
-      "id": 94951,
-      "title": "神话任务",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "comedy"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/lKTtSpxE0YiP0ZNubPRF9BYmu8M.jpg",
-      "summary": "这部剧集将以McElhenney饰演的游戏研发工作室创意总监Ian Grimm为中心人物，带来九集幽默的影集内容，看看研发团队在负责一款广受欢迎的多人线上游戏时所面临的众多挑战，在这个忙着打造游戏世界、塑造英雄角色与创造史诗故事的工作场域中，最大的战争并没有发生在游戏，而是出现在办公室中。",
-      "updateNote": "最新: 天堂与地狱 (2025-03-25) | 共 4 季",
-      "time": "03-25",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "ended",
-      "firstAirDate": "2020-02-07"
-    },
-    {
-      "id": 248287,
-      "title": "STEVE! (martin) a documentary in 2 pieces",
-      "season": "S1",
-      "episode": "E2",
-      "category": [
-        "doc"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/z3NnQ4iVarQiZTl6hxiWocozvIB.jpg",
-      "summary": "史蒂夫‧马丁是娱乐圈最受欢迎、最神秘的人物之一，本片从现在和过去这两个角度切入他超凡的人生故事，马丁回顾他的事业起步是如何带他走向今日这个意料之外的充实人生。",
-      "updateNote": "最新: 第 2 集 (2024-03-28) | 共 1 季",
-      "time": "03-28",
-      "tags": [
-        "纪录"
-      ],
-      "status": "ended",
-      "firstAirDate": "2024-03-28"
     }
   ]
 }
