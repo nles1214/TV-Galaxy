@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T07:48:51.453Z",
+  "updatedAt": "2026-11-01T08:29:30.334Z",
   "count": 20,
   "shows": [
     {
@@ -70,6 +70,29 @@
       "firstAirDate": "2023-05-04"
     },
     {
+      "id": 292741,
+      "title": "夜曲",
+      "season": "S1",
+      "episode": "E2",
+      "category": [
+        "thriller",
+        "drama"
+      ],
+      "rating": 7.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/mHlARApb69J39NfmqKHseOghFJO.jpg",
+      "summary": "改编自拉尔斯·克卜勒的小说《拉撒路》和《睡魔》。恶名昭彰的连环杀手尤里克·沃尔特的一名受害者意外生还，警探乔纳·林分秒必争务求找出唯一仍然失踪的人，同时他的徒弟萨加·鲍尔则充当卧底，试图从杀手身上获得答案。",
+      "updateNote": "最新: 适逢其时 (2026-10-29) | 下集: S1E3 2026-11-05播出 | 共 1 季",
+      "time": "10-29",
+      "tags": [
+        "犯罪",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-10-29"
+    },
+    {
       "id": 196322,
       "title": "Dark Matter",
       "season": "S2",
@@ -90,6 +113,29 @@
       ],
       "status": "new",
       "firstAirDate": "2024-05-07"
+    },
+    {
+      "id": 87917,
+      "title": "For All Mankind",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
+      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
+      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
+      "time": "05-28",
+      "tags": [
+        "剧情",
+        "科幻",
+        "War & Politics"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 95396,
@@ -114,29 +160,6 @@
       ],
       "status": "hot",
       "firstAirDate": "2022-02-17"
-    },
-    {
-      "id": 87917,
-      "title": "For All Mankind",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/eZpq7owpTlR3Gj9zWNdcGNJtgzX.jpg",
-      "summary": "假如全球太空竞赛一直没有结束，世界会是怎样的光景？这部扣人心弦的架空历史剧由罗纳德D.摩尔（《古战场传奇》、《太空堡垒卡拉狄加》）打造，呈现了美国航空航天局的宇航员所面对的高风险和他们的家庭生活。",
-      "updateNote": "最新: 此乃吾土 (2026-05-28) | 共 5 季",
-      "time": "05-28",
-      "tags": [
-        "剧情",
-        "科幻",
-        "War & Politics"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
     },
     {
       "id": 93740,
@@ -231,6 +254,28 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
+      "category": [
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.9,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
+      "summary": "天文学家发现神秘信号后，一种外星病毒迅速感染人类，将绝大多数人连接成共享意识的“联合体”。小说家卡萝尔·斯图尔卡却对病毒免疫，成为少数保持独立意识的人，并试图阻止全人类被“幸福”彻底同化。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
+      "tags": [
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-11-06"
+    },
+    {
       "id": 46518,
       "title": "Masters of the Air",
       "season": "S1",
@@ -270,70 +315,6 @@
       ],
       "status": "new",
       "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 225171,
-      "title": "Pluribus",
-      "season": "S1",
-      "episode": "E9",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
-      "summary": "天文学家发现神秘信号后，一种外星病毒迅速感染人类，将绝大多数人连接成共享意识的“联合体”。小说家卡萝尔·斯图尔卡却对病毒免疫，成为少数保持独立意识的人，并试图阻止全人类被“幸福”彻底同化。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
-      "tags": [
-        "剧情",
-        "科幻"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-11-06"
-    },
-    {
-      "id": 277439,
-      "title": "恐怖角",
-      "season": "S1",
-      "episode": "E10",
-      "category": [
-        "thriller",
-        "drama"
-      ],
-      "rating": 7.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
-      "time": "07-30",
-      "tags": [
-        "犯罪",
-        "剧情"
-      ],
-      "status": "ended",
-      "firstAirDate": "2026-06-04"
-    },
-    {
-      "id": 110382,
-      "title": "Pachinko",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/41ktiaqjVdR3OWe1XZnKTVscU8T.jpg",
-      "summary": "改编自《纽约时报》畅销小说，这个影响范围广大的传奇故事记录了一个韩国移民家庭四代人背井离乡、顽强求生和发展过程中有关希望和梦想的点点滴滴。",
-      "updateNote": "最新: 第 16 章 (2024-10-10) | 共 2 季",
-      "time": "10-10",
-      "tags": [
-        "剧情"
-      ],
-      "status": "ended",
-      "firstAirDate": "2022-03-24"
     },
     {
       "id": 202411,
@@ -382,26 +363,26 @@
       "firstAirDate": "2021-10-21"
     },
     {
-      "id": 247767,
-      "title": "The Studio",
-      "season": "S2",
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
       "episode": "E10",
       "category": [
-        "comedy",
+        "thriller",
         "drama"
       ],
-      "rating": 7.8,
+      "rating": 7.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/6Wvg47LBf3NNzjaceersIns8atu.jpg",
-      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
-      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
-      "time": "05-20",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
+      "time": "07-30",
       "tags": [
-        "喜剧",
+        "犯罪",
         "剧情"
       ],
-      "status": "new",
-      "firstAirDate": "2025-03-25"
+      "status": "ended",
+      "firstAirDate": "2026-06-04"
     },
     {
       "id": 201289,
@@ -424,6 +405,28 @@
       ],
       "status": "new",
       "firstAirDate": "2023-04-13"
+    },
+    {
+      "id": 241609,
+      "title": "掩耳盗邻",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
+      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
+      "time": "06-04",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-04-10"
     },
     {
       "id": 203744,
