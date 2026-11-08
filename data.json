@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T08:04:52.332Z",
+  "updatedAt": "2026-11-08T08:23:34.659Z",
   "count": 20,
   "shows": [
     {
@@ -138,6 +138,28 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
+      "time": "09-11",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-09-23"
+    },
+    {
       "id": 248830,
       "title": "Stick",
       "season": "S2",
@@ -184,72 +206,6 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
-      "time": "09-11",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-09-23"
-    },
-    {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-10-21"
-    },
-    {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
-    },
-    {
       "id": 270476,
       "title": "寡妇湾",
       "season": "S2",
@@ -274,6 +230,28 @@
       "firstAirDate": "2026-04-28"
     },
     {
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
+      "category": [
+        "drama",
+        "comedy"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-01-26"
+    },
+    {
       "id": 80752,
       "title": "See",
       "season": "S3",
@@ -295,26 +273,6 @@
         "动作"
       ],
       "status": "ended",
-      "firstAirDate": "2019-11-01"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
       "firstAirDate": "2019-11-01"
     },
     {
@@ -342,6 +300,48 @@
       "firstAirDate": "2023-11-16"
     },
     {
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-10-21"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 250203,
       "title": "Brothers",
       "season": "S1",
@@ -362,28 +362,25 @@
       "firstAirDate": "2026-09-22"
     },
     {
-      "id": 241554,
-      "title": "Murderbot",
+      "id": 46518,
+      "title": "Masters of the Air",
       "season": "S1",
-      "episode": "E10",
+      "episode": "E9",
       "category": [
-        "comedy",
-        "drama",
-        "scifi"
+        "drama"
       ],
-      "rating": 7.3,
+      "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/3NJpcIDR2PGfJ8OoXoyP1XP21n0.jpg",
-      "summary": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
-      "updateNote": "最新: 边界危局 (2025-07-10) | 共 1 季",
-      "time": "07-10",
+      "poster": "https://image.tmdb.org/t/p/w300/nfXMImXVd0Jp1H0wbWFKMKin4Yi.jpg",
+      "summary": "本剧由《兄弟连》和《太平洋战争》的制片人史蒂文·斯皮尔伯格、汤姆·汉克斯和加里·高兹曼联袂打造。第二次世界大战期间，第100轰炸机大队的飞行员出生入死，用勇气、牺牲和胜利建立一段兄弟情谊。",
+      "updateNote": "最新: 第 9 集 (2024-03-14) | 共 1 季",
+      "time": "03-14",
       "tags": [
-        "喜剧",
         "剧情",
-        "科幻"
+        "War & Politics"
       ],
-      "status": "new",
-      "firstAirDate": "2025-05-15"
+      "status": "ended",
+      "firstAirDate": "2024-01-25"
     },
     {
       "id": 241609,
@@ -408,25 +405,28 @@
       "firstAirDate": "2025-04-10"
     },
     {
-      "id": 46518,
-      "title": "Masters of the Air",
+      "id": 241554,
+      "title": "Murderbot",
       "season": "S1",
-      "episode": "E9",
+      "episode": "E10",
       "category": [
-        "drama"
+        "comedy",
+        "drama",
+        "scifi"
       ],
-      "rating": 7.8,
+      "rating": 7.3,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/nfXMImXVd0Jp1H0wbWFKMKin4Yi.jpg",
-      "summary": "本剧由《兄弟连》和《太平洋战争》的制片人史蒂文·斯皮尔伯格、汤姆·汉克斯和加里·高兹曼联袂打造。第二次世界大战期间，第100轰炸机大队的飞行员出生入死，用勇气、牺牲和胜利建立一段兄弟情谊。",
-      "updateNote": "最新: 第 9 集 (2024-03-14) | 共 1 季",
-      "time": "03-14",
+      "poster": "https://image.tmdb.org/t/p/w300/3NJpcIDR2PGfJ8OoXoyP1XP21n0.jpg",
+      "summary": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
+      "updateNote": "最新: 边界危局 (2025-07-10) | 共 1 季",
+      "time": "07-10",
       "tags": [
+        "喜剧",
         "剧情",
-        "War & Politics"
+        "科幻"
       ],
-      "status": "ended",
-      "firstAirDate": "2024-01-25"
+      "status": "new",
+      "firstAirDate": "2025-05-15"
     },
     {
       "id": 247767,
