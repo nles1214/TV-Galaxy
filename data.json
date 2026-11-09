@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T08:23:34.659Z",
+  "updatedAt": "2026-11-09T08:54:29.978Z",
   "count": 20,
   "shows": [
     {
@@ -48,6 +48,28 @@
       "firstAirDate": "2020-08-14"
     },
     {
+      "id": 125988,
+      "title": "末日地堡",
+      "season": "S4",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 8.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
+      "summary": "末日后的世界，人类被困在神秘地堡中，与外界隔绝。工程师朱丽叶·尼科尔斯因接连发生的死亡事件展开调查，逐渐揭开地堡社会背后的秘密与真相。该剧基于休·豪伊所著同名畅销科幻系列小说改编。",
+      "updateNote": "最新: 特洛伊 (2026-09-03) | 下集: S4E1 2027-07-08播出 | 共 4 季",
+      "time": "09-03",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-05-04"
+    },
+    {
       "id": 292741,
       "title": "夜曲",
       "season": "S1",
@@ -69,28 +91,6 @@
       ],
       "status": "new",
       "firstAirDate": "2026-10-29"
-    },
-    {
-      "id": 125988,
-      "title": "末日地堡",
-      "season": "S4",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 8.2,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/gSvAV1uyOisUNnzND9XQbDTNMg4.jpg",
-      "summary": "末日后的世界，人类被困在神秘地堡中，与外界隔绝。工程师朱丽叶·尼科尔斯因接连发生的死亡事件展开调查，逐渐揭开地堡社会背后的秘密与真相。该剧基于休·豪伊所著同名畅销科幻系列小说改编。",
-      "updateNote": "最新: 特洛伊 (2026-09-03) | 下集: S4E1 2027-07-08播出 | 共 4 季",
-      "time": "09-03",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-05-04"
     },
     {
       "id": 196322,
@@ -138,28 +138,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
-      "time": "09-11",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-09-23"
-    },
-    {
       "id": 248830,
       "title": "Stick",
       "season": "S2",
@@ -204,6 +182,28 @@
       ],
       "status": "hot",
       "firstAirDate": "2022-02-17"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "summary": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "updateNote": "最新: 黑暗时代 (2025-09-11) | 共 3 季",
+      "time": "09-11",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-09-23"
     },
     {
       "id": 270476,
@@ -342,26 +342,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 250203,
-      "title": "Brothers",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "comedy"
-      ],
-      "rating": 7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/ufmWEWEMCbIKBNgmDwLF4OfD5eq.jpg",
-      "summary": "伍迪·哈里森和马修·麦康纳两位相识多年的好友意外得知可能是亲兄弟，在追查身世真相的同时，也卷入家庭纷争与竞选州长的混乱之中。",
-      "updateNote": "最新: 又再三上路 (2026-11-03) | 共 1 季",
-      "time": "11-03",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-09-22"
-    },
-    {
       "id": 46518,
       "title": "Masters of the Air",
       "season": "S1",
@@ -381,6 +361,26 @@
       ],
       "status": "ended",
       "firstAirDate": "2024-01-25"
+    },
+    {
+      "id": 250203,
+      "title": "Brothers",
+      "season": "S1",
+      "episode": "E8",
+      "category": [
+        "comedy"
+      ],
+      "rating": 7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/ufmWEWEMCbIKBNgmDwLF4OfD5eq.jpg",
+      "summary": "伍迪·哈里森和马修·麦康纳两位相识多年的好友意外得知可能是亲兄弟，在追查身世真相的同时，也卷入家庭纷争与竞选州长的混乱之中。",
+      "updateNote": "最新: 又再三上路 (2026-11-03) | 共 1 季",
+      "time": "11-03",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-09-22"
     },
     {
       "id": 241609,
@@ -405,50 +405,48 @@
       "firstAirDate": "2025-04-10"
     },
     {
-      "id": 241554,
-      "title": "Murderbot",
+      "id": 225171,
+      "title": "Pluribus",
       "season": "S1",
-      "episode": "E10",
+      "episode": "E9",
       "category": [
-        "comedy",
         "drama",
         "scifi"
       ],
-      "rating": 7.3,
+      "rating": 7.9,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/3NJpcIDR2PGfJ8OoXoyP1XP21n0.jpg",
-      "summary": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
-      "updateNote": "最新: 边界危局 (2025-07-10) | 共 1 季",
-      "time": "07-10",
+      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
+      "summary": "天文学家发现神秘信号后，一种外星病毒迅速感染人类，将绝大多数人连接成共享意识的“联合体”。小说家卡萝尔·斯图尔卡却对病毒免疫，成为少数保持独立意识的人，并试图阻止全人类被“幸福”彻底同化。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
       "tags": [
-        "喜剧",
         "剧情",
         "科幻"
       ],
       "status": "new",
-      "firstAirDate": "2025-05-15"
+      "firstAirDate": "2025-11-06"
     },
     {
-      "id": 247767,
-      "title": "The Studio",
-      "season": "S2",
+      "id": 277439,
+      "title": "恐怖角",
+      "season": "S1",
       "episode": "E10",
       "category": [
-        "comedy",
+        "thriller",
         "drama"
       ],
-      "rating": 7.8,
+      "rating": 7.2,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/mtZeezyuSIC4D6CUpEThDdsicUf.jpg",
-      "summary": "马特是一位新上任的电影制片公司负责人，为了获得各路名流的认可，他和大陆影业的执行团队必须在公司利益和创意追求之间寻求平衡，同时还要力图为电影制作注入新的生机和活力，并与时俱进。",
-      "updateNote": "最新: 展示 (2025-05-20) | 共 2 季",
-      "time": "05-20",
+      "poster": "https://image.tmdb.org/t/p/w300/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "summary": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "updateNote": "最新: 刽子手 (2026-07-30) | 共 1 季",
+      "time": "07-30",
       "tags": [
-        "喜剧",
+        "犯罪",
         "剧情"
       ],
-      "status": "new",
-      "firstAirDate": "2025-03-25"
+      "status": "ended",
+      "firstAirDate": "2026-06-04"
     }
   ]
 }
