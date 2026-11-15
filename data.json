@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T08:23:05.431Z",
+  "updatedAt": "2026-11-15T08:40:17.857Z",
   "count": 20,
   "shows": [
     {
@@ -57,11 +57,11 @@
         "thriller",
         "drama"
       ],
-      "rating": 5.2,
+      "rating": 5.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/bG4h6C6wRKmf3ryz8gdN6imXW4c.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
       "summary": "一宗劫案，经历12个月密谋、12小时行动。盗贼若在12天内逃过法网，就会从此逍遥法外。故事横跨三条惊心动魄的时间线，一名联邦探员与一名职业罪犯在欧洲展开生死追逐。",
-      "updateNote": "最新: 我要拿回我的光环 (2026-11-12) | 下集: S1E3 2026-11-19播出 | 共 1 季",
+      "updateNote": "最新: 夺回光环 (2026-11-12) | 下集: S1E3 2026-11-19播出 | 共 1 季",
       "time": "11-12",
       "tags": [
         "动作",
@@ -102,7 +102,7 @@
         "thriller",
         "drama"
       ],
-      "rating": 7.7,
+      "rating": 7.5,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mHlARApb69J39NfmqKHseOghFJO.jpg",
       "summary": "改编自拉尔斯·克卜勒的小说《拉撒路》和《睡魔》。恶名昭彰的连环杀手尤里克·沃尔特的一名受害者意外生还，警探乔纳·林分秒必争务求找出唯一仍然失踪的人，同时他的徒弟萨加·鲍尔则充当卧底，试图从杀手身上获得答案。",
@@ -163,28 +163,6 @@
       "firstAirDate": "2022-02-17"
     },
     {
-      "id": 196322,
-      "title": "Dark Matter",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-      "summary": "物理学教授杰森被另一个平行世界的自己绑架，失去了原本的家庭和人生。为了回到妻子丹妮拉与儿子查理身边，他进入神秘的穿越装置「盒子」，在无数平行宇宙中寻找回家的路，却意外引发多个版本的自己争夺同一个人生。随着平行世界逐渐失控，杰森一家被卷入一场关于身份、选择与命运的生存危机。",
-      "updateNote": "最新: 无法平静的生活 (2026-10-29) | 共 2 季",
-      "time": "10-29",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-05-07"
-    },
-    {
       "id": 87917,
       "title": "For All Mankind",
       "season": "S5",
@@ -208,6 +186,28 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 196322,
+      "title": "Dark Matter",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.8,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
+      "summary": "物理学教授杰森被另一个平行世界的自己绑架，失去了原本的家庭和人生。为了回到妻子丹妮拉与儿子查理身边，他进入神秘的穿越装置「盒子」，在无数平行宇宙中寻找回家的路，却意外引发多个版本的自己争夺同一个人生。随着平行世界逐渐失控，杰森一家被卷入一场关于身份、选择与命运的生存危机。",
+      "updateNote": "最新: 无法平静的生活 (2026-10-29) | 共 2 季",
+      "time": "10-29",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-05-07"
+    },
+    {
       "id": 93740,
       "title": "Foundation",
       "season": "S3",
@@ -228,6 +228,28 @@
       ],
       "status": "new",
       "firstAirDate": "2021-09-23"
+    },
+    {
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-10-21"
     },
     {
       "id": 202411,
@@ -254,26 +276,50 @@
       "firstAirDate": "2023-11-16"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
-      "episode": "E10",
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
+      "episode": "E8",
       "category": [
-        "scifi",
-        "drama"
+        "drama",
+        "thriller"
       ],
       "rating": 7.1,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
+      "time": "08-06",
       "tags": [
-        "科幻",
-        "剧情"
+        "剧情",
+        "悬疑"
       ],
       "status": "new",
-      "firstAirDate": "2021-10-21"
+      "firstAirDate": "2024-04-04"
+    },
+    {
+      "id": 80752,
+      "title": "See",
+      "season": "S3",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "scifi",
+        "action"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/tzyJtfTLnAzBIrPBlEZin8Pk1mV.jpg",
+      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
+      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
+      "time": "10-13",
+      "tags": [
+        "剧情",
+        "科幻",
+        "动作"
+      ],
+      "status": "ended",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 90282,
@@ -320,30 +366,6 @@
       "firstAirDate": "2026-04-28"
     },
     {
-      "id": 80752,
-      "title": "See",
-      "season": "S3",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "scifi",
-        "action"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/tzyJtfTLnAzBIrPBlEZin8Pk1mV.jpg",
-      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
-      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
-      "time": "10-13",
-      "tags": [
-        "剧情",
-        "科幻",
-        "动作"
-      ],
-      "status": "ended",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -364,26 +386,6 @@
       ],
       "status": "new",
       "firstAirDate": "2023-01-26"
-    },
-    {
-      "id": 250203,
-      "title": "Brothers",
-      "season": "S1",
-      "episode": "E8",
-      "category": [
-        "comedy"
-      ],
-      "rating": 6.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/ufmWEWEMCbIKBNgmDwLF4OfD5eq.jpg",
-      "summary": "伍迪·哈里森和马修·麦康纳两位相识多年的好友意外得知可能是亲兄弟，在追查身世真相的同时，也卷入家庭纷争与竞选州长的混乱之中。",
-      "updateNote": "最新: 又再三上路 (2026-11-03) | 共 1 季",
-      "time": "11-03",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-09-22"
     },
     {
       "id": 241609,
