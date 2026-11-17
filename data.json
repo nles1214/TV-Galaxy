@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T08:50:04.509Z",
+  "updatedAt": "2026-11-17T09:56:38.639Z",
   "count": 20,
   "shows": [
     {
@@ -12,7 +12,7 @@
         "thriller",
         "drama"
       ],
-      "rating": 5.6,
+      "rating": 6.2,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
       "summary": "一宗劫案，经历12个月密谋、12小时行动。盗贼若在12天内逃过法网，就会从此逍遥法外。故事横跨三条惊心动魄的时间线，一名联邦探员与一名职业罪犯在欧洲展开生死追逐。",
@@ -102,7 +102,7 @@
         "thriller",
         "drama"
       ],
-      "rating": 7.5,
+      "rating": 7.6,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mHlARApb69J39NfmqKHseOghFJO.jpg",
       "summary": "改编自拉尔斯·克卜勒的小说《拉撒路》和《睡魔》。恶名昭彰的连环杀手尤里克·沃尔特的一名受害者意外生还，警探乔纳·林分秒必争务求找出唯一仍然失踪的人，同时他的徒弟萨加·鲍尔则充当卧底，试图从杀手身上获得答案。",
@@ -252,30 +252,6 @@
       "firstAirDate": "2021-10-21"
     },
     {
-      "id": 80752,
-      "title": "See",
-      "season": "S3",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "scifi",
-        "action"
-      ],
-      "rating": 8.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/tzyJtfTLnAzBIrPBlEZin8Pk1mV.jpg",
-      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
-      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
-      "time": "10-13",
-      "tags": [
-        "剧情",
-        "科幻",
-        "动作"
-      ],
-      "status": "ended",
-      "firstAirDate": "2019-11-01"
-    },
-    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -298,6 +274,30 @@
       ],
       "status": "new",
       "firstAirDate": "2023-11-16"
+    },
+    {
+      "id": 80752,
+      "title": "See",
+      "season": "S3",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "scifi",
+        "action"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/tzyJtfTLnAzBIrPBlEZin8Pk1mV.jpg",
+      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
+      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
+      "time": "10-13",
+      "tags": [
+        "剧情",
+        "科幻",
+        "动作"
+      ],
+      "status": "ended",
+      "firstAirDate": "2019-11-01"
     },
     {
       "id": 270476,
@@ -366,6 +366,30 @@
       "firstAirDate": "2023-01-26"
     },
     {
+      "id": 241554,
+      "title": "Murderbot",
+      "season": "S1",
+      "episode": "E10",
+      "category": [
+        "comedy",
+        "drama",
+        "scifi"
+      ],
+      "rating": 7.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/3NJpcIDR2PGfJ8OoXoyP1XP21n0.jpg",
+      "summary": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
+      "updateNote": "最新: 边界危局 (2025-07-10) | 共 1 季",
+      "time": "07-10",
+      "tags": [
+        "喜剧",
+        "剧情",
+        "科幻"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-05-15"
+    },
+    {
       "id": 203744,
       "title": "Sugar",
       "season": "S2",
@@ -430,26 +454,6 @@
       ],
       "status": "new",
       "firstAirDate": "2025-11-06"
-    },
-    {
-      "id": 72610,
-      "title": "拼车K歌秀",
-      "season": "S5",
-      "episode": "E22",
-      "category": [
-        "comedy"
-      ],
-      "rating": 6.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/bA6tpDMoyQO8fRmXC8sHh7LQoqW.jpg",
-      "summary": "苹果已经进入了原创影视制作，并在苹果音乐客户端中播出，其最引人关注的原创节目是云集了大牌明星的《顺风车卡拉OK》（Carpool Karaoke）。\n\n　　这一剧集每一集长度为20分钟，每一集将有一位大牌明星出场，在搭乘顺风车的过程中和司机飙歌。《顺风车卡拉OK》在过去的播出过程中引发轰动，而苹果获得了本季节目的版权。",
-      "updateNote": "最新: 第 22 集 (2023-06-22) | 共 5 季",
-      "time": "06-22",
-      "tags": [
-        "喜剧"
-      ],
-      "status": "ended",
-      "firstAirDate": "2017-08-08"
     }
   ]
 }
