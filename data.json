@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T09:56:38.639Z",
+  "updatedAt": "2026-11-18T09:32:31.408Z",
   "count": 20,
   "shows": [
     {
@@ -12,7 +12,7 @@
         "thriller",
         "drama"
       ],
-      "rating": 6.2,
+      "rating": 6.4,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
       "summary": "一宗劫案，经历12个月密谋、12小时行动。盗贼若在12天内逃过法网，就会从此逍遥法外。故事横跨三条惊心动魄的时间线，一名联邦探员与一名职业罪犯在欧洲展开生死追逐。",
@@ -102,7 +102,7 @@
         "thriller",
         "drama"
       ],
-      "rating": 7.6,
+      "rating": 7.5,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mHlARApb69J39NfmqKHseOghFJO.jpg",
       "summary": "改编自拉尔斯·克卜勒的小说《拉撒路》和《睡魔》。恶名昭彰的连环杀手尤里克·沃尔特的一名受害者意外生还，警探乔纳·林分秒必争务求找出唯一仍然失踪的人，同时他的徒弟萨加·鲍尔则充当卧底，试图从杀手身上获得答案。",
@@ -120,17 +120,17 @@
       "id": 248830,
       "title": "Stick",
       "season": "S2",
-      "episode": "E3",
+      "episode": "E4",
       "category": [
         "comedy",
         "drama"
       ],
-      "rating": 7.3,
+      "rating": 7.4,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mmYoSZ23E3KcBaRpYkdSO6DRgTw.jpg",
       "summary": "前职业高尔夫球手普莱斯·卡希尔在职业生涯受挫、婚姻破裂后，决定培养一名天赋出众却问题缠身的17岁少年桑提。在高尔夫球场内外，两人逐渐建立起特殊的关系，也各自寻找人生的新方向。",
-      "updateNote": "最新: 巴奇出高徒 (2026-11-10) | 下集: S2E4 2026-11-17播出 | 共 2 季",
-      "time": "11-10",
+      "updateNote": "最新: 小不哥 (2026-11-17) | 下集: S2E5 2026-11-24播出 | 共 2 季",
+      "time": "11-17",
       "tags": [
         "喜剧",
         "剧情"
@@ -186,28 +186,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 196322,
-      "title": "Dark Matter",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
-      "summary": "物理学教授杰森被另一个平行世界的自己绑架，失去了原本的家庭和人生。为了回到妻子丹妮拉与儿子查理身边，他进入神秘的穿越装置「盒子」，在无数平行宇宙中寻找回家的路，却意外引发多个版本的自己争夺同一个人生。随着平行世界逐渐失控，杰森一家被卷入一场关于身份、选择与命运的生存危机。",
-      "updateNote": "最新: 无法平静的生活 (2026-10-29) | 共 2 季",
-      "time": "10-29",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-05-07"
-    },
-    {
       "id": 93740,
       "title": "Foundation",
       "season": "S3",
@@ -230,26 +208,26 @@
       "firstAirDate": "2021-09-23"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
+      "id": 196322,
+      "title": "Dark Matter",
+      "season": "S2",
       "episode": "E10",
       "category": [
         "scifi",
         "drama"
       ],
-      "rating": 7,
+      "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
+      "poster": "https://image.tmdb.org/t/p/w300/vD7dohDoe2zF2XVqIfBrjMlXgQF.jpg",
+      "summary": "物理学教授杰森被另一个平行世界的自己绑架，失去了原本的家庭和人生。为了回到妻子丹妮拉与儿子查理身边，他进入神秘的穿越装置「盒子」，在无数平行宇宙中寻找回家的路，却意外引发多个版本的自己争夺同一个人生。随着平行世界逐渐失控，杰森一家被卷入一场关于身份、选择与命运的生存危机。",
+      "updateNote": "最新: 无法平静的生活 (2026-10-29) | 共 2 季",
+      "time": "10-29",
       "tags": [
         "科幻",
         "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2021-10-21"
+      "firstAirDate": "2024-05-07"
     },
     {
       "id": 202411,
@@ -276,6 +254,28 @@
       "firstAirDate": "2023-11-16"
     },
     {
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama"
+      ],
+      "rating": 7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
+      "tags": [
+        "科幻",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2021-10-21"
+    },
+    {
       "id": 80752,
       "title": "See",
       "season": "S3",
@@ -297,6 +297,50 @@
         "动作"
       ],
       "status": "ended",
+      "firstAirDate": "2019-11-01"
+    },
+    {
+      "id": 234800,
+      "title": "Curses!",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "scifi",
+        "drama",
+        "action"
+      ],
+      "rating": 6.3,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/xzoLfvQdEU4cxh26Udq5avGhcJe.jpg",
+      "summary": "范德哈文一家与平常家庭没两样，可最近家中宠妻爱子的丈夫和父亲亚历克斯却因为遭受诅咒而变成了石头。为了救他，他的妻子和孩子们开启了一场惊险万分的冒险之旅，以便将祖先所盗走的古代文物一一归还。",
+      "updateNote": "最新: 萨尔贡王座 (2024-10-03) | 共 2 季",
+      "time": "10-03",
+      "tags": [
+        "动画",
+        "儿童",
+        "动作"
+      ],
+      "status": "new",
+      "firstAirDate": "2023-10-26"
+    },
+    {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
       "firstAirDate": "2019-11-01"
     },
     {
@@ -322,26 +366,6 @@
       ],
       "status": "hot",
       "firstAirDate": "2026-04-28"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
     },
     {
       "id": 136311,
@@ -388,28 +412,6 @@
       ],
       "status": "new",
       "firstAirDate": "2025-05-15"
-    },
-    {
-      "id": 203744,
-      "title": "Sugar",
-      "season": "S2",
-      "episode": "E8",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
-      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
-      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
-      "time": "08-06",
-      "tags": [
-        "剧情",
-        "悬疑"
-      ],
-      "status": "new",
-      "firstAirDate": "2024-04-04"
     },
     {
       "id": 241609,
