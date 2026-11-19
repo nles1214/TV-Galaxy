@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T09:32:31.408Z",
+  "updatedAt": "2026-11-19T09:41:38.613Z",
   "count": 20,
   "shows": [
     {
@@ -102,7 +102,7 @@
         "thriller",
         "drama"
       ],
-      "rating": 7.5,
+      "rating": 7.6,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mHlARApb69J39NfmqKHseOghFJO.jpg",
       "summary": "改编自拉尔斯·克卜勒的小说《拉撒路》和《睡魔》。恶名昭彰的连环杀手尤里克·沃尔特的一名受害者意外生还，警探乔纳·林分秒必争务求找出唯一仍然失踪的人，同时他的徒弟萨加·鲍尔则充当卧底，试图从杀手身上获得答案。",
@@ -125,7 +125,7 @@
         "comedy",
         "drama"
       ],
-      "rating": 7.4,
+      "rating": 7.3,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mmYoSZ23E3KcBaRpYkdSO6DRgTw.jpg",
       "summary": "前职业高尔夫球手普莱斯·卡希尔在职业生涯受挫、婚姻破裂后，决定培养一名天赋出众却问题缠身的17岁少年桑提。在高尔夫球场内外，两人逐渐建立起特殊的关系，也各自寻找人生的新方向。",
@@ -254,28 +254,6 @@
       "firstAirDate": "2023-11-16"
     },
     {
-      "id": 127235,
-      "title": "Invasion",
-      "season": "S3",
-      "episode": "E10",
-      "category": [
-        "scifi",
-        "drama"
-      ],
-      "rating": 7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
-      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
-      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
-      "time": "10-23",
-      "tags": [
-        "科幻",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2021-10-21"
-    },
-    {
       "id": 80752,
       "title": "See",
       "season": "S3",
@@ -300,48 +278,26 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 234800,
-      "title": "Curses!",
-      "season": "S2",
+      "id": 127235,
+      "title": "Invasion",
+      "season": "S3",
       "episode": "E10",
       "category": [
         "scifi",
-        "drama",
-        "action"
-      ],
-      "rating": 6.3,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xzoLfvQdEU4cxh26Udq5avGhcJe.jpg",
-      "summary": "范德哈文一家与平常家庭没两样，可最近家中宠妻爱子的丈夫和父亲亚历克斯却因为遭受诅咒而变成了石头。为了救他，他的妻子和孩子们开启了一场惊险万分的冒险之旅，以便将祖先所盗走的古代文物一一归还。",
-      "updateNote": "最新: 萨尔贡王座 (2024-10-03) | 共 2 季",
-      "time": "10-03",
-      "tags": [
-        "动画",
-        "儿童",
-        "动作"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-10-26"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
         "drama"
       ],
-      "rating": 7.7,
+      "rating": 7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
+      "poster": "https://image.tmdb.org/t/p/w300/cKDdeHU8uRn1p8pLCqqFRNKkZGc.jpg",
+      "summary": "对人类生存构成威胁的外星物种访问地球。身处世界不同角落的五个普通人努力理解自己周围不断发生的混乱状况时，剧集通过他们的视角将各种事件一一实时展开。",
+      "updateNote": "最新: 尽头 (2025-10-23) | 共 3 季",
+      "time": "10-23",
       "tags": [
+        "科幻",
         "剧情"
       ],
       "status": "new",
-      "firstAirDate": "2019-11-01"
+      "firstAirDate": "2021-10-21"
     },
     {
       "id": 270476,
@@ -368,6 +324,26 @@
       "firstAirDate": "2026-04-28"
     },
     {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 136311,
       "title": "Shrinking",
       "season": "S3",
@@ -388,6 +364,28 @@
       ],
       "status": "new",
       "firstAirDate": "2023-01-26"
+    },
+    {
+      "id": 241609,
+      "title": "掩耳盗邻",
+      "season": "S2",
+      "episode": "E10",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
+      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
+      "time": "06-04",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "new",
+      "firstAirDate": "2025-04-10"
     },
     {
       "id": 241554,
@@ -414,28 +412,6 @@
       "firstAirDate": "2025-05-15"
     },
     {
-      "id": 241609,
-      "title": "掩耳盗邻",
-      "season": "S2",
-      "episode": "E10",
-      "category": [
-        "drama",
-        "thriller"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/xq3pITy5MUv8eE33ybjokuhxlHe.jpg",
-      "summary": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
-      "updateNote": "最新: 猎人之夜 (2026-06-04) | 共 2 季",
-      "time": "06-04",
-      "tags": [
-        "剧情",
-        "犯罪"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-04-10"
-    },
-    {
       "id": 225171,
       "title": "Pluribus",
       "season": "S1",
@@ -456,6 +432,26 @@
       ],
       "status": "new",
       "firstAirDate": "2025-11-06"
+    },
+    {
+      "id": 72610,
+      "title": "拼车K歌秀",
+      "season": "S5",
+      "episode": "E22",
+      "category": [
+        "comedy"
+      ],
+      "rating": 6.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/bA6tpDMoyQO8fRmXC8sHh7LQoqW.jpg",
+      "summary": "苹果已经进入了原创影视制作，并在苹果音乐客户端中播出，其最引人关注的原创节目是云集了大牌明星的《顺风车卡拉OK》（Carpool Karaoke）。\n\n　　这一剧集每一集长度为20分钟，每一集将有一位大牌明星出场，在搭乘顺风车的过程中和司机飙歌。《顺风车卡拉OK》在过去的播出过程中引发轰动，而苹果获得了本季节目的版权。",
+      "updateNote": "最新: 第 22 集 (2023-06-22) | 共 5 季",
+      "time": "06-22",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "ended",
+      "firstAirDate": "2017-08-08"
     }
   ]
 }
