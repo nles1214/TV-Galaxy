@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-11-19T09:41:38.613Z",
+  "updatedAt": "2026-11-20T09:29:21.665Z",
   "count": 20,
   "shows": [
     {
       "id": 254630,
       "title": "12 12 12",
       "season": "S1",
-      "episode": "E2",
+      "episode": "E3",
       "category": [
         "action",
         "thriller",
         "drama"
       ],
-      "rating": 6.4,
+      "rating": 6.1,
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
       "summary": "一宗劫案，经历12个月密谋、12小时行动。盗贼若在12天内逃过法网，就会从此逍遥法外。故事横跨三条惊心动魄的时间线，一名联邦探员与一名职业罪犯在欧洲展开生死追逐。",
-      "updateNote": "最新: 夺回光环 (2026-11-12) | 下集: S1E3 2026-11-19播出 | 共 1 季",
-      "time": "11-12",
+      "updateNote": "最新: 爽到飞起 (2026-11-19) | 下集: S1E4 2026-11-26播出 | 共 1 季",
+      "time": "11-19",
       "tags": [
         "动作",
         "犯罪",
@@ -97,7 +97,7 @@
       "id": 292741,
       "title": "夜曲",
       "season": "S1",
-      "episode": "E4",
+      "episode": "E5",
       "category": [
         "thriller",
         "drama"
@@ -106,8 +106,8 @@
       "source": "Apple TV+",
       "poster": "https://image.tmdb.org/t/p/w300/mHlARApb69J39NfmqKHseOghFJO.jpg",
       "summary": "改编自拉尔斯·克卜勒的小说《拉撒路》和《睡魔》。恶名昭彰的连环杀手尤里克·沃尔特的一名受害者意外生还，警探乔纳·林分秒必争务求找出唯一仍然失踪的人，同时他的徒弟萨加·鲍尔则充当卧底，试图从杀手身上获得答案。",
-      "updateNote": "最新: 送信人 (2026-11-12) | 下集: S1E5 2026-11-19播出 | 共 1 季",
-      "time": "11-12",
+      "updateNote": "最新: 孤军作战 (2026-11-19) | 下集: S1E6 2026-11-26播出 | 共 1 季",
+      "time": "11-19",
       "tags": [
         "犯罪",
         "剧情",
@@ -300,6 +300,26 @@
       "firstAirDate": "2021-10-21"
     },
     {
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
+      "category": [
+        "drama"
+      ],
+      "rating": 7.7,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
+      "tags": [
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 270476,
       "title": "寡妇湾",
       "season": "S2",
@@ -322,26 +342,6 @@
       ],
       "status": "hot",
       "firstAirDate": "2026-04-28"
-    },
-    {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
-      "category": [
-        "drama"
-      ],
-      "rating": 7.7,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
-      "tags": [
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2019-11-01"
     },
     {
       "id": 136311,
@@ -412,28 +412,6 @@
       "firstAirDate": "2025-05-15"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "season": "S1",
-      "episode": "E9",
-      "category": [
-        "drama",
-        "scifi"
-      ],
-      "rating": 7.9,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
-      "summary": "天文学家发现神秘信号后，一种外星病毒迅速感染人类，将绝大多数人连接成共享意识的“联合体”。小说家卡萝尔·斯图尔卡却对病毒免疫，成为少数保持独立意识的人，并试图阻止全人类被“幸福”彻底同化。",
-      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
-      "time": "12-23",
-      "tags": [
-        "剧情",
-        "科幻"
-      ],
-      "status": "new",
-      "firstAirDate": "2025-11-06"
-    },
-    {
       "id": 72610,
       "title": "拼车K歌秀",
       "season": "S5",
@@ -452,6 +430,28 @@
       ],
       "status": "ended",
       "firstAirDate": "2017-08-08"
+    },
+    {
+      "id": 203744,
+      "title": "Sugar",
+      "season": "S2",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "thriller"
+      ],
+      "rating": 7.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/u4uF5A3lkVFTcubBhrgm8WbCz9v.jpg",
+      "summary": "故事背景设定在洛杉矶，讲述一位神秘的私家侦探在与个人心魔斗争的同时，调查一位好莱坞制片人心爱孙女的失踪案。",
+      "updateNote": "最新: 似曾相识 (2026-08-06) | 共 2 季",
+      "time": "08-06",
+      "tags": [
+        "剧情",
+        "悬疑"
+      ],
+      "status": "new",
+      "firstAirDate": "2024-04-04"
     }
   ]
 }
