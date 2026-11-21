@@ -1,31 +1,7 @@
 {
-  "updatedAt": "2026-11-20T09:29:21.665Z",
+  "updatedAt": "2026-11-21T09:00:03.494Z",
   "count": 20,
   "shows": [
-    {
-      "id": 254630,
-      "title": "12 12 12",
-      "season": "S1",
-      "episode": "E3",
-      "category": [
-        "action",
-        "thriller",
-        "drama"
-      ],
-      "rating": 6.1,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
-      "summary": "一宗劫案，经历12个月密谋、12小时行动。盗贼若在12天内逃过法网，就会从此逍遥法外。故事横跨三条惊心动魄的时间线，一名联邦探员与一名职业罪犯在欧洲展开生死追逐。",
-      "updateNote": "最新: 爽到飞起 (2026-11-19) | 下集: S1E4 2026-11-26播出 | 共 1 季",
-      "time": "11-19",
-      "tags": [
-        "动作",
-        "犯罪",
-        "剧情"
-      ],
-      "status": "new",
-      "firstAirDate": "2026-11-12"
-    },
     {
       "id": 95480,
       "title": "Slow Horses",
@@ -48,6 +24,30 @@
       ],
       "status": "hot",
       "firstAirDate": "2022-04-01"
+    },
+    {
+      "id": 254630,
+      "title": "12 12 12",
+      "season": "S1",
+      "episode": "E3",
+      "category": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "rating": 6.2,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "summary": "一宗劫案，经历12个月密谋、12小时行动。盗贼若在12天内逃过法网，就会从此逍遥法外。故事横跨三条惊心动魄的时间线，一名联邦探员与一名职业罪犯在欧洲展开生死追逐。",
+      "updateNote": "最新: 爽到飞起 (2026-11-19) | 下集: S1E4 2026-11-26播出 | 共 1 季",
+      "time": "11-19",
+      "tags": [
+        "动作",
+        "犯罪",
+        "剧情"
+      ],
+      "status": "new",
+      "firstAirDate": "2026-11-12"
     },
     {
       "id": 97546,
@@ -230,6 +230,30 @@
       "firstAirDate": "2024-05-07"
     },
     {
+      "id": 80752,
+      "title": "See",
+      "season": "S3",
+      "episode": "E8",
+      "category": [
+        "drama",
+        "scifi",
+        "action"
+      ],
+      "rating": 8.1,
+      "source": "Apple TV+",
+      "poster": "https://image.tmdb.org/t/p/w300/tzyJtfTLnAzBIrPBlEZin8Pk1mV.jpg",
+      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
+      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
+      "time": "10-13",
+      "tags": [
+        "剧情",
+        "科幻",
+        "动作"
+      ],
+      "status": "ended",
+      "firstAirDate": "2019-11-01"
+    },
+    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "season": "S2",
@@ -254,27 +278,23 @@
       "firstAirDate": "2023-11-16"
     },
     {
-      "id": 80752,
-      "title": "See",
-      "season": "S3",
-      "episode": "E8",
+      "id": 90282,
+      "title": "The Morning Show",
+      "season": "S5",
+      "episode": "E10",
       "category": [
-        "drama",
-        "scifi",
-        "action"
+        "drama"
       ],
-      "rating": 8.1,
+      "rating": 7.7,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/tzyJtfTLnAzBIrPBlEZin8Pk1mV.jpg",
-      "summary": "该剧由《浴血黑帮》编剧斯蒂文·奈特担任制作人，弗朗西斯·劳伦斯([红雀])执导，奈特与劳伦斯共同操刀剧本。剧集讲述在未来的世界，人类失去了视力，社会必须找到新的方式来交流互动、捕猎与生存。一对有视力的双胞胎诞生，所有这一切都受到挑战。莫玛将饰演一个无所畏惧的战士、领导者和守护人。",
-      "updateNote": "最新: 我看见你 (2022-10-13) | 共 3 季",
-      "time": "10-13",
+      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
+      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！",
+      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
+      "time": "11-18",
       "tags": [
-        "剧情",
-        "科幻",
-        "动作"
+        "剧情"
       ],
-      "status": "ended",
+      "status": "new",
       "firstAirDate": "2019-11-01"
     },
     {
@@ -300,24 +320,26 @@
       "firstAirDate": "2021-10-21"
     },
     {
-      "id": 90282,
-      "title": "The Morning Show",
-      "season": "S5",
-      "episode": "E10",
+      "id": 136311,
+      "title": "Shrinking",
+      "season": "S3",
+      "episode": "E11",
       "category": [
-        "drama"
+        "drama",
+        "comedy"
       ],
-      "rating": 7.7,
+      "rating": 7.8,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/cfQiG7vE5yCqftnhNXu64f3qYLa.jpg",
-      "summary": "让我们揭开帷幕，聚焦每晨陪伴大众迎接新一天的新闻主播，走近早间新闻节目的台前幕后！",
-      "updateNote": "最新: 明知故犯 (2025-11-18) | 共 5 季",
-      "time": "11-18",
+      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
+      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
+      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
+      "time": "04-07",
       "tags": [
-        "剧情"
+        "剧情",
+        "喜剧"
       ],
       "status": "new",
-      "firstAirDate": "2019-11-01"
+      "firstAirDate": "2023-01-26"
     },
     {
       "id": 270476,
@@ -342,28 +364,6 @@
       ],
       "status": "hot",
       "firstAirDate": "2026-04-28"
-    },
-    {
-      "id": 136311,
-      "title": "Shrinking",
-      "season": "S3",
-      "episode": "E11",
-      "category": [
-        "drama",
-        "comedy"
-      ],
-      "rating": 7.8,
-      "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/rmKIFxoBNHQBtsux2Pjob6AP3rl.jpg",
-      "summary": "吉米在担当爸爸、朋友和心理治疗师的同时，还要痛苦地哀悼亡妻。他决定尝试一种新的方式来对待所遇到的每一个人：毫不留情地直话直说。他能通过助人来助己吗？这能让他的人生恢复光明吗？",
-      "updateNote": "最新: 时间到了 (2026-04-07) | 共 3 季",
-      "time": "04-07",
-      "tags": [
-        "剧情",
-        "喜剧"
-      ],
-      "status": "new",
-      "firstAirDate": "2023-01-26"
     },
     {
       "id": 241609,
@@ -412,24 +412,26 @@
       "firstAirDate": "2025-05-15"
     },
     {
-      "id": 72610,
-      "title": "拼车K歌秀",
-      "season": "S5",
-      "episode": "E22",
+      "id": 225171,
+      "title": "Pluribus",
+      "season": "S1",
+      "episode": "E9",
       "category": [
-        "comedy"
+        "drama",
+        "scifi"
       ],
-      "rating": 6.1,
+      "rating": 7.9,
       "source": "Apple TV+",
-      "poster": "https://image.tmdb.org/t/p/w300/bA6tpDMoyQO8fRmXC8sHh7LQoqW.jpg",
-      "summary": "苹果已经进入了原创影视制作，并在苹果音乐客户端中播出，其最引人关注的原创节目是云集了大牌明星的《顺风车卡拉OK》（Carpool Karaoke）。\n\n　　这一剧集每一集长度为20分钟，每一集将有一位大牌明星出场，在搭乘顺风车的过程中和司机飙歌。《顺风车卡拉OK》在过去的播出过程中引发轰动，而苹果获得了本季节目的版权。",
-      "updateNote": "最新: 第 22 集 (2023-06-22) | 共 5 季",
-      "time": "06-22",
+      "poster": "https://image.tmdb.org/t/p/w300/4ieJBJeq97e6KGrndAL6ZAgtRmi.jpg",
+      "summary": "天文学家发现神秘信号后，一种外星病毒迅速感染人类，将绝大多数人连接成共享意识的“联合体”。小说家卡萝尔·斯图尔卡却对病毒免疫，成为少数保持独立意识的人，并试图阻止全人类被“幸福”彻底同化。",
+      "updateNote": "最新: 女孩或世界 (2025-12-23) | 共 1 季",
+      "time": "12-23",
       "tags": [
-        "喜剧"
+        "剧情",
+        "科幻"
       ],
-      "status": "ended",
-      "firstAirDate": "2017-08-08"
+      "status": "new",
+      "firstAirDate": "2025-11-06"
     },
     {
       "id": 203744,
